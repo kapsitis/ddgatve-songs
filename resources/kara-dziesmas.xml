@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<book>
+
+<title>Kara dziesmas</title>
+<subtitle></subtitle>
+<location>Rīga</location>
+<publisher>Apgāds www.dudajevagatve.lv</publisher>
+<year>2012</year>
+
+<edition-notice>
+Izdošanas datums: 2012.gada 19.jūnijs
+</edition-notice> 
+
+
+<foreword>
+// //
+</foreword>
+
+<section id="A">
+<title>Tautasdziesmas</title>
+<song dir="songs" id="AiBaliniAiBalini"/>
+<song dir="songs" id="AizTiemKalnuKalniem"/>
+<song dir="songs" id="ApkartKalnuGaju"/>
+<song dir="songs" id="AuseklitisZvaigznesSkaita"/>
+<song dir="songs" id="DzelzimDzimuDzelzimAugu"/>
+<song dir="songs" id="EitaMeitasIelaizat"/>
+<song dir="songs" id="EkurStaltiKaraviri"/>
+<song dir="songs" id="EsKaraAiziedams"/>
+<song dir="songs" id="EsUzkapuKalna"/>
+<song dir="songs" id="GatavsMansKaraZirgs"/>
+<song dir="songs" id="JatniecinaDelinsBiju"/>
+<song dir="songs" id="KadeParnaksiBalelin"/>
+<song dir="songs" id="KaraviraLigavina"/>
+<song dir="songs" id="KaraViriBedajas"/>
+<song dir="songs" id="KasRedzejaAusekliti"/>
+<song dir="songs" id="KrustiemKaltaKrievuZeme"/>
+<song dir="songs" id="KungiManiKaraSuta"/>
+<song dir="songs" id="KungiManiKara-Su-ta"/>
+<song dir="songs" id="KuopuKuopuKolna-"/>
+<song dir="songs" id="KurTecejiMenestini"/>
+<song dir="songs" id="LempamBijaPieciDeli"/>
+<song dir="songs" id="LustiteManaLaimiteMana"/>
+<song dir="songs" id="MansBalinsKaraJaja"/>
+<song dir="songs" id="MuoteDe-len-uAukle-ja"/>
+<song dir="songs" id="NuArDievuVidzemite2"/>
+<song dir="songs" id="NuArDievuZalaZale"/>
+<song dir="songs" id="NuShuoPoshaAgraReita"/>
+<song dir="songs" id="PadziedasimNuBalini"/>
+<song dir="songs" id="ParPuriemParMeziem"/>
+<song dir="songs" id="PatiMateSavuDelu"/>
+<song dir="songs" id="PlataUpeSauraLaipa"/>
+<song dir="songs" id="ReKurStaltiKaraviri"/>
+<song dir="songs" id="Sni-giSnygaPutynuoja"/>
+<song dir="songs" id="SupojiesSupulit"/>
+<song dir="songs" id="VaiDievinNoliecMieru"/>
+<song dir="songs" id="VisiemRozesDarzaZiede"/>
+<song dir="songs" id="VisiemRozesDarzaZiede2"/>
+<song dir="songs" id="ZemliZvaigzneitePuorgoja"/>
+<song dir="songs" id="Zvi-dziZvi-dziSe-rmaisZirdzen-"/>
+</section>
+
+<section id="B">
+<title>Dziesmas līdz 1.pasaules karam</title>
+<song dir="songs-other" id="AizgajaStrelnieksPaPasauliTalu"/>
+<song dir="songs-other" id="DaugavaPecKaTuSero"/>
+<song dir="songs-other" id="KlusaKlusaLatvjuSeta"/>
+<song dir="songs" id="MazinsBijuNeredzeju"/>
+<song dir="songs-other" id="IchBinEinLustgerGrenadier"/>
+<song dir="songs-other" id="IchHattEinenKameraden"/>
+<song dir="songs-other" id="LabvakarVecitPipiStaltu"/>
+<song dir="songs-other" id="NacUzNavesSalu"/>
+<song dir="songs-other" id="NaktsTikTumsa"/>
+<song dir="songs-other" id="NavSkaitaLieliMusuPulki"/>
+<song dir="songs-other" id="UzPrusiemZeniJasim"/>
+</section>
+
+
+<section id="C">
+<title>2.pasaules kara dziesmas</title>
+<song dir="songs-other" id="AugstienePieMadonas"/>
+<song dir="songs-other" id="EsVelosMajasParnakt"/>
+<song dir="songs-other" id="KadSkirotiesNoTevaMajam"/>
+<song dir="songs-other" id="MesNeludzamTosKasBijVakar"/>
+<song dir="songs-other" id="PariMuklajiemUnPurviem"/>
+<song dir="songs-other" id="SieKauliSiMiesa"/>
+<song dir="songs-other" id="TaluKautNoTevis"/>
+<song dir="songs-other" id="ZemMusuKajamLielcelsBalts"/>
+</section>
+
+
+
+</book>

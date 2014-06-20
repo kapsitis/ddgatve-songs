@@ -1,0 +1,157 @@
+﻿<?xml version="1.0"?>
+<book>
+
+<title>Miega dziesmas</title>
+<subtitle>Krājumu sakārtoja Katrīna Riekstiņa</subtitle>
+<location>Rīga</location>
+<!--
+<publisher>&#37324;&#21152;&#25991;&#33402;&#20986;&#29256;&#31038; - Lǐjiā wényì chūbǎnshè</publisher>
+-->
+<publisher>Apgāds DudajevaGatve.lv</publisher>
+<year>2012</year>
+
+<edition-notice>
+Izdošanas datums: 2012.gada 9.septembris
+
+Creative Commons BY-SA 3.0 license. http://creativecommons.org/licenses/by-sa/3.0/deed.lv
+Latvian folk songs. Chords, harmonizations, metadata edited by Katrīna Riekstiņa (jmrmv.lv).
+Use and distribute without limitations. If you alter, transform or 
+build upon this work, please retain this Creative Commons notice.
+
+ISBN: ... 
+</edition-notice> 
+
+
+<foreword>
+Miega dziesmas ir dziedātas visos laikos ar mērķi 
+paātrināt bērnu aizmigšanu. Šo žanru raksturo daudzi atkārtojumi 
+un vienkāršas harmoniskās īpašības, piemēram, melodija balstīta tikai uz 
+diviem akordiem - toniku un dominanti.
+Ievērojamu skaitu miega dziesmu sarakstījuši komponisti, 
+it īpaši sākot ar romantisma perodu (sal. Johannes Brahms, Wiegenlied); 
+tomēr daļa no tām ir gana sarežģīta profesionālā mūzika, ko
+bērnu iemidzināšanai izmantot ne vienmēr ir praktiski.
+Miega dziesmām radniecīgs modernais žanrs ir "ambient" - akustiskā 
+vai tehnomūzika, ko izmanto pieaugušo nomierināšanai,
+teiksim, cigun vai staipīšanās nodarbību laikā.
+
+Šajā krājumā aplūkojam miega dziesmas (arī nedaudzas dziesmas par pādēm, Laimes māti, u.c.) 
+no tradicionālās mūzikas krājumiem. Melodiju intervāli parasti ir nelieli;
+retāk nekā citur pasaulē lietoti trīsdaļīgie ritmi (3/4, 6/8).
+Materiāls ir šķietami vienkāršs, bet tas labi veic savu tiešo uzdevumu - 
+iemidzina bērnus ar ierastām dzimtās valodas skaņām,
+un vienlaikus dod iespēju dziedātājiem saglabāt možumu un darīt citas lietas.  
+
+Tautasdziesmu teksti daudzām dziesmām ir diezgan stabili; kaut arī 
+izpildītāji mēdz pēc vajadzības pielikt klāt vēl kādus pantus, ja ar īsāku 
+dziesmas variantu iemigšanai nepietiek. Var arī dziedāt vairākas līdzīgas 
+melodijas citu pēc citas.  Dažu dziesmu tekstos minētas peles un citi simboli, 
+kas asociējas ar tumsu.  Citās rotaļīgā veidā saglabājušies 
+seno sabiedrību skarbie priekšstati 
+par bērnu audzināšanu. Arvien populārajā "Aijā žūžu", teiksim, 
+ir minēts medus un ogas - vieni no nedaudzajiem uzturlīdzekļiem, 
+kuru vākšana zemkopju sabiedrībās nodrošināja 
+2-3 gadīgo bērnu izdzīvošanu un viņu sekmīgu pāreju no 
+piena uz pieaugušu cilvēku barību.
+
+Krājumā ievietotās dziesmas ir pamatos vienbalsīgas.
+Tās sakārtotas tā, ka dziesmas ar vienkāršākajām melodijām ir krājuma 
+sākumā - tās ir piemērotākās pavisam jauniem bērniem. Vecākiem bērniem 
+var būt piemērotas arī melodijas lielākā intervālā. Bērnus iemidzinot jāatceras, 
+ka "less is more" - gulētiešanai ir savs rituāls, un jaunas lietas tajā ir 
+jāievieš ļoti pakāpeniski. 
+
+Ja vēlaties dziesmas kādam mācīt, dziedāt koncertos vai arī bērni pieraduši pie 
+ģitāras skanējuma, var izmantot arī vienkāršu pavadījumu. 
+Lai būtu vieglāk izvēlēties komfortablu elpošanas ritmu - kas 
+palīdz izpildītājam atbrīvoties no iespējamā satraukuma 
+un arī nomierinoši iedarbojas uz mazajiem klausītājiem, esam 
+centušies sistemātiski norādīt arī ieelpas (komats virs nošu līnijām), kā arī 
+cezūras - īsas pauzes (divas svītriņas) un 
+fermātas - garāk pavilktas skaņas (pusaplītis ar punktu).
+Tempus (ceturtdaļu skaitu minūtē) dziesmām neesam norādījuši - 
+tie var būt katram individuāli un jāatrod pēc izjūtas.
+
+Ceram, ka krājuma lietotāji gan Latvijā gan svešumā gūs radošas ierosmes, 
+esot kopā ar bērniem svarīgos viņu dzīves brīžos.
+Ar jautājumiem un ierosinājumiem (t.sk. lūgumiem nākamajos krājuma laidienos
+ievietot vēl citu dziesmu melodijas)  lūdzam vērsties pie 
+krājuma sastādītajas, JMRMV studentes Katrīnas: 
+e-pasts... 
+</foreword>
+
+<section id="A">
+<title>Tautasdziesmas</title>
+
+<song dir="songs" id="AijaZuzu"/>
+<song dir="songs" id="Aija-Zhu-zhu-MazaisBe-rninj"/>
+<song dir="songs" id="Aukle-ManiMa-minj"/>
+<song dir="songs" id="ChuchiGuliMazbe-rninj"/>
+<song dir="songs" id="LieliBe-rniBri-ni-ja-s"/>
+<song dir="songs" id="MazinjosPutninjusVe-jma-teShu-po"/>
+<song dir="songs" id="MiedzinjshJa-jaApIstabu"/>
+<song dir="songs" id="Neti-sha-miEsIega-ju"/>
+<song dir="songs" id="PeleBraucaVa-gjiChi-ksta"/>
+<song dir="songs" id="PeleitPeleit"/>
+<song dir="songs" id="Peli-tBraucRatiChi-kst"/>
+<song dir="songs" id="Peli-teBraucRatinjiChi-kst2"/>
+<song dir="songs" id="Shu-pojiesiShu-puli-t"/>
+<song dir="songs" id="VelcPeli-teBe-rnamMiegu"/>
+<song dir="songs" id="VelcPeli-teSalduMiegu"/>
+<song dir="songs" id="VelcPeli-teSalduMieguE-e-Eija-"/>
+<song dir="songs" id="VelcPeli-teSalduMieguV"/>
+</section>
+
+<section id="B">
+<title>No Katrīnas baltās lapas</title>
+<song dir="songs" id="A-Apapa-ZemOzolaZarin-iem"/>
+<song dir="songs" id="A-ApapaVelcPeli-teSalduMiegu"/>
+<song dir="songs" id="Ses-asPelesMieguVilka"/>
+<song dir="songs" id="Peli-tBraucaRatiC-i-kst"/>
+</section>
+
+<section id="C">
+<title>No Katrīnas nošu burtnīcas</title>
+<song dir="songs" id="Peli-tBraucaVa-g-iC-ikst"/>
+<song dir="songs" id="Pelin-s-BraucaRatin-C-i-ksta"/>
+<song dir="songs" id="C-uc-iGuliMazaisBe-rnsi"/>
+<song dir="songs" id="C-uc-iGuliMazaisBe-rnin-"/>
+<song dir="songs" id="Aiz-uAiz-uLa-c-aBe-rni"/>
+<song dir="songs" id="MiegaDe-l-iEsRauda-ju"/>
+<song dir="songs" id="KasBriedimiKasLacimi"/>
+<song dir="songs" id="AiCauniteVaverite"/>
+<song dir="songs" id="Aija-Anci-tAija-"/>
+<song dir="songs" id="UciL-ul-iMozi-Ba-rni"/>
+<song dir="songs" id="C-uc-iGuliMozuBa-rnu"/>
+<song dir="songs" id="UciL-ul-iMozi-Biernen-"/>
+<song dir="songs" id="JauTasMiegaE-rmani-tis"/>
+<song dir="songs" id="GuliSalda-Miedzin-a-"/>
+<song dir="songs" id="A-Apapa-ZemOzolaLapin-a-m"/>
+<song dir="songs" id="AtvelcPeli-tMiedzin-u"/>
+<song dir="songs" id="NevienamiBijTikLabi"/>
+</section>
+
+<section id="D">
+<title>No Katrīnas nošu lapas nr.1</title>
+<song dir="songs" id="AtvelcPeli-tBe-rnin-amMiegu"/>
+<song dir="songs" id="PeleBraucaRatiC-i-ksta"/>
+<song dir="songs" id="PeleBraucRatiC-i-kst"/>
+<song dir="songs" id="GovisVe-rs-iTele-nin-"/>
+<song dir="songs" id="MigaMigaVienActin-a"/>
+<song dir="songs" id="Peli-teBraucaRatin-iC-iksta"/>
+<song dir="songs" id="C-uc-iGuliMazaisBe-rnsi2"/>
+<song dir="songs" id="VelcPeli-teSalduMieg"/>
+<song dir="songs" id="C-uc-iGuliMansBe-rnin-s-"/>
+<song dir="songs" id="Ses-asPelesMieguVilka2"/>
+<song dir="songs" id="Mi-dzen-s-Ba-rnuKaitynuoja"/>
+<song dir="songs" id="AtnesKac-i-tMi-dzen-u"/>
+<song dir="songs" id="C-uc-iGuliMunsBe-rnin-s-i"/>
+</section>
+
+<section id="E">
+<title>Postfolklora</title>
+<song dir="songs" id="AizKalnin-aMe-nestin-is"/>
+<song dir="songs" id="Kak-asti-teGarasti-te"/>
+</section>
+
+</book>

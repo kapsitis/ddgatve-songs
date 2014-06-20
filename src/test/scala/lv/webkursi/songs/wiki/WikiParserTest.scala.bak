@@ -1,0 +1,76 @@
+package lv.webkursi.songs.wiki
+import junit.framework.TestCase
+
+import org.specs2.mutable._
+
+import org.junit._
+import Assert._
+
+class WikiParserTest extends TestCase {
+
+
+  def normSpace(arg: String): String = {
+    val result = arg.replaceAll("""[ \n\r]+""", " ")
+    result
+  }
+
+  @Test
+  def testSinglePara() {
+    val result = WikiBlockGrammar.parse("""Lorem ipsum
+dolor sit""")
+    val resultStr = WikiProc.eval(result).toString
+    Console.err.println(resultStr)
+
+    val expected = """<p>Lorem ipsum
+dolor sit</p>"""
+
+    assertEquals(normSpace(expected), normSpace(resultStr))
+  }
+  
+  @Test
+  def testSimpleSong() {
+    val result = WikiBlockGrammar.parse("""# rinda1
+# rinda2
+# rinda3""")
+    val resultStr = WikiProc.eval(result).toString
+    Console.err.println(resultStr)
+    val expected = """<ol><li>rinda1</li><li>rinda2</li><li>rinda3</li></ol>"""
+
+    assertEquals(normSpace(expected), normSpace(resultStr))
+  }
+  
+  
+  @Test
+  def testLongLineBreaks() {
+	  val result = WikiBlockGrammar.parse("""# aaa\\ bbb
+# ccc\\ ddd""")
+    val resultStr = WikiProc.eval(result).toString
+    Console.err.println(resultStr)
+    val expected = """<ol><li>aaa\\ bbb</li><li>ccc\\ ddd</li></ol>"""
+
+    assertEquals(normSpace(expected), normSpace(resultStr))
+
+  }
+  
+  @Test
+  def testParseWords() {
+	  val result = WikiBlockGrammar.parseWords("""aaa\\ 
+bbb""")
+	Console.err.println(" result = " + result)
+  }
+
+    @Test
+  def testShortLineBreaks() {
+	  val result = WikiBlockGrammar.parse("""# aaa\\ 
+bbb
+# ccc\\ 
+ddd""")
+    val resultStr = WikiProc.eval(result).toString
+    Console.err.println(resultStr)
+    val expected = """<ol><li>aaa\\ bbb</li><li>ccc\\ ddd</li></ol>"""
+
+    assertEquals(normSpace(expected), normSpace(resultStr))
+
+  }
+  
+}

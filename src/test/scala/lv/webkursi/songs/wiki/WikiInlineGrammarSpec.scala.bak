@@ -1,0 +1,139 @@
+package lv.webkursi.songs.wiki
+
+import junit.framework.TestCase
+
+import org.specs2.mutable._
+import org.junit._
+import Assert._
+
+class WikiInlineGrammarSpec extends SpecificationWithJUnit {
+
+  "plaintext regex" should {
+    "not match two slashes" in {
+      val result = WikiInlineGrammar.rePlaintext.findPrefixMatchOf("""abc\\def""")
+      result must beSome
+      result.get.toString must_== """abc"""
+    }
+  }
+
+  "url regex" should {
+    "match a simple url" in {
+      val result = WikiInlineGrammar.reUrl.findPrefixMatchOf(
+        """http:&#47;&#47;code.google.com/p/webkursi/""")
+      result must beSome
+      result.get.toString must_== """http:&#47;&#47;code.google.com/p/webkursi/"""
+    }
+  }
+
+  "parsing slashes" should {
+    "parse single linebreak" in {
+      val arg = """\\"""
+      val parsed = """<br />"""
+      WikiInlineGrammar.parseSlashes(arg) must_== (parsed)
+    }
+  }
+
+  "parsing spaces" should {
+    "parse single space" in {
+      val arg = """ """
+      val parsed = """ """
+      WikiInlineGrammar.parse(arg) must_== (parsed)
+    }
+
+    "parse two spaces" in {
+      val arg = """  """
+      val parsed = """  """
+      WikiInlineGrammar.parse(arg) must_== (parsed)
+    }
+  }
+
+  "parsing urls" should {
+    "parse a simple url" in {
+      val arg = """http://code.google.com/p/webkursi/"""
+      val parsed = """<em>http://code.google.com/p/webkursi/</em>"""
+      WikiInlineGrammar.parse(arg) must_== (parsed)
+    }
+  }
+
+  "simple inline processing" should {
+    "parse plaintext" in {
+      val arg = """abc"""
+      val parsed = """abc"""
+      WikiInlineGrammar.parse(arg) must_== (parsed)
+    }
+
+    "parse linebreaks" in {
+      val arg = """abc\\def"""
+      val parsed = """abc<br />def"""
+      WikiInlineGrammar.parse(arg) must_== (parsed)
+    }
+
+    "parse boldtext" in {
+      val arg = """**abc**"""
+      val parsed = """<b>abc</b>"""
+      WikiInlineGrammar.parse(arg) must_== (parsed)
+    }
+
+    "parse italictext" in {
+      val arg = """//abc//"""
+      val parsed = """<i>abc</i>"""
+      WikiInlineGrammar.parse(arg) must_== (parsed)
+    }
+  }
+
+  "complex inline processing" should {
+    "parse two bolds" in {
+      val arg = """**aaa** **bbb**"""
+      val parsed = """<b>aaa</b> <b>bbb</b>"""
+      WikiInlineGrammar.parse(arg) must_== (parsed)
+    }
+
+    "parse bold and italic" in {
+      val arg = """**aaa** //bbb//"""
+      val parsed = """<b>aaa</b> <i>bbb</i>"""
+      WikiInlineGrammar.parse(arg) must_== (parsed)
+    }
+
+    "parse two lines" in {
+      val arg = """aaa
+bbb"""
+      val parsed = """aaa
+bbb"""
+      WikiInlineGrammar.parse(arg) must_== (parsed)
+    }
+
+    "parse multiline bold" in {
+      val arg = """**aaa
+bbb**"""
+      val parsed = """<b>aaa
+bbb</b>"""
+      WikiInlineGrammar.parse(arg) must_== (parsed)
+    }
+
+    "parse bold and plain" in {
+      val arg = """**aaa** bbb"""
+      val parsed = """<b>aaa</b> bbb"""
+      WikiInlineGrammar.parse(arg) must_== (parsed)
+    }
+
+    "parse url and plain" in {
+      val arg = """http://code.google.com/p/webkursi/ aaa"""
+      val parsed = """<em>http://code.google.com/p/webkursi/</em> aaa"""
+      WikiInlineGrammar.parse(arg) must_== (parsed)
+    }
+
+    "parse plain and url" in {
+      val arg = """aaa http://code.google.com/p/webkursi/"""
+      val parsed = """aaa <em>http://code.google.com/p/webkursi/</em>"""
+      Console.err.println("parse result is " + WikiInlineGrammar.parse(arg))
+      WikiInlineGrammar.parse(arg) must_== (parsed)
+    }
+
+    //    "parse bold and url" in {
+    //      val arg = """**aaa** http://code.google.com/p/webkursi/"""
+    //      val parsed = """<b>aaa</b> <em>http://code.google.com/p/webkursi/</em>"""
+    //      Console.err.println("parse result is " + WikiInlineGrammar.parse(arg))
+    //      WikiInlineGrammar.parse(arg) must_== (parsed)
+    //    }
+  }
+}

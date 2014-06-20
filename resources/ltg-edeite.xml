@@ -1,0 +1,154 @@
+﻿<?xml version="1.0"?>
+<book>
+
+<title>Latgalīšu dzīsmys</title>
+<subtitle>100 tautys dzīsmys</subtitle>
+<location>Reiga</location>
+<!--  <publisher>Izdūts DudajevaGatve.lv</publisher> -->
+<year>2013</year>
+
+<edition-notice>
+Drukavuots: 2013.goda 7.nojabrī.
+
+Dzīsmu suoku teksti: http://code.google.com/p/webkursi/source/checkout
+</edition-notice>
+
+<foreword>
+Itymā dzīsmu lasejumā īvestys 100 pazeistamys tautys dzīsmis, kū liks Edeites kruojumā. 
+40 dzīsmu nabeja myusu arhivā, tur nūruodeits vīn dzīsmis vyrsroksts 
+(bez notom i vuordim). Nazcik dzīsmom irā 2 varianti - tod tī apzeimuoti ar tū pošu
+numuru (pīvadumam, "6a. Atīdami zīvassvātki, v.1" i "6b. Atīdami zīmassvātki, v.2"). 
+Kad dzīsmai varātu byut div atškireigi virsroksti, tod vīns nu virskrokstim 
+likts īskovuos (pīvadumam, "5. Moza beju gonūs guoju (Atašīnes suseklis)"). 
+</foreword>
+
+
+<section id="A">
+<title>Tautys dzīsmis</title>
+<song dir="songs" id="AiGaldeni"/>
+<startVariants/>
+<song isVariant="true" dir="songs" id="AizAzaraMalniMezi"/>
+<song isVariant="true" dir="songs" id="AizAzaraMalnyMezhi"/>
+<endVariants/>
+<song dir="songs" id="AizalaidaSauleite"/>
+<song dir="songs" id="ApleikKolnamArLeikumu"/>
+<song dir="songs" id="MozaBejuGonusGuoju" title="Moza beju gonūs guoju (Atašīnes suseklis)"/>
+<startVariants/>
+<song isVariant="true" dir="songs" id="Ati-damiZi-massva-tki" title="Atīdami zīmassvātki, v.1"/>
+<song isVariant="true" dir="songs" id="AtidamiZimysSvatki" title="Atīdami zīmassvātki, v.2"/>
+<song isVariant="true" dir="songs" id="AtidamiZimysSvatki2" title="Atīdami zīmassvātki, v.3"/>
+<endVariants/>
+<song dir="songs" id="AugaAugaRuzena"/>
+<song dir="songs" id="CelaveirsCelaveirsTovaVazaPikususe"/>
+<song dir="songs" id="DivLaivenisPeldPaJyuru"/>
+<song dir="songs" id="DzeruDzeruOlu"/>
+<empty title="Dzīd voi raudi tautu meita"/>
+<song dir="songs" id="DziedatMakuDancotMaku"/>
+<startVariants/>
+<song isVariant="true" dir="songs" id="EimaEimaMuosenis" title="Eima, eima, muosenis, v.1"/>
+<song isVariant="true" dir="songs" id="EimaEimaMuosenis2" title="Eima, eima, muosenis, v.2"/>
+<endVariants/>
+<song dir="songs" id="EsArSovuVeirenu"/>
+<song dir="songs" id="EsBejLobaI-mete-ja"/>
+<song dir="songs" id="EsBejuMamenai"/>
+<empty title="Es beju muotei vīneiguo meita"/>
+<empty title="Es nu sovu mozu dīnu"/>
+<song dir="songs" id="GaismenaAusa"/>
+<song dir="songs" id="GariGariMezhi"/> 
+<song dir="songs" id="GuojuPaMezhu"/>
+<empty title="Iz vacuo okas sukruma"/>
+<empty title="Īsalaižu dzīsmeitēs"/>
+<song dir="songs" id="JauRudin-sTyvuoja-s" title="Jau rudiņs tyvojuos"/>
+<empty title="Jau sauleite aizalaida"/> 
+<empty title="Jauna meita drēbis velej"/>
+<empty title="Jauneibys laiki"/>
+<song dir="songs" id="VysuDi-nuJumiDzynu" title="Vysu dīnu Jumi dzynu (Jumis)"/>
+<startVariants/>
+<song isVariant="true" dir="songs" id="KamMa-men-aTuAudze-ji" title="Kam māmeņa tu audzēji, v.1"/>
+<song isVariant="true" dir="songs" id="KamMa-men-aTuAudze-ji1" title="Kam māmeņa tu audzēji, v.2"/>
+<endVariants/>
+<song dir="songs" id="KiukojOruDzagiuzeite"/>
+<song dir="songs" id="KuopuKuopuKolna-"/>
+<song dir="songs" id="KuplaLi-pen-aIzauga"/>
+<startVariants/>
+<song isVariant="true" dir="songs" id="KurGaismen-aZal-aAusa" title="Kur gaismeņa zyla ausa, v.1"/>
+<song isVariant="true" dir="songs" id="KurGaismenaZylaAusa" title="Kur gaismeņa zyla ausa, v.2"/>
+<endVariants/>
+<startVariants/>
+<song isVariant="true" dir="songs" id="KurTadTuNuBijiA-zi-tiMans" title="Kur tad tu nu beji, v.1"/>
+<song isVariant="true" dir="songs" id="UozeitiMunu" title="Uozeiti munu, v.2"/>
+<endVariants/>
+<empty title="Kur tī dzyma gudri veiri"/>
+<empty title="Kur tu īsi cīma puisi"/>
+<empty title="Kū tei muna laime dora"/>
+<song dir="songs" id="Ku-kleitisSkane-ja"/>
+<empty title="Lanckarons"/>
+<song dir="songs" id="LipaKust2"/>
+<song dir="songs" id="LobsArLobuSasatyka"/>
+<song dir="songs" id="LobsBejPuikaMyusuJezups"/>
+<song dir="songs" id="MalniMuniKumeleni"/>
+<empty title="Meitu muote sied aiz golda"/>
+<song dir="songs" id="Mi-dzen-shI-tiGule-tGrybu"/>
+<empty title="Muns meilais dzeivoj tuoli"/>
+<song dir="songs" id="MuoteDe-len-uAukle-ja"/>
+<empty title="Muote skaita sov meiteņas"/>
+<song dir="songs" id="NadudDivsVeitulam"/>
+<song dir="songs" id="VoiEgleEgle" title="Voi, egle, egle (Oi, egle, egle)"/>
+<empty title="Oki nalej leiteņ"/>
+<empty title="Oruojs ora ceļa molā"/>
+<song dir="songs" id="Padzi-domiMe-sMuosen-as"/>
+<song dir="songs" id="PateikManiTysKal-nen-sh"/>
+<song dir="songs" id="PateikManiTysOdums"/>
+<song dir="songs" id="PiDivenaGariGoldi"/>
+<song dir="songs" id="Pi-ciBa-riKumeleni"/>
+<empty title="Pluovuoja laiveņa"/>
+<empty title="Puor devenis kungu zemis"/>
+<song dir="songs" id="Pu-riPu-riMezhiMezhi"/>
+<empty title="Reitā agri buorineite"/>
+<song dir="songs" id="Reita-AgriSauleLe-ce"/>
+<song dir="songs" id="RutojBiteRutojSaule" title="Rūtoj bite, rūtoj saule (Rūtoj saule, rūtoj bite)"/>
+<song dir="songs" id="Ru-tuodamaVi-nStaiguoju"/>
+<empty title="Skaista muna leigaveņa"/>
+<empty title="Skaista skaista tei muižeņa"/>
+<empty title="Svāti zvoni sazvanieja"/>
+<song dir="songs" id="SveicynojomVe-le-jam"/>
+<empty title="Šudiņ spūdra saule lēce"/>
+<song dir="songs" id="SyupojManiMuomulena"/>
+<empty title="Taidu olu padareju"/>
+<empty title="Teci rikšim kumeleni"/>
+<song dir="songs" id="TreisMuosenisU-guosGuoja"/>
+<empty title="Treis vosoras saturieju"/>
+<song dir="songs" id="TricejKolniSkanejMezi"/>
+<song dir="songs" id="TuoliDzeivojMunaMeiluo"/>
+<empty title="Tuoli radzu boltu zyrgu"/>
+<empty title="Tymā upis molā"/>
+<song dir="songs" id="TymsaTymsaTeiEgleite" title="Tymsa, tymsa tei egleite (Tymsa, tymsa)"/>
+<empty title="Tymsā mani tautys vede"/>
+<song dir="songs" id="TysVe-jen-shPyute"/>
+<song dir="songs" id="U-siU-siKodLopuosi"/> 
+<empty title="Vecs ar vaci brauc iz tiergu"/>
+<empty title="Vīna jauna meiteņa"/>
+<empty title="Vokors īti, vokors īti"/>
+<empty title="Vosorys bolss"/>
+<empty title="Vot i puiseits"/>
+<song dir="songs" id="VysiMuniVe-jiPyute" title="Vysi muni vēji pyute (Vusi vieji mani pyute)"/>
+<song dir="songs" id="VysuDi-nuSvelmeSkre-ja" title="Vysu dīnu sveļme skrēja (Vysu dīnu sveļmes guoja)"/>
+<empty title="Vysa pyrma"/>
+<empty title="Zali meženi"/>
+<song dir="songs" id="ZamUzulaNasiedieju"/>
+<song dir="songs" id="ZemliZvaigzneitePuorgoja"/>
+<song dir="songs" id="ZidejaPuceitis"/>
+<empty title="Zīdi, zīdi popyveite"/>
+<song dir="songs" id="ZidiZidiRudzuVuorpa"/>
+<empty title="Zīdi, zīdi uora pļova"/>
+<song dir="songs" id="Zvi-dziZvi-dziSe-rmaisZirdzen-"/>
+<song dir="songs" id="ZynuZynuTa-vaSa-tu"/>
+<empty title="Žagatine jumtā čārc"/>
+</section>
+<section id="B">
+<title>Autoru dzīsmis</title>
+<song dir="songs-other" id="DzidTrallojMezs"/>
+<song dir="songs-other" id="PiminBruol"/>
+</section>
+</book>
+

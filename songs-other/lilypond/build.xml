@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE project [
+<!ENTITY list SYSTEM "build.songs.txt">
+]>
+<project name="webkursi-songs" basedir=".">
+	<taskdef resource="net/sf/antcontrib/antcontrib.properties" />
+
+	<target name="make">
+		<ant dir="../.." target="make" inheritAll="true" inheritRefs="true">
+			<property name="current.dir" value="${basedir}" />
+		</ant>
+	</target>
+
+	<target name="make-all">
+		&list;
+	</target>
+</project>
+

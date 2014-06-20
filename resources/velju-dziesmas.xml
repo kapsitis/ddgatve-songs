@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<book basedir="songs">
+
+<title>Dziesmas par miršanu un veļiem</title>
+<subtitle></subtitle>
+<location>Rīga</location>
+<publisher>Apgāds www.dudajevagatve.lv</publisher>
+<year>2012</year>
+
+<edition-notice>
+Izdošanas datums: 2012.gada 19.jūnijs
+</edition-notice> 
+
+
+<foreword>
+// //
+</foreword>
+
+<section>
+<title>Dziesmas</title>
+<song dir="songs" id="BaltusZirgusNeju-dzati"/>
+<song dir="songs" id="Bri-dilaikuManDzi-voti"/>
+<song dir="songs" id="Burbul-ainaUpeTeka"/>
+<song dir="songs" id="Dzi-vos-IlgiNedzi-vos-u"/>
+<song dir="songs" id="Dzi-vos-IlgiNeTikIlgi"/>
+<song dir="songs" id="EjtProja-miVel-uBe-rni"/>
+<song dir="songs" id="Gauz-iRaudaTe-vsMa-min-a"/>
+<song dir="songs" id="KautZina-tuToKalnin-u"/>
+<song dir="songs" id="KurSauli-teKav-ejiesi"/>
+<song dir="songs" id="LienPeli-tePa-rZemi-ti"/>
+<song dir="songs" id="LienPeli-tePazemi-te-"/>
+<song dir="songs" id="ManBaltaMa-mulin-aCietuMieguAizmigus"/>
+<song dir="songs" id="ManisDe-l-iMaiziCepa"/>
+<song dir="songs" id="NeraudietiJu-sBe-rnin-i"/>
+<song dir="songs" id="NomirstManaMa-mulin-a"/>
+<song dir="songs" id="SasildiesiMu-sMa-sin-a"/>
+<song dir="songs" id="Sh-oCelin-uRi-ta-Ga-ju"/>
+<song dir="songs" id="Smils-uMa-tePrieca-ja-si"/>
+<song dir="songs" id="TekUpi-teC-urkste-dama"/>
+<song dir="songs" id="Vel-uUpePa-rplu-dus"/>
+<song dir="songs" id="VeratiesiVel-uVa-rti"/>
+<song dir="songs" id="VisiKokiGauz-iRauda"/>
+<song dir="songs" id="ZinDievin-iKa-lbadeEsNevaruLi-ksmaBu-t"/>
+<song dir="songs" id="Proja-mProja-mPieVel-uMa-tes"/>
+</section>
+
+</book>

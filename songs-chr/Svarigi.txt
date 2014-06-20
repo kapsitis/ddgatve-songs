@@ -1,0 +1,25 @@
+﻿008 - vai atstat daleji 2 balsigi un daleji vienbalsigu? vai tomer partaisit, lai visur butu 2-balsigi? Butu labi izlidzinat rindinas...
+018 - varbūt labāk salikt voltas?
+027 - D4 akordam klat rada vel nez kadus brinumus...
+045 - 1. rindaa akordi novietoti augstak, jo apaksa ir dinamikas zime; ar akordiem tas pats, kas iepriekseja dziesmaa
+055 - lieks sus2 pie B
+126 - meginaju atseviskas sistemas generet pantinu un piedziedajumu, bet izskatas, ka tad ir nedaudz nojaukta Tava attela atzimju sistema. Vai Tev ir kads labaks priekslikums, kaa veidot sada veida dziesmas???
+130 - tas pasas problemas ar akordiem - raada papildus informaciju :)
+134 - izmainiju dazviet nosu un pauzu ilgumus, jo originalaa neatbilda reslajiem taksts izmeriem. Vari apskatities, vai shadi ir OK...
+
+
+Jautājumi mūzikas ekspertiem
+=============================
+(1) Akordi ar si bemol (iespējas - "B", "H", "B bemol")
+(2) Minora akordi ("e" vai "Em")
+(3) Maj7 akordi - mažora septakords ar palielinātu septīmu (ar trijstūrīti vai ar "maj7")
+(4) Sus4 akordi - prīma, kvarta, kvinta ("sus4" vai vienkārši "4")
+(5) Kā saprātīgi izvēlēties MIDI atskaņošanas tempu
+(6) Kā apzīmē piedziedājumu - (a) refrēns, (b) piedziedājums, (c) nekā
+(7) 120.dziesmiņā ir kursīvā iedrukāta otrā balss - ne visai acīmredzami... 
+Varbūt var korektāk apzīmēt. 
+(8) Vai diēzu akordus rakstīt kā "F#", vai "Fis". 
+Tas pats par bemoliem "Es" vai "As" ("Ees" un "Aes"), "Des"?
+(9) Kā vokālajā mūzikā apzīmē 4/4 taktsmēru (C vai 4/4)? 
+(10) 135.dziesmā u.c. - vai rečitatīvu fragmentiem jāraksta taktsmērs?
+(11) Kā apzīmēt 9.dziesmā parādīto jaukto taktsmēru? Vai tas ir normāls apzīmējums?

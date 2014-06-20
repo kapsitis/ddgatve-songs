@@ -1,0 +1,116 @@
+package lv.webkursi.songs.bibliography
+
+import org.specs2.mutable._
+import org.junit.runner._
+import org.specs2.runner.JUnitRunner
+
+@RunWith(classOf[JUnitRunner])
+class BibReferenceSpec extends Specification {
+  val bibFile = "resources/bibliography.xml"
+  val idMap = BibliographyFile.getIdMap(bibFile)
+
+  "Plain label" should {
+    "parse normally for existing" in {
+      val br = BibReference.makeStRef("Budeli2007", idMap)
+      br.label must_== "Budeli2007"
+    }
+    "have empty code/page fields" in {
+      val br = BibReference.makeStRef("Budeli2007", idMap)
+      br.code must_== ""
+      br.page must_== -1
+    }
+    "create warning for nonexisting" in {
+      val br = BibReference.makeStRef("Mur", idMap)
+      br.label must_== """Mur"""
+      br.errMessage must_!= ""
+    }
+    "parse normally for mapped" in {
+      val br = BibReference.makeStRef("G. ie.", idMap)
+      br.label must_== """Vitolins1973"""
+      br.errMessage must_== ""
+    }
+  }
+
+  "Label with code" should {
+    "parse normally for digits" in {
+      val br = BibReference.makeStRef("Budeli2007,#123", idMap)
+      br.label must_== "Budeli2007"
+      br.code must_== "123"
+      br.page must_== -1
+    }
+    "parse normally for alpha chars" in {
+      val br = BibReference.makeStRef("Budeli2007,#a123_Z", idMap)
+      br.label must_== "Budeli2007"
+      br.code must_== "a123_Z"
+    }
+    "give error on bad code values" in {
+      {
+        BibReference.makeStRef("Budeli2007,#a123_Z#", idMap)
+      } must throwA[MatchError]
+    }
+  }
+
+  "Label with pagenum" should {
+    "parse normally for valid pages" in {
+      val br = BibReference.makeStRef("Budeli2007,p.123", idMap)
+      br.label must_== "Budeli2007"
+      br.code must_== ""
+      br.page must_== 123
+    }
+    "cause match error on invalid pages" in {
+      {
+        BibReference.makeStRef("Budeli2007,p.1lpp", idMap)
+      } must throwA[MatchError]
+    }
+    "parse normally" in {
+      val br = BibReference.makeStRef("Igauni1993,p.76", idMap)
+      br.label must_== "Igauni1993"
+      br.code must_== ""
+      br.page must_== 76
+    }
+  }
+
+  "Label with code and pagenum" should {
+    "work fine if both are right" in {
+      val br = BibReference.makeStRef("Budeli2007,#12,p.123", idMap)
+      br.label must_== "Budeli2007"
+      br.code must_== "12"
+      br.page must_== 123
+    }
+    "object to wrong order" in {
+      {
+        BibReference.makeStRef("Budeli2007,p.12,#12", idMap)
+      } must throwA[MatchError]
+    }
+  }
+
+  "process html" should {
+    "process empty sources list" in {
+      val pars = BibReference.xmlToHtml(<sources> </sources>)
+      pars.toString() must_== ""
+    }
+
+    "process a single source" in {
+      val pars = BibReference.xmlToHtml(
+        <sources>
+          <source label="FkLaiva"></source>
+        </sources>)
+      pars.toString() must_== """<p><span>[FkLaiva]</span></p>"""
+
+    }
+
+    "process a source with code and pagenum" in {
+      val pars = BibReference.xmlToHtml(
+        <sources>
+          <source label='Grins1992' code='68' page='150'/>
+          <source label='SkandiniekiDlv'/>
+        </sources>)
+
+      val expected = """<p><span>[Grins1992]</span>,#68,p.150</p>""" + "\n" +
+        """<p><span>[SkandiniekiDlv]</span></p>"""
+      Console.println(pars.toString())
+      Console.println(expected)
+      pars.toString() must_== expected
+    }
+  }
+}

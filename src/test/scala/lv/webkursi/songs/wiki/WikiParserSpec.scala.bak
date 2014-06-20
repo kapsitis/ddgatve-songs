@@ -1,0 +1,83 @@
+package lv.webkursi.songs.wiki
+
+import org.specs2.mutable._
+import scala.xml.NodeSeq
+import org.specs2.matcher.Matcher
+
+class WikiParserSpec extends SpecificationWithJUnit {
+
+  def beAstSimilarTo = (be_==(_: List[ASTBlock])) ^^^ (WikiProc.nsList(_: List[ASTBlock]))
+
+  "paragraph processing" should {
+    "add p-tags" in {
+      val w = """Lorem
+ipsum"""
+      val ast = List(ASTPara("Lorem ipsum"))
+      WikiBlockGrammar.parse(w) must beAstSimilarTo(ast)
+    }
+
+    "add multiple paragraphs" in {
+      val w = """Lorem 
+ipsum
+
+dolor"""
+      val ast = List(ASTPara("Lorem ipsum"), ASTPara("dolor"))
+      WikiBlockGrammar.parse(w) must beAstSimilarTo(ast)
+    }
+  }
+
+  "ol processing" should {
+    "process simple lists" in {
+      val w = """# AAA
+# BBB"""
+      val ast = List(ASTOList(List("AAA", "BBB")))
+      WikiBlockGrammar.parse(w) must_== ast
+    }
+
+    "process paragraph followed by list" in {
+      val wikiText4 = """line1
+line2
+
+* AAA
+* BBB"""
+      val ast4: List[ASTBlock] = List(ASTPara("""line1
+line2"""),
+        ASTUList(List("AAA", "BBB")))
+      WikiBlockGrammar.parse(wikiText4) must beAstSimilarTo(ast4)
+    }
+
+    "process lists separated by empty line" in {
+      val wikiText5 = """* AAA
+* BBB
+
+* CCC
+* DDD"""
+      val ast5 = List(ASTUList(List("AAA", "BBB")),
+        ASTUList(List("CCC", "DDD")))
+      WikiBlockGrammar.parse(wikiText5) must beAstSimilarTo(ast5)
+    }
+
+    "process consecutive lists of different types" in {
+      val wikiText6 = """* AA  AA
+* BBB
+
+# CCC
+# DDD"""
+      val ast6 = List(ASTUList(List("AA  AA", "BBB")),
+        ASTOList(List("CCC", "DDD")))
+      WikiBlockGrammar.parse(wikiText6) must beAstSimilarTo(ast6)
+    }
+  }
+  
+  "wiki expr processing" should {
+    "Deal with one-line expressions" in {
+      val wikiText7 = """AA *BB* \\ _CC *DD_* EE"""
+      val ast7 = List(ASTPara("""AA *BB* \\ _CC *DD_* EE"""))
+      WikiBlockGrammar.parse(wikiText7) must beAstSimilarTo(ast7)
+    }
+  }
+  
+
+  
+
+}

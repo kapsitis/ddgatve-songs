@@ -1,0 +1,37 @@
+package lv.webkursi.songs.wiki
+import scala.xml.Elem
+
+import junit.framework.TestCase
+import org.specs2.mutable._
+import org.junit._
+import Assert._
+import scala.xml.XML
+import scala.xml.Node
+
+class WikiBlockGrammarSpec extends SpecificationWithJUnit {
+
+  "scala.xml.Node implementation" should {
+    "be able to have XML subtree" in {
+      val node = <li>aaa<br/>bbb</li>
+      Console.err.println("node is " + node)
+      node.text must_== "aaabbb"
+      node.toString must_== "<li>aaa<br></br>bbb</li>"
+    }
+    
+    "be able to have escapes" in {
+      val node = <li>aaa&lt;br/&gt;bbb</li>
+      Console.err.println("node is " + node)
+      node.text must_== "aaa<br/>bbb"
+      node.toString must_== "<li>aaa&lt;br/&gt;bbb</li>"
+    }
+    
+    "be able to insert XML subtree" in {
+      val node = <li></li>
+      val str = XML.loadString("<b>aaa</b>")
+      val newNode = <li>{str}</li>
+      Console.err.println(newNode)
+      "" must_== ""
+    }
+    
+  }
+}

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE project [
+<!ENTITY list SYSTEM "build.songs.txt">
+]>
+<project name="webkursi-songs" basedir=".">
+	<property name="lib.dir" value="${basedir}/lib" />
+
+	<property file="build.properties" />
+	<property name="scala.home" value="${basedir}/lib-scala" />
+
+	<taskdef resource="net/sf/antcontrib/antcontrib.properties">
+		<classpath>
+			<pathelement location="lib-ant/ant-contrib-1.0b3.jar" />
+		</classpath>
+	</taskdef>
+
+
+	<path id="main.classpath">
+		<fileset dir="${lib.dir}" includes="**/*.jar" />
+		<fileset dir="${scala.home}" includes="scala-library.jar" />
+		<pathelement location="bin" />
+
+	</path>
+
+	<path id="fop.classpath">
+		<fileset dir="/tools/fop-1.0/lib" includes="*.jar" />
+		<fileset dir="/tools/fop-1.0/build" includes="*.jar" />
+	</path>
+
+
+	<path id="msv.classpath">
+		<fileset dir="${lib.dir}/msv" includes="*.jar" />
+	</path>
+
+
+
+	<property name="src.dir" value="${basedir}/src" />
+	<property name="build.dir" value="${basedir}/build" />
+
+	<target name="init">
+		<property name="scala-library.jar" value="${scala.home}/scala-library.jar" />
+		<path id="build.classpath">
+			<pathelement location="${scala-library.jar}" />
+			<fileset dir="${lib.dir}" includes="*.jar" />
+			<fileset dir="${lib.dir}/fop" includes="*.jar" />
+			<pathelement location="${build.dir}" />
+		</path>
+		<taskdef resource="scala/tools/ant/antlib.xml">
+			<classpath>
+				<pathelement location="${scala.home}/scala-compiler.jar" />
+				<pathelement location="${scala-library.jar}" />
+			</classpath>
+		</taskdef>
+	</target>
+
+	<target name="build" depends="init" description="Compile all Scala code">
+		<mkdir dir="${build.dir}" />
+		<scalac srcdir="${src.dir}" destdir="${build.dir}" classpathref="build.classpath">
+			<include name="**/*.scala" />
+		</scalac>
+	</target>
+
+	<target name="jar" depends="build" description="Build a new JAR from Scala classes">
+		<jar destfile="${basedir}/lib/webkursi-songs.jar" basedir="${build.dir}" excludes="**/Test.class" />
+	</target>
+
+	<target name="make" description="Creates PNG and MIDI from LilyPond">
+		<fail unless="song" message="Missing parameter 'song'" />
+		<exec executable="lilypond">
+			<arg value="-fpng" />
+			<arg value="${current.dir}/${song}.ly" />
+		</exec>
+
+		<java classpathref="main.classpath" fork="true" dir="." classname="lv.webkursi.songs.raster.CropPng">
+			<arg value="${basedir}/${song}.png" />
+			<arg value="${basedir}/${song}.new.png" />
+			<!--			<arg value="-d835x1181"/> -->
+		</java>
+
+		<move file="${basedir}/${song}.new.png" tofile="${current.dir}/../png/${song}.png" />
+
+		<exec executable="lilypond">
+			<arg value="-dbackend=svg" />
+			<arg value="${current.dir}/${song}.ly" />
+		</exec>
+
+		<java classname="lv.webkursi.songs.lilypond.FrameSvg" classpathref="main.classpath">
+			<arg value="${basedir}/${song}.svg" />
+			<arg value="${current.dir}/../svg/${song}.svg" />
+		</java>
+
+		<move file="${basedir}/${song}.midi" tofile="${current.dir}/../midi/${song}.midi" failonerror="false" />
+		<move file="${basedir}/${song}.mid" tofile="${current.dir}/../midi/${song}.midi" failonerror="false" />
+		<delete file="${basedir}/${song}.png" />
+		<delete file="${basedir}/${song}.ps" />
+		<delete file="${basedir}/${song}.svg" />
+
+		<java classpathref="main.classpath" fork="true" dir="." classname="lv.webkursi.songs.raster.Display">
+			<arg value="${current.dir}/../png/${song}.png" />
+		</java>
+
+	</target>
+
+	<target name="transform-svg" description="Transform one SVG file">
+		<java classname="lv.webkursi.songs.printing.TransformSvgFont" classpathref="main.classpath">
+			<arg value="songs/svg/AiMuoren-aTe-rga-Guoja.svg" />
+			<arg value="build-book/svg/AiMuoren-aTe-rga-Guoja.svg" />
+		</java>
+
+	</target>
+
+	<target name="prepare-book-files" description="Prepare SVG etc. files">
+		<fail unless="name" message="Missing parameter 'name'" />
+		<mkdir dir="build-book" />
+		<delete dir="build-book/svg" failonerror="false" />
+		<delete dir="build-book/xml" failonerror="false" />
+		<mkdir dir="build-book/svg" />
+		<mkdir dir="build-book/xml" />
+		<java classname="lv.webkursi.songs.printing.BookletMain" classpathref="main.classpath">
+			<arg value="resources/${name}.xml" />
+		</java>
+	</target>
+
+	<target name="prepare-fo" description="Creates Formatted Objects file from XML song booklet">
+		<fail unless="name" message="Missing parameter 'name'" />
+
+		<java classpathref="main.classpath" fork="true" dir="." classname="net.sf.saxon.Transform">
+			<arg value="-s:resources/${name}.xml" />
+			<arg value="-xsl:resources/style.xsl" />
+			<arg value="-o:build-book/${name}.fo" />
+		</java>
+	</target>
+
+
+	<target name="prepare-pdf" description="Creates PDF file from XML song booklet" depends="prepare-fo">
+		<fail unless="name" message="Missing parameter 'name'" />
+		<java classpathref="fop.classpath" fork="true" dir="." classname="org.apache.fop.cli.Main">
+			<arg value="-c" />
+			<arg value="/tools/fop-1.0/conf/fop.xconf" />
+			<arg value="build-book/${name}.fo" />
+			<arg value="build-book/${name}.pdf" />
+		</java>
+
+	</target>
+
+	<target name="prepare-booklet" description="Transforms PDF(A4) into a A5 booklet">
+		<fail unless="name" message="Missing parameter 'name'" />
+		<java classpathref="main.classpath" fork="true" dir="." classname="lv.webkursi.songs.printing.A5BookletWriter">
+			<arg value="build-book/${name}.pdf" />
+		</java>
+	</target>
+
+	<target name="frame-svg" description="cut margins around SVG file">
+		<fail unless="name" message="Missing parameter 'name'" />
+		<java classname="lv.webkursi.songs.lilypond.FrameSvg" classpathref="main.classpath">
+			<arg value="songs/motives/${name}.svg" />
+			<arg value="songs/motives-svg/${name}.svg" />
+		</java>
+	</target>
+
+
+
+	<target name="foo">
+		<foreach target="bar" param="song">
+			<fileset dir="for-verification/lilypond" casesensitive="yes">
+				<include name="**/*.ly" />
+			</fileset>
+		</foreach>
+	</target>
+
+	<target name="bar" depends="init">
+		<echo message="prop is ${song}" />
+	</target>
+
+
+	<target name="validate">
+		<fail unless="name" message="Missing parameter 'name'" />
+		<java classpathref="msv.classpath" fork="true" dir="." classname="com.sun.msv.driver.textui.Driver">
+			<arg value="resources/song.dtd" />
+			<arg value="${current.dir}/${name}" />
+		</java>
+	</target>
+
+	<target name="validate-all" description="Validate all songs listed under 'build.songs.txt'">
+		<java classpathref="msv.classpath" fork="true" dir="." classname="com.sun.msv.driver.textui.Driver">
+			<arg value="resources/song.dtd" />
+			&list;
+		</java>
+	</target>
+
+
+</project>

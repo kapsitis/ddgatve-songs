@@ -1,0 +1,340 @@
+<bibliography>
+ 
+<bibitem 
+    id="#bibBerzinsTDz"
+    label="Berzins1948"
+    author="Sakārtojums: Ludis Bērziņš un Irēne Bērziņa"
+    title="Tēvu dziesma. Skandināšanai svētkos un darbdienā, sētā un nometnē"
+    published="Emindingena"/>
+
+<bibitem 
+    id="#bibBudeli2007" 
+    label="Budeli2007"
+    title="Mēs no Rīgas Budēlīši"
+    publisher="Lielupes izdevniecība"
+    year="2007"
+    isbn="9984-563-85-5" 
+    pages="150"/>
+    
+<bibitem 
+    id="#DienasJani" 
+    label="DienasJani"
+    title="Dienas Jāņu sadaļa"
+    url="http://jani.diena.lv/"
+    urlPattern="http://jani.diena.lv/?doo=dziesmas&amp;nr=${n}"/>
+
+<bibitem
+    id="#GadskartuDziesmas2007"
+    label="Dievseta2007"
+    author="Dievsētas ļaudis"
+    title="Gadskārtu dziesmas (CD)"
+    isbn="978-9984-39-187-8"
+    publisher="KMC Lauska"/>
+
+<bibitem 
+    id="#bibDovgjalloGrodi" 
+    label="Dovgjallo1985"
+    author="Georgs Dovgjallo"
+    title="Grodi"
+    published="Rīga"
+    publisher="Liesma"
+    year="1985"/>
+    
+<bibitem 
+    id="#bibDovgjalloDardedze"
+    label="Dovgjallo1991"
+    author="Georgs Dovgjallo, V.Ieviņa"
+    title="Dardedze"
+    published="Rīga"
+    publisher="Liesma"
+    year="1991"
+    pages="128"/>
+
+<bibitem 
+    id="#DziesmasLv" 
+    label="DziesmasLv" 
+    url="http://www.dziesmas.lv/"
+    urlPattern="http://www.dziesmas.lv/d/${n}"/>    
+    
+    
+<bibitem 
+    id="AALapas"
+    label="FkLaiva"
+    communication="Anda Ābele"
+    title="F/k 'Laiva' repertuārs"/>
+    
+<bibitem
+    id="FkSkyforger"
+    label="FkSkyforger"
+    title="F/k 'Skyforger' repertuārs"/>
+
+<bibitem
+    id="FkSkandinieki"
+    label="FkSkandinieki"
+    title="F/k 'Skandinieki' repertuārs"/>    
+
+<bibitem 
+    id="#bibGrinsZiemassvetki" 
+    label="Grins1992"
+    author="Marğers Grīns, Māra Grīna"
+    title="Latviešu gads, gadskārta un godi"
+    publisher="Everest"
+    year="1992"
+    isbn="586844003X"
+    url="http://www.dievturi.org/ZIEMASSVETKI.htm"/>
+ 
+<bibitem 
+    id="Igauni1993" 
+    label="Igauni1993"
+    title="Še bērneņ, tev zalta kūkle"
+    published="Rēzekne"
+    publisher="Rēzeknes Latgaļu kultūras biedrība"
+    year="1993"/>
+
+<bibitem
+    id="#bibJurjansLTMM3"
+    label="JurjansLTMM3"
+    author="Jurjānu Andrejs"
+    title="Latvju tautas mūzikas materiāli (6 sēj.)"
+    volume="3"
+    published="Rīga"
+    year="1894-1926"/>
+
+<bibitem
+    id="#bibJurjansLTMM4"
+    label="JurjansLTMM4"
+    author="Jurjānu Andrejs"
+    title="Latvju tautas mūzikas materiāli (6 sēj.)"
+    volume="4"
+    published="Rīga"
+    year="1913"/>
+
+<bibitem 
+    id="#MyusuDz" 
+    label="Leikuma2007"
+    author="Red.: L.Leikuma"
+    title="Ačynska latgalīšu bīdreiba. Myusu dzīsmis"
+    published="Ačynskys"
+    url="http://www.latgalec-ru.narod.ru/publikacii/myusu_dzismis.pdf"/>
+
+
+<bibitem 
+    id="#Dzīvesziņa5" 
+    label="Ltd5"
+    title="Latviešu tautas dzīvesziņa"
+    volume="5"
+    published="Rīga"
+    publisher="Zvaigzne"
+    year="1993"/>
+
+<bibitem
+    id="Mellena2004"
+    label="Mellena2004"
+    author="M.Mellēna, E.Spīčs, V.Muktupāvels, I.Irbe"
+    title="Gadskārtu grāmata"
+    publisher="Madris"
+    year="2004"
+    isbn="9984314081"
+    pages="496"/>
+
+<bibitem 
+    id="#Melngailis1951"
+    label="Melngailis1951"
+	author="Em. Melngailis"
+	title="Latviešu mūzikas folkloras materiāli (3 sēj.)"
+	published="Rīga"
+	year="1951–1953"/>
+	
+<bibitem 
+    id="#bibMelngailisLMFM1"
+    label="MelngailisLMFM1"
+	author="Em.Melngailis"
+	title="Latviešu mūzikas folkloras materiāli"
+	volume="1"/>
+
+<bibitem 
+    id="#bibMelngailisLMFM2"
+    label="MelngailisLMFM2"
+	author="Em.Melngailis"
+	title="Latviešu mūzikas folkloras materiāli"
+	volume="2"/>
+	
+<bibitem 
+    id="#bibMelngailisLMFM3"
+    label="MelngailisLMFM3"
+	author="Em.Melngailis"
+	title="Latviešu mūzikas folkloras materiāli"
+	volume="3"/>
+
+<bibitem
+    id="Muktupavels1989"
+    label="Muktupavels1989"
+    author="Valdis Muktupāvels"
+    title="Dindaru, dandaru"
+    published="Rīga"
+    publisher="Avots"
+    year="1989"/>
+
+<bibitem
+    id="#Muktupavels2009"
+    label="Muktupavels2009"
+    author="Valdis Muktupāvels"
+    title="Kokles un koklēšana Latvijā"
+    published="Rīga"
+    publisher="Lauska"
+    year="2009"
+    isbn="978-9984-39-959-1"
+    pages="118"/>
+
+<bibitem
+    id="#bibAustrasBiedriba2008"
+    label="Pumpure2008"
+    author="Sakārtojums: Austra Pumpure"
+    title="Mana Tautasdziesma. Austras dziesmu burtnīca"
+    publisher="Austras biedrība"
+    year="2008"/>
+
+
+<bibitem 
+    id="Katrīna" 
+    label="Riekstina2011"
+    communication="Katrīna Riekstiņa"/>
+
+<bibitem 
+    id="#bibSalaksLDDz"
+    label="Salaks1976"
+    author="Artūrs Salaks"
+    title="Latviešu dievestīgās dziesmas"
+    publisher="Labietis"
+    year="1976"/>
+
+<bibitem
+    id="#Silava1991"
+    label="Silava1991"
+    title="Visi gaida Jāņu dienu: Līgo dziesmas"
+    author="Sakārtojums: S.Silava"
+    published="Rīga"
+    publisher="Liesma"
+    year="1991"/> 
+
+<bibitem 
+    id="#SkandiniekiDLV" 
+    label="SkandiniekiDlv"
+    title="F/k 'Skandinieki' repertuārs"
+    url="http://www.draugiem.lv/skandinieki/music/"/>
+
+<bibitem
+    id="#Sūna1966"
+    label="Suna1966"
+    author="Harijs Sūna"
+    title="Latviešu rotaļas un rotaļdejas"
+    published="Rīga"
+    publisher="Zinātne"
+    year="1966"/>
+
+<bibitem
+    id="#bibVitolinsDDz"
+    label="Vitolins1958"
+    author="Jēkabs Vītoliņš"
+    title="Darba dziesmas"
+    published="Rīga"
+    year="1958"/>
+
+<bibitem
+    id="#Vitolins1971"
+    label="Vitolins1971"
+    author="Jēkabs Vītoliņš"
+    title="Bērnu dziesmu cikls. Bēru dziesmas"
+    published="Rīga"
+    year="1971"/>
+    
+<bibitem 
+    id="G. ie." 
+    label="Vitolins1973"
+    author="Jēkabs Vītoliņš"
+    title="Gadskārtu ieražu dziesmas"
+    published="Rīga"
+    publisher="Zinātne"
+    year="1973"/>
+
+<bibitem
+    id="#bibVitolinsPDz"
+    label="Vitolins1986"
+    author="Jēkabs Vītoliņš"
+    title="Precību dziesmas"
+    published="Rīga"
+    publisher="Zinātne"
+    year="1986"/>
+
+<bibitem
+    id="#bibVitols1906"
+    label="Vitols1906"
+    author="Jāzeps Vītols"
+    title="200 latviešu tautas dziesmas ar klavieru pavadījumu un arī klavierēm vien"
+    volume="1"
+    published="Rīga"
+    year="1906"/>
+    
+<bibitem
+    id="YoutubeCom"
+    label="YoutubeCom"
+    url="http://www.youtube.com/"
+    urlPattern="http://youtu.be/${n}"/>
+    
+<bibitem
+    id="vija"
+    label="VijaVigante"/>
+   
+<bibitem
+    id="DovgjalloGrodi"
+    label="Dovgjallo1985"/>
+
+<bibitem
+    id="#AALapas"
+    label="FkLaiva"/>
+    
+<bibitem
+    id="Budēlīši"
+    label="Budeli2007"/>
+    
+<bibitem
+    id="#bibBudeli2007()"
+    label="Budeli2007"/>
+
+<bibitem
+    id="#bibBudeli"
+    label="Budeli2007"/>
+    
+<bibitem
+    id="#bibBudēļi2007"
+    label="Budeli2007"/>
+    
+<bibitem
+    id="MyusuDz"
+    label="Leikuma2007"/>
+    
+<bibitem
+    id="#bibMelngailisKDz"
+    label="Melngailis1951"/>
+
+<bibitem 
+    id="Visi gaida Jāņu dienu"
+    label="Silava1991"/>
+     
+<bibitem
+    id="#bibGrinsLGGG"
+    label="Grins1992"/>
+    
+<bibitem
+    id="GadskartuDziesmas2007"
+    label="Dievseta2007"/>
+    
+<bibitem
+    id="id="#bibMaldere2012"
+    label="Maldere2012"
+    author="Ērika Māldere"
+    title="3x9 Jāņi"
+    published="Zvaigzne ABC"
+    year="2012"/>
+
+</bibliography>

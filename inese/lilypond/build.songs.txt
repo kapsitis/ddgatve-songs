@@ -1,0 +1,21 @@
+<foreach list="OiEgleEgle,
+ParUpi-tiDi-guVilku,
+Polka,
+PuoriBroucuAzarami,
+ShuvuShuvuVarazheju,
+SiejuPlotuKvi-shuDruvu,
+VoiDi-vinDi-vamZha-l-,
+VusiViejiManiPuvta,
+ZidejBoltaUobelite" delimiter="," trim="true" target="make" param="song">
+</foreach>
+
+<!--
+Dza-rojsPuikaBa-dova-si,
+EsMa-minaiVi-naMeita,
+LaiZal-ojJouni-ba,
+NuTuoli-nesEsPazynu,
+-->
+
+
+
+

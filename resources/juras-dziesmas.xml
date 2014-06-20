@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book basedir="songs">
+
+<title>Dziesmas par jūru un ūdeni</title>
+<subtitle></subtitle>
+<location>Rīga</location>
+<publisher>Apgāds www.dudajevagatve.lv</publisher>
+<year>2012</year>
+
+<edition-notice>
+Izdošanas datums: 2012.gada 19.jūnijs
+<!--
+Dziesmu pirmteksti: http://code.google.com/p/webkursi/
+
+Krājums PDF formātā: http://latvian-ebooks.googlecode.com/svn/trunk/
+-->
+</edition-notice> 
+
+
+<foreword>
+// //
+</foreword>
+
+<section>
+<title>Dziesmas</title> 
+<song dir="songs" id="AiJu-rin-aAiJu-rin-a" />
+<song dir="songs" id="AiZal-a-iLi-dacin-a" />
+<song dir="songs" id="ArLaivin-uIelaidosi"/>   
+<song dir="songs" id="Aure-damaVe-jaMa-te" />   
+<song dir="songs" id="Baltaitin-aJu-ruBrida"/>
+<song dir="songs" id="BaltaitinaJu-ruPelda"/>
+<song dir="songs" id="BaltaJu-rasMa-mulin-a"/>
+<song dir="songs" id="Dari-s-uLaivin-uStraujupesMala-"/> 
+<song dir="songs" id="DivLaivin-asPeldPaJu-ru"/>
+<song dir="songs" id="DivLaivenisPeldPaJyuru"/>
+<song dir="songs" id="DivSveci-tesJu-ra-Dega"/>
+<song dir="songs" id="EsRedze-juJu-rinja-iZeltaStellesLi-gojam"/>  <!-- KLAIDA!!! -->
+<song dir="songs" id="EsRedzejuJurina"/>
+<song dir="songs" id="Ga-juJu-ra-NauduSe-ti"/>
+<song dir="songs" id="Ju-r-aS-n-a-caju-r-aKra-ca"/>
+<song dir="songs" id="Ju-rasMa-teManPrasi-ja"/> 
+<song dir="songs" id="Ju-rin-a-iTri-sBandzin-as"/>
+<song dir="songs" id="JuraGajuNauduSeti"/>
+<song dir="songs" id="KadEsGa-juJu-rin-a-i"/>
+<song dir="songs" id="KoTa-Ju-raAgriKra-ca"/>
+<song dir="songs" id="KoTuGaidiOs-aLaiva"/>
+<song dir="songs" id="KurTuSkriesiVe-jaMa-te"/>
+<song dir="songs" id="KurTuTeciMelnaU-dre"/>
+<song dir="songs" id="Le-niLe-niJu-raKra-ca"/>
+<song dir="songs" id="Lielupi-teLieli-ja-si"/>
+<song dir="songs" id="NoJu-rin-asIzpelde-ja"/>
+<song dir="songs" id="Pu-tPu-tVe-jaMa-t"/>
+<song dir="songs" id="S-auraS-auraManLaivin-a"/>
+<song dir="songs" id="SauleGa-jaSpe-le-tiesi"/>
+<song dir="songs" id="SkatatiesiJu-rin-a-i"/>
+<song dir="songs" id="Te-vsManTaisaOs-aLaivu"/>
+<song dir="songs" id="UpeSakaTece-dama"/>
+<song dir="songs" id="UpeSakaTecedama"/>
+<song dir="songs" id="UzU-den-aUziedams"/>
+<song dir="songs" id="ZvejiniekaMeitaBiju"/>
+</section>
+
+</book>

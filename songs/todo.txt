@@ -1,0 +1,91 @@
+#24: 2.balss un akordi - vai tiem jābūt savstarpēji saskaņotiem (atrisinājums, teiksim, ir C mažora trijskanis, 
+bet otrajā balsī ir "la"). 
+#3 - Sol mažora trijskanis (3.takts) dīvaini kontrastē ar sol#-si, kas ir otrajā balsī.
+#34 - 7.taktī D-septakorda skaņas un C akords.
+
+#23, #18, #13, #1, #26, #27, #28, #29, #39, #42 - ja dziesmā ir ļoti maz akordu maiņu, vai ir iespējams šo pavadījumu kaut kā 
+daudzveidīgot? Piemēram, norādot vai nu akorda apvērsumus, vai arī, ģitāru terminos runājot, "split chords" (t.i. akordu, 
+kuram basa skaņa ir kaut kāda nestandarta - varbūt pat nepiederoša nevienam akorda apvērsumam).  
+
+#30  Dziesma mažorā, bet beidzas ar Am? 
+
+
+
+
+
+Dažas manas izmaiņas:
+=====================
+#25 9.taktī ieliku C (do mažora trijskani). Pirms tam tur bija noklusēts F (no iepriekšējās takts). 
+#37 Ritms pārtaisīts no 12/4 uz 6/4. 
+#47  ceturtais akords G (nevis C7) - lai varētu turpināt uz nākamo takti. 
+
+
+(1) narrator-region pazīme (Latgaļu dziesmas)
+
+
+No Vijas foldera nevajag izņemt šādas dziesmas - tās ir 
+
+Skauģim auga apses birze (fermata un atkartojums - volta)
+Tumsa gaju vakara (daleja divbalsiba - sākas dziesmas vidū...)
+Tumša nakte zaļa zāle (Ligas un akordi - slur(), phrasingSlur, tie ~)
+Šupo mani mamulina vizulisu supoles (liga ar paartraukumiem)
+Shupo mani mamulina, otru reizi neshuposi (burdons - velk ar liigu)
+Krumi, krumi mezhi mezhi (tas pats)
+Rami rami padziedaju (parasta divbalsiba)
+No saknītes lazdiņš zied. 
+Nac nakdama liela diena (2 sistemas)
+Aija zhuzhu mazais berninjs (volta ar alternativiem nobeigumiem)
+
+Kanoni
+Psalmi (bez taktīm...) 
+Ģitāras akordi (vācu?)
+Vārdi divās valodās (vai vairāki panti zem melodijas?)
+Dažādi MIDI instrumenti (ērģeles)
+
+
+
+
+
+
+Bibliogrāfija
+=============
+#Melngailis1951
+	Em.Melngailis. Latviešu mūzikas folkloras materiāli (I–III, R., 1951–1953).
+#bibMelngailisLMFM1
+	Em.Melngailis. Latviešu mūzikas folkloras materiāli. 1.sēj.
+#MyusuDz
+    Myusu dzīsmis; Mūsu dziesmas. Atbildīgais redaktors L.Leikuma. Ačynskys, 2007.
+Igauni1993
+    Še bērneņ, tev zalta kūkle. Sast. Rasma un Gunars Igauni. Rēzeknes Latgaļu kultūras biedrība, 1993.
+#Sūna1966
+    Harijs Sūna. Latviešu rotaļas un rotaļdejas. Zinātne, 1966.
+#bibBerzinsTDz
+    Tēvu dziesma. Skandināšanai svētkos un darbdienā, sētā un nometnē. 
+    Sakārtojis Ludis bērziņš un Irēne Bērziņa - Emindingena, 1948.
+#bibBudeli2007
+    Mēs no Rīgas Budēlīši. Jāņa Klepera teksts. Lienas Teterovskas dziesmu atlase. Jūrmala 2007.
+#bibGrinsLGGG
+	Marģers Grīns un Māra Grīna. Latviešu gads, gadskārta un godi. Rīga, 1992.    
+#bibSalaksLDDz
+	Artūrs Salaks. Latviešu dievestīgās dziesmas. Labietis, 1976.
+#bibJurjansLTMM3
+	Jurjānu Andrejs. Latvju tautas mūzikas materiāli. 1.-6.sēj. Rīga, 1894-1926.
+#bibAustrasBiedriba2008
+    Mana Tautasdziesma. Austras dziesmu burtnīca. Austras biedrība, 2008. 
+#bibVitols1906
+
+#bibGrinsZiemassvetki
+    Marģers Grīns un Māra Grīna. Latviešu gads, gadskārta un godi. Ziemassvētki. 
+    http://www.dievturi.org/ZIEMASSVETKI.htm
+#Dzīvesziņa5
+    Latviešu tautas dzīvesziņa 5. Rīga, 1993.
+#SkandiniekiDLV
+    Skandinieki. Mūzika. http://www.draugiem.lv/skandinieki  
+#Vitolins1971    
+    Vītoliņš J. Bērnu dziesmu cikls. Bēru dziesmas. - R., 1971.   
+#DienasJani
+    http://www.diena.lv/jani/index.php?doo=dziesmas
+#Silava1991
+	Visi gaida Jāņu dienu: Līgo dziesmas. Sast. Silava. Liesma, 1991. 
+#GadskartuDziesmas2007
+    Gadskārtu dziesmas. 2007.

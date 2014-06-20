@@ -1,0 +1,58 @@
+﻿<?xml version="1.0"?>
+<book>
+
+<title>10.maja guojīņs</title>
+<subtitle>Krājumu sakārtoja ...</subtitle>
+<location>Rīga</location>
+<publisher>&#37324;&#21152;&#25991;&#33402;&#20986;&#29256;&#31038; - Lǐjiā wényì chūbǎnshè</publisher>
+<year>2011</year>
+
+<edition-notice>
+Izdošanas datums: 2011.gada 26.decembris
+
+Creative Commons BY-SA 3.0 license. http://creativecommons.org/licenses/by-sa/3.0/deed.lv
+Latvian folk songs. Chords, harmonizations, metadata edited by Katrīna Riekstiņa (jmrmv.lv).
+Use and distribute without limitations. If you alter, transform or 
+build upon this work, please retain this Creative Commons notice.
+
+ISBN: ... 
+</edition-notice> 
+
+
+<foreword title="Guojīņs pīminūt 1917.goda Rēzeknes kongresu">
+"MES, Latgolas latvīši, apsavīnōdami ar Kūrzemes un Vydzemes latvīšim, 
+paturēsim sovu pošvaldeibu, pylnu pošnūteikšonas tīseibu volūdas, 
+ticeibas, bazneicas, školu un saimisteibas, kai ari zemes vaicōjumā, 
+bazneicys dareišonōs pīvīnojūt pi Latgolas ari Kūrzemes un Vydzemes katōļus."\\
+//(1917.goda 26.apreļa Rēzeknes kongresa lāmumu 2.pants)//
+
+"LATGOLAI, ka Latvijas īpatnejai sastōvdaļai, pīškirama patstōveiba vītejās
+pošvaldeibas, volūdas, školu un bazneicas lītōs."\\
+//(1917.goda 30.julija vysu apgobolu pōrstōvu kongresa Reigā lāmumu 3.pants)//
+
+//2012.goda 10.majā Nacionaluos apvīneibys jaunīši Rēzeknē 
+organizej guojīni ar lāpom,  pīminūt i atguodojūt viesturiskū dīnu, 
+kod beja oficiali sasprīsts par Latgolys apzavīnuošonu ar Vidzemi i Kurzemi. 
+Guojīņs suoksīs 21:30 ar runom pi zeimeiguo latgaļu politika, 
+bazneickunga i tautyskuos atmūdys ceineituoja Franča Trasuna pīminekļa 
+i tuoļuok īs da Latgolys atbreivuošonys pīminekļam "Vīnuoti Latvejai!".
+1917.goda 10.majā beidzēs 1.Latgolys latvīšu kongress, kur nūsaceja, 
+ka Latgolai vajag atsaškiert nu Vitebskys gubernis i vajag apzavīnuotīs 
+ar Vydzemis i Kurzemis latvīšim.
+Guojīnā aicynom pīzadaleit vysus, kam duorga latgaliskuo Latgola i latvyskys 
+gors Latvejā. Īsokom pajimt leidza karūgus i lāpys. 
+Itymā saīšonā pīzadaleis Saeimys Nacionaluos apvīneibys deputate Inese Laizāne, 
+i Tīseiguma ministrejis parlamentarais sekretars Jānis Bordāns. 
+Seikuoka dazynuošona pi Māra Igavena maris.igavens@gmail.com 29235941.//
+</foreword>
+
+<section id="A">
+<title>Dzīsmis</title>
+<song dir="songs-other" id="PiminBruol"/>
+<song dir="songs" id="AugaAugaRu-zhen-a"/>
+<song dir="songs" id="MuoteDe-len-uAukle-ja"/>
+<song dir="songs" id="TuoliDzeivojMunaMeiluo"/>
+<song dir="songs-other" id="DzidTrallojMezs"/>
+</section>
+
+</book>

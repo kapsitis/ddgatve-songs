@@ -1,0 +1,8 @@
+# Scrollable Display (can see also longer songs compiled)
+# "make-all" task switches off display 
+(automatically - by passing a parameter to "make" target). 
+# There is an ant target "printable" to produce a 
+single song by its name (as PDF with words, etc.)
+# There is an ant target "printable-all", 
+which takes some file-list and produces a simple PDF booklet 
+with table of contents, etc.

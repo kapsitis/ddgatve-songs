@@ -1,0 +1,26 @@
+<!ELEMENT song (title,sources,seeAlso,tags,narrator,narrator-loc?,musicBy,lyricsBy,genre,(mode,keys,motive)?,ref,note?,lyrics)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT sources (source)*>
+<!ELEMENT source EMPTY>
+<!ATTLIST source 
+    label CDATA #REQUIRED
+    code CDATA #IMPLIED
+    page CDATA #IMPLIED>
+<!ELEMENT tags (#PCDATA)>
+<!ELEMENT narrator (#PCDATA)>
+<!ELEMENT narrator-loc (#PCDATA)>
+<!ELEMENT musicBy (#PCDATA)>
+<!ELEMENT lyricsBy (#PCDATA)>
+<!ELEMENT genre (#PCDATA)>
+<!ATTLIST genre
+    note CDATA #IMPLIED>
+
+<!ELEMENT mode (#PCDATA)>
+<!ELEMENT keys (#PCDATA)>
+<!ELEMENT motive (#PCDATA)>
+<!ATTLIST motive
+    add CDATA #IMPLIED>
+
+<!ELEMENT ref (#PCDATA)>
+<!ELEMENT note (#PCDATA)>
+<!ELEMENT lyrics (#PCDATA)>

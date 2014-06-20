@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+<title>Šūpuļdziesmas</title>
+
+<subtitle>(http://lilypond.org/)</subtitle>
+
+<section title="* * *">
+
+
+
+<song title="Netīšāmi es iegāju">
+<lilypond src="Neti-sha-miEsIega-ju.ly"/>
+<text lang="lv">
+<verse>Netīšāmi es iegāju, es iegāj', mīļās Māras istabā, istabā.\\
+Pilna Māras istabiņa, sīku mazu šūpulīšu.\\
+Kad es vienu pašūpoju, visi līdzi līgojāsi.</verse>
+<verse>Mīļā Māra sieviņāmi trejus ziedus pametusi:\\
+Namā meta liepu lapas, istabāi ievas ziedus;\\
+Pirtes taku kaisījusi apenīša lapiņāmi.</verse>
+<verse>Ne visiemi mīļā Māra zelta klāja paladziņu;\\
+Sieviņāmi vien paklāja grūtajāsi dieniņāsi.</verse>
+</text>
+</song>
+
+
+
+<song title="Lieli bērni brīnījās">
+<lilypond src="LieliBe-rniBri-ni-ja-s.ly"/>
+<text lang="lv">
+<verse> Aijā, aijā, ē-ē-e! Aijā, aijā, ē-ē-e!\\
+Lieli bērni brīnījās, kur pādīte radījās;</verse>
+<verse>No debesu nolaidās, ar sudraba ķēdītēm,\\
+Aijā, aijā, ē-ē-e! Aijā, aijā, ē-ē-e!</verse>
+<verse>Ar sudraba ķēdītēm, sudrabiņa šūpulī.\\
+Aijā, aijā, ē-ē-e! Aijā, aijā, ē-ē-e!</verse>
+<verse>Aizmigusi māmulīt, zem bērniņa šūpulīt'\\
+Aijā, aijā, ē-ē-e! Aijā, aijā, ē-ē-e!</verse>
+<verse>Šūpodama , līgodam', vieglas dienas gribēdam'.
+Aijā, aijā, ē-ē-e! Aijā, aijā, ē-ē-e!</verse>
+<verse>Tik katrami laimes bij', cik ielika šūpulī;\\
+Aijā, aijā, ē-ē-e! Aijā, aijā, ē-ē-e!</verse>
+<verse>Cik kurami iedziedāj' māmuliņa maziņam.\\
+Aijā, aijā, ē-ē-e! Aijā, aijā, ē-ē-e!</verse>
+<verse>Kas varēja izglabāt maza bērna dvēselīt'\\
+Aijā, aijā, ē-ē-e! Aijā, aijā, ē-ē-e!</verse>
+<verse>Glabā Dievis, glabā Laim', glabā paša māmuliņ'\\
+Aijā, aijā, ē-ē-e! Aijā, aijā, ē-ē-e!</verse>
+</text>
+
+</song>
+
+<song title="Šūpojiesi, šūpulīt">
+<lilypond src="Shu-pojiesiShu-puli-t.ly"/>
+<text lang="lv">
+<verse>Šūpojiesi, šūpulīt, audzē lielu bālēliņ',\\
+Kungi gaida karavīr', tēvs, māmiņa - arājiņ'.</verse>
+<verse>Auklēdama, māmuliņ, auklē mani krietnu vīr';\\
+Tāpat tevim dienas gaisa, neveiklīti auklējot.</verse>
+<verse>Paldies saku māmiņai par to labu lolojum':\\
+Nav devusi dižu miegu, ne ar' sīvu padomiņ'.</verse>
+<verse>Šūpojiesi, šūpulīt, audzē lielu bālēliņ',\\
+Tēvs, māmiņa maizi dev', Dieviņš lielu audzināj'.</verse>
+
+
+<verse>Šūpojiesi, šūpulīt, audzē lielu meitenīt':\\
+Tautas gaida līgaviņ's, tēvs, māmiņa - malējiņ's.</verse>
+<verse>Šūpo mani, māmuliņ', rakstītāi šūpulī:\\
+Liec maizīti liec naudiņ', liec gudroi padomiņ'. </verse>
+</text>
+
+</song>
+
+
+
+
+<song title="Auklē, mani, māmiņ">
+<lilypond src="Aukle-ManiMa-minj.ly"/>
+<text lang="lv">
+<verse>Auklē, mani, māmiņ, daiļu karavīru:\\
+Karodziņu nesti, zobentiņu celti.</verse>
+<verse>Šūpo tēvs māmiņa, kamēr šūpulēi;\\
+Kāpšu kumeļāi, šūpos kumeliņis,\\
+Šūpos kumeliņis kara pulciņāi,\\
+Kara pulciņāi, svešā zemītēi.</verse>
+</text>
+</song>
+
+
+<song title="Maziņos putniņus Vējmāte šūpo">
+<lilypond src="MazinjosPutninjusVe-jma-teShu-po.ly"/>
+<text lang="lv">
+<verse>Maziņos putniņus Vējmāte šūpo.\\
+Kalniņa galiņā, bērziņa zarā.\\
+Kar, māmiņ, šūpuli kalniņa galā:\\
+Ja mani nešūpos, Vējmāte šūpos.</verse>
+<verse>Šūpoi, eglīte, vāveres bērnu;\\
+Es pati šūpoju sav' mazo bērnu.\\
+Auklēju bērniņu, nedaru darbiņ':\\
+Izaugsi bērniņi, darīšu darbiņ'.</verse>
+<verse>Atteci, pelīte, atvelci miedziņ'\\
+Pa duru šķirbiņu, pa loga rūti;\\
+Ielieci bērniņam šupuļa galā!</verse>
+</text>
+</song>
+
+
+<song title="Miedziņš jāja ap istabu">
+<lilypond src="MiedzinjshJa-jaApIstabu.ly"/>
+<text lang="lv">
+<verse>Miedziņš jāja ap istabu dābulainu kumeliņ',\\
+Jāj, miedziņi, istabāi, dos memmiņa snaudulīt'.</verse>
+<verse>Mazi bērni sav' miedziņu vārdzināti vārdzināj',\\
+Ielikuši vīzītēi, pa istabu vizināj'.</verse>
+<verse>Velc, pelīte, bērnam miegu no visiemi pasikņiem:\\
+No kaktiņa, no mūriņa, no pagrīdes caurumiņ'.</verse>
+<verse>Pele brauca, rati rūca, mučelīti miega ved.\\
+Šim saujiņa, tam saujiņa, mazajami - puspūrīt'</verse>
+</text>
+</song>
+
+
+
+<song title="Pelīte brauc ratiņi čīkst">
+<lilypond src="Peli-teBraucRatinjiChi-kst2.ly"/>
+<text lang="la">
+<verse>Pelīte brauc, ratiņi čīkst pilnu maisiņu miega ved.\\
+Šim saujiņa, tam saujiņa, mazajami riekšaviņ'. </verse>
+<verse>Tiltiņis rīb, pelīte brauc, ar to miega vezumiņ'.\\
+Brauc, pelīte, mūs' mājāi, mums ir mazi gulētāj'. </verse>
+<verse>Pelīte miegu atvizināj' manam mazajam bērniņam.\\
+Caur ūdeni, caur akmeni, caur šūpuļa pagalviņ'. </verse>  
+<verse>Pelīte pīkst, ratiņi čīkst, veda miedziņu bērniņam.\\
+Klusi, klusi, lēni, lēni ieliec pašās actiņās. </verse>
+</text>
+</song>
+
+
+<song title="Velc, pelīte, saldu miegu">
+<lilypond src="VelcPeli-teSalduMieguE-e-Eija-.ly"/>
+<text lang="lv">
+<verse>Velc, pelīte, saldu miegu, ē - ē - eijā, mazajami bērniņami, ē - ē - eijā!\\
+Caur rijiņu, caur piedarbu, caur to salmu gubenīti;\\
+Savilkusi, sanesusi, guli pate pagalvēi.</verse>
+<verse>Aiju, aiju, mazi bērni, kad jūs lieli izaugsieti?\\
+Pavasara Saulītēi, kad pupiņas dārziņāi,\\
+Kad pupiņas dārziņāi, kad odziņas mētriņāsi.</verse>
+</text>
+</song>
+
+<song title="Čuči, guli mazbērniņ">
+<lilypond src="ChuchiGuliMazbe-rninj.ly"/>
+<text lang="lv">
+<verse>Čuči, guli mazbērniņ, es tecēšu puķes plūkt;\\
+Izpušķošu šūpulīt', visādāmi puķītēm:\\
+Visapkārti puķes likš', vidū pašu rožu krūm'.</verse>
+</text>
+</song>
+
+<song title="Es redzēju jūriņāi">
+<lilypond src="EsRedze-juJu-rinja-iZeltaStellesLi-gojam.ly"/>
+<text lang="lv">
+<verse>Es redzēju jūriņāi zelta stelles līgojam;\\
+Es redzēju jūriņāi zelta stelles līgojam.\\
+Sit, vilnīti, maliņāi, še būs daiļa audējiņ'.</verse>
+<verse>Laime, Laime tai meitai, kas piedzima Saulītē:\\
+Tai Laimiņa saktas lēja, sudrabāi mērcēdam'.</verse>
+<verse>Gaiša, gaiša uguns dega tumšajāi kaktiņā;\\
+Tur Laimiņa mūžu raksta mazajami bērniņam.</verse>
+<verse>Laimiņ, mūža licējiņa, kādu mūžu man nolik'?\\
+Vai tu liki pa ļaudīmi, vai pa ļaužu valodām?</verse>
+<verse>Visi ļaudis to vien teica - man' Laimiņa noslīkus;\\
+Mana Laime kalniņāi sēd sudraba krēsliņā.</verse>
+<verse>Ej, Laimiņa, kur iedama, nāc pie manis pāriedam',\\
+Palīdz' manu grūtu mūžu vieglumāi darināt!</verse>
+</text>
+</song>
+
+
+
+
+</section>
+
+
+</songs>

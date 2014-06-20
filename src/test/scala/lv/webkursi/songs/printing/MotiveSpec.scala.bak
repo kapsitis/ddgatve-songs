@@ -1,0 +1,163 @@
+package lv.webkursi.songs.printing
+
+import org.specs2.mutable._
+
+class MotiveSpec extends SpecificationWithJUnit {
+  "The 'Hello world' string" should {
+    "contain 11 characters" in {
+      "Hello world" must have size (11)
+    }
+    "start with 'Hello'" in {
+      "Hello world" must startWith("Hello")
+    }
+    "end with 'world'" in {
+      "Hello world" must endWith("world")
+    }
+  }
+
+  "Motive.transposeByFourth" should {
+    "do simple transpose" in {
+      val notsRegex = """([a-g]e?i?s?)([',]+)""".r
+      val notsRegex(a,b) = "gis,,"
+      println ("a = " + a + ", b = " + b)
+      val aa = List("c", "d", "e", "f", "g", "a", "b")
+      val bb = Motive.transposeByFourth(aa)
+      bb must_== List("f", "g", "a", "bes", "c", "d", "e")
+      
+      
+    }
+  }
+
+  "Motive.lt" should {
+    "m < m  is false" in {
+      val m: Motive = new Motive("AijaZuzu", 10, List("c", "d", "e"), 0)
+      Motive.lt(m, m) must_== false
+    }
+    "prefix < wholeString is true" in {
+      val ma: Motive = new Motive("AijaZuzu", 10, List("c", "d", "e"), 0)
+      val mb: Motive = new Motive("AijaZuzu", 10, List("c", "d", "e", "f", "g"), 0)
+      Motive.lt(ma, mb) must_== true
+      Motive.lt(mb, ma) must_== false
+    }
+    "(c) is before (d)" in {
+      val ma: Motive = new Motive("CDE", 10, List("c", "d", "e"), 0)
+      val mb: Motive = new Motive("DEF", 10, List("d", "e", "f", "f", "g"), 0)
+      Motive.lt(ma, mb) must_== true
+      Motive.lt(mb, ma) must_== false
+    }
+    "(c) is before (g)" in {
+      val ma: Motive = new Motive("CDE", 10, List("c", "d", "e"), 0)
+      val mb: Motive = new Motive("DEF", 10, List("g", "a", "b", "f", "g"), 0)
+      Motive.lt(ma, mb) must_== true
+      Motive.lt(mb, ma) must_== false
+    }
+    "(c) is before (a)" in {
+      val ma: Motive = new Motive("CDE", 10, List("c", "d", "e"), 0)
+      val mb: Motive = new Motive("DEF", 10, List("a", "a", "b", "f", "g"), 0)
+      Motive.lt(ma, mb) must_== true
+      Motive.lt(mb, ma) must_== false
+    }
+    "(c) is before (b)" in {
+      val ma: Motive = new Motive("CDE", 10, List("c", "d", "e"), 0)
+      val mb: Motive = new Motive("DEF", 10, List("b", "a", "b", "f", "g"), 0)
+      Motive.lt(ma, mb) must_== true
+      Motive.lt(mb, ma) must_== false
+    }
+
+    "(d) is before (g)" in {
+      val ma: Motive = new Motive("CDE", 10, List("d", "d", "e"), 0)
+      val mb: Motive = new Motive("DEF", 10, List("g", "a", "b", "f", "g"), 0)
+      Motive.lt(ma, mb) must_== true
+      Motive.lt(mb, ma) must_== false
+    }
+    "(a) is before (b)" in {
+      val ma: Motive = new Motive("CDE", 10, List("a", "d", "e"), 0)
+      val mb: Motive = new Motive("DEF", 10, List("b", "a", "b", "f", "g"), 0)
+      Motive.lt(ma, mb) must_== true
+      Motive.lt(mb, ma) must_== false
+    }
+
+    "constant motive is before increasing" in {
+      val ma: Motive = new Motive("CDE", 10, List("c", "c", "e"), 0)
+      val mb: Motive = new Motive("DEF", 10, List("c", "d", "b", "f", "g"), 0)
+      Motive.lt(ma, mb) must_== true
+      Motive.lt(mb, ma) must_== false
+    }
+
+    "constant motive is before decreasing" in {
+      val ma: Motive = new Motive("CDE", 10, List("c", "c", "e"), 0)
+      val mb: Motive = new Motive("DEF", 10, List("c", "b", "b", "f", "g"), 0)
+      Motive.lt(ma, mb) must_== true
+      Motive.lt(mb, ma) must_== false
+    }
+
+    "slower increase is before faster increase" in {
+      val ma: Motive = new Motive("CDE", 10, List("c", "d", "e"), 0)
+      val mb: Motive = new Motive("DEF", 10, List("c", "e", "b", "f", "g"), 0)
+      Motive.lt(ma, mb) must_== true
+      Motive.lt(mb, ma) must_== false
+    }
+    
+    "slower decrease is before faster decrease" in {
+      val ma: Motive = new Motive("CDE", 10, List("c", "b", "e"), 0)
+      val mb: Motive = new Motive("DEF", 10, List("c", "g", "b", "f", "g"), 0)
+      Motive.lt(ma, mb) must_== true
+      Motive.lt(mb, ma) must_== false
+    }
+    
+
+  }
+
+  "Motive sorting" should {
+    "sort correctly" in {
+      val ma: Motive = new Motive("AijaZuzuA", 10, List("c", "d", "e"), 0)
+      val mb: Motive = new Motive("AijaZuzuB", 10, List("c", "d", "e", "f", "g"), 0)
+      val mc: Motive = new Motive("AijaZuzuC", 10, List("c", "d", "e", "f", "g", "e", "c"), 0)
+      val mList = List(mb, ma, mc)
+      val mSorted = mList.sortWith(Motive.lt)
+      mSorted(0).getSongId must_== "AijaZuzuA"
+      mSorted(1).getSongId must_== "AijaZuzuB"
+      mSorted(2).getSongId must_== "AijaZuzuC"
+    }
+  }
+
+  "findInterval" should {
+    "compute up" in {
+      Motive.findInterval("c", "c") must_== 0
+      Motive.findInterval("c", "d") must_== 2
+      Motive.findInterval("c", "e") must_== 4
+      Motive.findInterval("c", "f") must_== 5
+    }
+    "compute down" in {
+      Motive.findInterval("c", "g") must_== -5
+      Motive.findInterval("c", "a") must_== -3
+      Motive.findInterval("c", "b") must_== -1
+    }
+    "deal with alterations in 2nd arg" in {
+      Motive.findInterval("c", "cis") must_== 1
+      Motive.findInterval("c", "des") must_== 1
+      Motive.findInterval("c", "dis") must_== 3
+      Motive.findInterval("c", "eis") must_== 5
+      Motive.findInterval("c", "ees") must_== 3
+      Motive.findInterval("c", "fis") must_== 6
+      Motive.findInterval("c", "fes") must_== 4
+      Motive.findInterval("c", "gis") must_== -4
+      Motive.findInterval("c", "ais") must_== -2
+      Motive.findInterval("c", "bes") must_== -2
+    }
+
+  }
+
+  "GetOctave" should {
+    "compute correctly" in {
+      Motive.getOctave("c") must_== 0
+      Motive.getOctave("bis'") must_== 1
+      Motive.getOctave("fes''") must_== 2
+      Motive.getOctave("ais'''") must_== 3
+      Motive.getOctave("g,") must_== -1
+      Motive.getOctave("ges,,") must_== -2
+      Motive.getOctave("eis,,,") must_== -3
+
+    }
+  }
+}

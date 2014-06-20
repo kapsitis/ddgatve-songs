@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<project name="subproject" basedir=".">
+	<target name="make">
+		<ant dir="../.." target="make" inheritAll="true" inheritRefs="true">
+			<property name="current.dir" value="${basedir}" />
+		</ant>
+	</target>
+</project>

@@ -1,0 +1,74 @@
+package lv.webkursi.songs.wiki
+
+import org.specs2._
+
+class WikiSpec extends SpecificationWithJUnit {
+  
+  def is = s2"""
+
+    This is a specification to check the 'Hello world' string
+
+    The 'Hello world' string should
+      contain 11 characters                             $e1
+      start with 'Hello'                                $e2
+      end with 'world'                                  $e3
+                                                        """
+
+    def e1 = "Hello world" must have size(11)
+    def e2 = "Hello world" must startWith("Hello")
+    def e3 = "Hello world" must endWith("world")
+  
+  
+  
+  
+  def beAstSimilarTo = (be_==(_: List[ASTBlock])) ^^^ (WikiProc.nsList(_: List[ASTBlock]))
+  def beTreeSimilarTo = (be_==(_: List[ASTBlock])) ^^^ (WikiProc.treeList(_: List[ASTBlock]))
+//
+//  def is =
+//    "Acceptance for wiki processing" ^
+//      p ^
+//      "The WikiBlockGrammar should" ^
+//      "parse long text paragraphs " ! e1 ^
+//      "parse paragraphs with bold " ! e2 ^
+//      "whole stuff" ! e3 ^
+//      end
+
+      
+  val ast1 = List(ASTPara("J"))    
+  def e1 = WikiBlockGrammar.parse("""Jāņu svinēšanas tradīcijas ir bagātas un daudzveidīgas; Jāņu dziesmu mantojums 
+joprojām ir bieži izmantojama folkloras daļa, kura nereti nonākusi līdz 
+mūsdienu cilvēkiem nepastarpināti no teicējiem (nevis līdzīgi dažām citām tautasdziesmām 
+tikusi no jauna ieviesta līdz ar kora dziedāšanas attīstību). 
+Daži svinētāji lieto tikai vienu līgotņu melodiju, ar kuru izdzied visus vārdus, 
+bet Jāņu praktiķi iesaka iemācīties vismaz 10 melodijas (atsauce?).
+Lai ikviens dziedātājs varētu atrast sev piemērotu repertuāru, 
+esam izveidojuši to ar ievērojamu rezervi.
+Šo krājumu tādēļ ikviens var pašķirstīt savu 10 dziesmu meklējumos; 
+bet visdrīzāk vienās Jāņu svinībās nevajag  
+dziedāt visu krājumu pēc kārtas.""") must beTreeSimilarTo(ast1)
+  val ast2 = List(ASTPara("*")) 
+  def e2 = WikiBlockGrammar.parse("""**Materiāla atlase.** Krājumā apkopotas..."""
+      ) must beTreeSimilarTo(ast2) 
+  val ast3 = List(ASTPara("J"), ASTPara("Š"))
+  def e3 = WikiBlockGrammar.parse("""Jāņu svinēšanas tradīcijas ir bagātas un daudzveidīgas; Jāņu dziesmu mantojums 
+joprojām ir bieži izmantojama folkloras daļa, kura nereti nonākusi līdz 
+mūsdienu cilvēkiem nepastarpināti no teicējiem (nevis līdzīgi dažām citām tautasdziesmām 
+tikusi no jauna ieviesta līdz ar kora dziedāšanas attīstību). 
+Daži svinētāji lieto tikai vienu līgotņu melodiju, ar kuru izdzied visus vārdus, 
+bet Jāņu praktiķi iesaka iemācīties vismaz 10 melodijas (atsauce?).
+Lai ikviens dziedātājs varētu atrast sev piemērotu repertuāru, 
+esam izveidojuši to ar ievērojamu rezervi.
+Šo krājumu tādēļ ikviens var pašķirstīt savu 10 dziesmu meklējumos; 
+bet visdrīzāk vienās Jāņu svinībās nevajag  
+dziedāt visu krājumu pēc kārtas.
+
+
+Šī krājuma mērķis ir sniegt ieskatu līgotņu mūzikas daudzveidībā kā arī 
+paraugus tautasdziesmu papildināšanai ar harmonizācijām -
+ar papildu balsīm un pavadījuma akordiem.
+Krājumā ievietotās harmonizācijas var drīzāk uzskatīt par mūsdienu Jāņu dziedāšanas 
+tradīcijas sastāvdaļu, nevis par konkrēta cilvēka autordarbu.
+Tādēļ daudzām te atrodamajām dziesmām ir it kā divi slāņi. Pirmais slānis ir teicēja dziedātais oriģināls. 
+Otrais slānis ir dziesma, kādu to dzied folkloras ansambļu dalībnieki 
+vai citi mūsdienu Jāņa bērni. Katram no slāņiem var būt norāde uz avotu.""")  must beTreeSimilarTo(ast3)
+}

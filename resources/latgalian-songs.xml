@@ -1,0 +1,288 @@
+<?xml version="1.0"?>
+<book>
+
+<title>Latgalīšu dzīsmys</title>
+<subtitle>Tautys dzīsmys</subtitle>
+<location>Reiga, 2012.goda 28.juļs</location>
+<publisher>Izdūts DudajevaGatve.lv</publisher>
+<year>2012</year>
+
+<edition-notice>
+Drukavuots: 2011.goda 6.junī. v0.9.
+
+Tehnologejis: LilyPond, SVG, XML, Apache FOP, iText, PDF
+
+Dzīsmu suoku teksti: http://code.google.com/p/webkursi/source/checkout
+
+Copyleft. Use and distribute this collection without limitations. 
+If you alter, transform or build upon this work, 
+please retain this Copyleft notice.
+</edition-notice>
+
+<foreword>
+Itymā dzīsmu lasejumā irā vyss, kas beja īraksteits LilyPond formatā 
+dzīsmu globuotivē "webkursi" (Google projektu byutuve ci Google project hosting). 
+Nazcik dzīsmem ite dūti puors variantu - partū, ka dažaidūs olūtuos 
+juos skaņ cytaiž. Varbyut vajadzētu samāruot - i tuoļuok 
+lītuot nazkaidu kompromisu.
+
+Kruojumā salikts repertuars, kū nasorgoj autoru tīseibys. 
+Ka jyusim byutu zynomi izjāmumi - lyudzu rokstit datu.nesejs@gmail.com; 
+vysys aizsorguotuos dzīsmys nu kruojuma tuoļuokom versejom 
+iztreisim.
+</foreword>
+
+<!--  202 = 168 + 13 + 11 + 5 + 5 -->
+
+<section id="A">
+<title>Dažaidys dzīsmys</title>
+<song dir="songs" id="AiGaldeni"/>
+<song dir="songs" id="AiMuoren-aTe-rga-Guoja"/>
+<song dir="songs" id="AiVonogiVanadzeni"/>
+<song dir="songs" id="AizAzaraBoltiBarzi"/>
+<song dir="songs" id="AizAzaraMalniMezi"/>
+<song dir="songs" id="AizAzaraMalnyMezhi"/>
+<song dir="songs" id="AizKal-nen-aLelaMuizha"/>
+<song dir="songs" id="AizKu-Ru-zesShu-vosori"/>
+<song dir="songs" id="AizUpeitisAugstiKolni"/>
+<song dir="songs" id="AizUpeitisEsIzaugu"/>
+<song dir="songs" id="ApleikKolnamArLeikumu"/>
+<song dir="songs" id="ArGaileitiReiga-Brauchu"/>
+<song dir="songs" id="Atashi-nesSuseklis"/>
+<song dir="songs" id="Ati-tPoshaBoltaVi-shn-a"/>
+<song dir="songs" id="Ati-tVi-naBoltaVi-shn-a1"/>
+<song dir="songs" id="Ati-tZu-sesKlaiguodamys"/>
+<song dir="songs" id="AugaAugaRuzena"/>
+<song dir="songs" id="Avi-shasUpenesIudin-sApje-me"/>
+<song dir="songs" id="ByutPiVeiraIzguojuse"/>
+<song dir="songs" id="Chi-Chi-Anneit"/>
+<song dir="songs" id="Chizyks"/>
+<song dir="songs" id="CylpuCylpuZacheitsLe-ce"/>
+<song dir="songs" id="DivLaivenisPeldPaJyuru"/>
+<song dir="songs" id="Dza-ruojen-shiBa-duoja-s"/>
+<song dir="songs" id="DzeruDzeruOlu"/>
+<song dir="songs" id="Dzi-ditMeitysVokora-"/>
+<song dir="songs" id="EimaEimaMuosenis2"/>
+<song dir="songs" id="EimaEimaMuosenis"/>
+<song dir="songs" id="EsArSovuVeirenu"/>
+<song dir="songs" id="EsBejLobaI-mete-ja"/>
+<song dir="songs" id="EsBejuMamenai"/>
+<song dir="songs" id="EsNabejuDu-muojuse"/>
+<song dir="songs" id="EsSovaiMa-men-ai"/>
+<song dir="songs" id="GaismenaAusa"/>
+<song dir="songs" id="Ganen-shBejuGonu-sGuoju"/>
+<song dir="songs" id="GariGariMezhi"/>
+<song dir="songs" id="GashkaEjIzSa-tu"/>
+<song dir="songs" id="GuojuPaMezhu"/>
+<song dir="songs" id="I-shuSkri-shuTeNabyushu"/>
+<song dir="songs" id="IzAzaraGaneidama"/>
+<song dir="songs" id="IzMa-men-uGostu-sGuoju"/>
+<song dir="songs" id="Iztaise-juJaunuTyltu"/>
+<song dir="songs" id="JauRudin-sTyvuoja-s"/>
+<song dir="songs" id="KabMuomenaTuAudzeji"/>
+<song dir="songs" id="KamMa-men-aManAukle-ji"/>
+<song dir="songs" id="KamMa-men-aTuAudze-ji1"/>
+<song dir="songs" id="KamMa-men-aTuAudze-ji"/>
+<song dir="songs" id="KasDuorza"/>
+<song dir="songs" id="KiukojOruDzagiuzeite"/>
+<song dir="songs" id="Ku-AsDevuShyupel-ame"/>
+<song dir="songs" id="Ku-EsBejuSari-buse2"/>
+<song dir="songs" id="Ku-EsBejuSari-buse"/>
+<song dir="songs" id="Ku-kleitisSkane-ja"/>
+<song dir="songs" id="KumeleniKumeleni"/>
+<song dir="songs" id="KuplaLi-pen-aIzauga"/>
+<song dir="songs" id="KurGaismenaZylaAusa"/>
+<song dir="songs" id="KurJumeitiTuGule-ji"/>
+<song dir="songs" id="KurTuI-siBuoleleni"/>
+<song dir="songs" id="Li-cMa-men-aVain-ucen-u"/>
+<song dir="songs" id="LipaKust2"/>
+<song dir="songs" id="LobsArLobuSasatyka2"/>
+<song dir="songs" id="LobsArLobuSasatyka"/>
+<song dir="songs" id="LobsBejPuikaMyusuJezups"/>
+<song dir="songs" id="MalniMuniKumeleni"/>
+<song dir="songs" id="Man-Laimen-aNu-lykuse"/>
+<song dir="songs" id="Mi-dzen-shI-tiGule-tGrybu"/>
+<song dir="songs" id="MidzensItGuletGrybu"/>
+<song dir="songs" id="MozaBejuGonusGuoju"/>
+<song dir="songs" id="MozaMozaTeiMuizhen-a"/>
+<song dir="songs" id="MuoteManiGribe-ja"/>
+<song dir="songs" id="MuoteManiRuotinRuoja"/>
+<song dir="songs" id="Nadu-dDi-vsiVeitulam"/>
+<song dir="songs" id="NadudDivsVeitulam"/>
+<song dir="songs" id="NatakiSpu-leite"/>
+<song dir="songs" id="NikodSauleNavCikSylta"/>
+<song dir="songs" id="NuguojaTeteite"/>
+<song dir="songs" id="Nu-perManiMuomulen-a"/>
+<song dir="songs" id="Nu-reibZemeAtjuojTautas"/>
+<song dir="songs" id="OditMeitas"/>
+<song dir="songs" id="OiDi-veniKu-Dareishu"/>
+<song dir="songs" id="OiDi-veniSoldonsOls"/>
+<song dir="songs" id="Padzi-domiMe-sMuosen-as"/>
+<song dir="songs" id="Pai-simMe-sMuosenis"/>
+<song dir="songs" id="PalaidPalaidVacin-kais"/>
+<song dir="songs" id="Pa-rkyunsVedeVedeklen-u"/>
+<song dir="songs" id="PateikManiTysKal-nen-sh"/>
+<song dir="songs" id="PateikManiTysOdums"/>
+<song dir="songs" id="PavasarsiPavasars"/>
+<song dir="songs" id="PaZal-uPl-aven-u"/>
+<song dir="songs" id="PeleitPeleit"/>
+<song dir="songs" id="Pi-ciBa-riKumeleni"/>
+<song dir="songs" id="PiDivenaGariGoldi"/>
+<song dir="songs" id="Puortece-juDaugaven-u"/>
+<song dir="songs" id="Pu-riPu-riMezhiMezhi"/>
+<song dir="songs" id="Pyrmu-din-aU-tardin-a"/>
+<song dir="songs" id="Pyrmu-din-DaPyrmu-din-u"/>
+<song dir="songs" id="PyutitVe-jiNalauzit"/>
+<song dir="songs" id="ReigasKungiNamni-ceni"/>
+<song dir="songs" id="Reita-AgriSauleLe-ce"/>
+<song dir="songs" id="ReitaAgriSauleLece"/>
+<song dir="songs" id="Rudin-sI-t"/>
+<song dir="songs" id="RudzuMoluEsNu-guoju"/>
+<song dir="songs" id="Ru-tuodamaVi-nStaiguoju"/>
+<song dir="songs" id="SadziduosimMesMuosenis"/>
+<song dir="songs" id="Saskane-jaSaduorde-ja"/>
+<song dir="songs" id="Sazdin-LabiCi-ma-I-ti"/>
+<song dir="songs" id="SazidejaGailaPisi"/>
+<song dir="songs" id="Se-juLeluRu-zhuDuorz"/>
+<song dir="songs" id="Se-sti-sBuolen-Augsta-Zyrga-"/>
+<song dir="songs" id="Shu-reitSuortaSauleLe-ce"/>
+<song dir="songs" id="Skan-BalseniReita-Agri"/>
+<song dir="songs" id="Skan-uBalsen-uPalaidu"/>
+<song dir="songs" id="Smukmeitin-a"/>
+<song dir="songs" id="Stuode-juI-ven-u"/>
+<song dir="songs" id="SuocDzi-smen-uVacaMuote"/>
+<song dir="songs" id="SuocMuosen-aTuPaPri-shku"/>
+<song dir="songs" id="SveicynojomVe-le-jam"/>
+<song dir="songs" id="SyupojManiMuomulena"/>
+<song dir="songs" id="Ti-BejLabiOluDzerti"/>
+<song dir="songs" id="TolkaLelaTolkaMoza2"/>
+<song dir="songs" id="TolkaLelaTolkaMoza"/>
+<song dir="songs" id="TreisJaunysMuosys"/>
+<song dir="songs" id="TreisMuosenisU-guosGuoja"/>
+<song dir="songs" id="TreisPutneni2"/>
+<song dir="songs" id="TreisPutneni"/>
+<song dir="songs" id="TreisVokoriVi-tuTaisu"/>
+<song dir="songs" id="TricejKolniSkanejMezi"/>
+<song dir="songs" id="TuoliDzeivojMunaMeiluo"/>
+<song dir="songs" id="TymsaTymsaTeiEgleite"/>
+<song dir="songs" id="TysPi-tersiTaiSace-ja"/>
+<song dir="songs" id="TysVe-jen-shPyute"/>
+<song dir="songs" id="U-guosGuojuU-dzen-uos"/>
+<song dir="songs" id="UozeitiMunu"/>
+<song dir="songs" id="U-siU-siKodLopuosi"/>
+<song dir="songs" id="U-zuleniZamzareiti"/>
+<song dir="songs" id="U-zulsU-zulsBa-rzsiBa-rzsi"/>
+<song dir="songs" id="Vi-naVi-naMan-Muosen-"/>
+<song dir="songs" id="Visten-aKacynuoja"/>
+<song dir="songs" id="VoiEgleEgle"/>
+<song dir="songs" id="VysiKu-ceniRauduoja"/>
+<song dir="songs" id="VysiMuniGostiBeja"/>
+<song dir="songs" id="VysiMuniRodiRauda"/>
+<song dir="songs" id="VysiMuniVe-jiPyute"/>
+<song dir="songs" id="VysuDi-nuJumiDzynu"/>
+<song dir="songs" id="VysuDi-nuJumiJe-mu"/>
+<song dir="songs" id="VysuDi-nuSvelmeSkre-ja"/>
+<song dir="songs" id="VysuMezhuIzstaiguoju"/>
+<song dir="songs" id="VysysDi-nenisZynuoju"/>
+<song dir="songs" id="Zal-a-Duorzen-a-DuorzaMalen-a-"/>
+<song dir="songs" id="ZamU-zulaNase-de-shu"/>
+<song dir="songs" id="ZamUzulaNasiedieju"/>
+<song dir="songs" id="ZeileZiniNese"/>
+<song dir="songs" id="ZemliZvaigzneitePuorgoja"/>
+<song dir="songs" id="ZidejaPuceitis"/>
+<song dir="songs" id="Zi-de-jaPucheitis"/>
+<song dir="songs" id="ZidiZidiRudzuVuorpa"/>
+<song dir="songs" id="ZynuZynuTa-vaSa-tu"/>
+</section>
+
+<section id="B">
+<title>Juoņu dzīsmys</title>
+<song dir="songs" id="Juon-aDi-naSva-taDi-na"/>
+<song dir="songs" id="Juon-aDi-nysGaideidama"/>
+<song dir="songs" id="Juon-uMuoteSi-ruSe-ja"/>
+<song dir="songs" id="Juon-uNaktiMeitasGuoja"/>
+<song dir="songs" id="KasTusJuonusIleigava"/>
+<song dir="songs" id="KusiKusiJaukiJauki"/>
+<song dir="songs" id="LeigojitiJuonuNakti"/>
+<song dir="songs" id="LeigojSauleLeigojBite"/>
+<song dir="songs" id="RutojBiteRutojSaule"/>
+<song dir="songs" id="RutojSaule"/>
+<song dir="songs" id="SanuocitJuonaBarni"/>
+<song dir="songs" id="SitJuoneitiVaraBungys"/>
+<song dir="songs" id="SudinUoraJuonaDina"/>
+</section>
+
+<section id="C">
+<title>Zīmys svātku dzīsmys</title>
+<song dir="songs" id="Ati-damiZi-massva-tki"/>
+<song dir="songs" id="AtidamiZimysSvatki2"/>
+<song dir="songs" id="AtidamiZimysSvatki"/>
+<song dir="songs" id="BoltaKozaDanciVede"/>
+<song dir="songs" id="DedzitSkoluPyutitGuni"/>
+<song dir="songs" id="EjPeleiteZernusZagti"/>
+<song dir="songs" id="KaceisamiTavsNumyra"/>
+<song dir="songs" id="PyutitGuniLauzitSkolus"/>
+<song dir="songs" id="VakarKozaVele-juosi"/>
+<song dir="songs" id="ZimasSvatkiSabraukusi"/>
+<song dir="songs" id="ZimysSvatkiLelaDina"/>
+<song dir="songs" id="ZimysSvatkuCetriBruoli"/>
+</section>
+
+<section id="D">
+<title>Rūtalis</title>
+<song dir="songs" id="CepuVylkamKukuleiti"/>
+<song dir="songs" id="PadoluIkorus"/>
+<song dir="songs" id="PadzizotiJyusMuosenas"/>
+<song dir="songs" id="Preciniki"/>
+<song dir="songs" id="VylksUnKoza"/>
+</section>
+
+<section id="E">
+<title>Vaidu i karinīku dzīsmys</title>
+<song dir="songs" id="KuopuKuopuKolna-"/>
+<song dir="songs" id="MuoteDe-len-uAukle-ja"/>
+<song dir="songs" id="NuShuoPoshaAgraReita"/>
+<song dir="songs" id="Sni-giSnygaPutynuoja"/>
+<song dir="songs" id="Zvi-dziZvi-dziSe-rmaisZirdzen-"/>
+</section>
+
+
+<section id="F">
+<title>Medņovys dzīsmys</title>
+
+<song dir="inese" id="ZidejBoltaUobelite"/>
+<song dir="inese" id="ManPatikaMizuDruva"/>
+<song dir="inese" id="GaninsBijuGonusGuoju"/>
+<!-- <song dir="inese" id="Gu-tinMunaRaibalina"/>-->
+<song dir="inese" id="ShuvuShuvuVarazheju"/>
+<song dir="inese" id="KurTuJuosiShmuksPuisi-ti"/>
+
+</section>
+
+<!-- 
+
+
+<song dir="inese" id="Apdzi-duoshona"/>
+<song dir="inese" id="Apdzi-duoshona1"/>
+<song dir="inese" id="Dza-rojsPuikaBa-dova-si"/>
+<song dir="inese" id="EimaEimaMesMuosin-as"/>
+<song dir="inese" id="EsMa-minaiVi-naMeita"/>
+<song dir="inese" id="Gari-sBolss"/>
+<song dir="inese" id="Kli-dzami-sBolss"/>
+
+
+<song dir="inese" id="LaiZal-ojJouni-ba"/>
+
+<song dir="inese" id="NuTuoli-nesEsPazynu"/>
+<song dir="inese" id="OiEgleEgle"/>
+<song dir="inese" id="ParUpi-tiDi-guVilku"/>
+<song dir="inese" id="Polka"/>
+<song dir="inese" id="PuoriBroucuAzarami"/>
+
+<song dir="inese" id="SiejuPlotuKvi-shuDruvu"/>
+<song dir="inese" id="VoiDi-vinDi-vamZha-l-"/>
+<song dir="inese" id="VusiViejiManiPuvta"/>
+<song dir="inese" id="ZidejBoltaUobelite"/>
+-->
+
+</book>
