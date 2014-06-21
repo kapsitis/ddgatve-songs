@@ -15,7 +15,7 @@ ragged-last = ##f
 }
 
 
-voiceA = \transpose e c' { \relative c' {
+voiceA = \transpose e f { \relative c' {
 \clef "treble"
 \key e \major
 \time 2/4
@@ -33,7 +33,7 @@ Ar pe -- lē -- ku mē -- te -- lī -- ti, lī -- go, lī -- go,
 ar pe -- lē -- ku mē -- te -- līt'.
 }
 
-voiceB = \transpose e c' { \relative c' {
+voiceB = \transpose e f { \relative c' {
 \clef "treble"
 \key e \major
 \time 2/4
@@ -47,11 +47,11 @@ dis'8 dis b a | a8 gis gis4\fermata
 
 chordsA = \chordmode {
 \time 2/4
-c2:5 | c2:5 | c2:5 | c2:5 |
+f2:5 | f2:5 | f2:5 | f2:5 |
 \time 3/4
-c2.:5 | g4:5 c2:5 | 
+f2.:5 | c4:5 f2:5 | 
 \time 2/4
-g2:5 | g4:5 c4:5 |
+c2:5 | c4:5 f4:5 |
 }
 
 

@@ -3,7 +3,7 @@
 %    title = "Jānīšami treji vārti"
 %}
 \paper {
-line-width = 20\cm
+line-width = 14\cm
 left-margin = 0.4\cm
 between-system-padding = 0.1\cm
 between-system-space = 0.1\cm

@@ -16,10 +16,31 @@ ragged-last = ##f
 
 
 voiceA = \relative c' {
-\time 3/4
 \clef "treble"
 \key e \minor
-e8 g g4 e | a8 g fis4 e | e8 g g4 e | a8 g fis4 e | 
+\override Score.RehearsalMark #'break-align-symbols = #'(time-signature)
+\time 3/4 \mark \markup {  \circle \bold A }
+e8 g g4 e | a8 g fis4 e | \mark \markup {  \circle \bold B }
+
+\oneVoice 
+<< { e8 g g4 e | a8 g fis4 e |  } 
+\new Staff \with {
+\remove "Time_signature_engraver"
+%\remove "Clef_engraver"
+%\remove "Key_engraver"
+%\remove "Accidental_engraver"
+alignAboveContext = #"main"
+fontSize = #-3
+\override StaffSymbol #'staff-space = #(magstep -3)
+\override StaffSymbol #'thickness = #(magstep -3)
+} { 
+  \key e \minor
+  << { \voiceOne \autoBeamOff b'8 b b4 b | c8 b8 b4 b }
+  \new Voice { \voiceTwo \autoBeamOff e,8 e e4 e | d8 d d4 e } >>    
+}
+>> \oneVoice
+
+
 \time 2/4
 g8 a g e | 
 \time 4/4

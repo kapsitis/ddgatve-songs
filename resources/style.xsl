@@ -127,7 +127,7 @@ xmlns:fo="http://www.w3.org/1999/XSL/Format" >
 <xsl:value-of select="book/location"/>&#160;&#160;<xsl:value-of select="book/year"/>
 </fo:block>
       
-
+<!-- 
 <xsl:for-each select="document('../build-book/edition-notice.html')/html/body/p">
 <xsl:if test="position()=1">
 <fo:block break-before="page" text-align="left"  font-size="12pt"  
@@ -157,7 +157,7 @@ Priekšvārds
 <xsl:value-of select="."/>
 </fo:block>	
 </xsl:for-each>
-      
+ -->
 
 <fo:block  break-before="page" text-align="center"  font-size="16pt"  font-family="Verdana" >
 Satura rādītājs
@@ -187,9 +187,10 @@ Satura rādītājs
 <fo:table-cell><fo:block text-align="start"
   space-after=".1in" text-align-last="justify">
 <xsl:if test="local-name(.)='song'">
+<xsl:value-of select="count(preceding::song)+1"/><!-- 
 <xsl:value-of 
   select="count(preceding-sibling::*[(self::song and not(attribute::isVariant)) or 
-  self::endVariants or self::empty])+1"/><xsl:if test="@isVariant">
+  self::endVariants or self::empty])+1"/> --><xsl:if test="@isVariant">
   <xsl:choose>
   <xsl:when test="local-name(preceding-sibling::*[1])='startVariants'">a</xsl:when>
   <xsl:when test="local-name(preceding-sibling::*[2])='startVariants'">b</xsl:when>
@@ -319,8 +320,8 @@ font-family="Calibri" font-weight="normal" font-style="italic">
 id="{concat('song_',@id)}"
 font-family="Calibri" font-weight="normal" font-style="normal">
 <xsl:if test="position()&gt;1"><xsl:attribute name="break-before">page</xsl:attribute></xsl:if> 
-<xsl:value-of select="count(preceding-sibling::*[(self::song and not(attribute::isVariant)) or 
-  self::endVariants or self::empty])+1"/><xsl:if test="@isVariant">
+<xsl:value-of select="count(preceding::song)+1"/><!-- <xsl:value-of select="count(preceding-sibling::*[(self::song and not(attribute::isVariant)) or 
+  self::endVariants or self::empty])+1"/>--><xsl:if test="@isVariant">
   <xsl:choose>
   <xsl:when test="local-name(preceding-sibling::*[1])='startVariants'">a</xsl:when>
   <xsl:when test="local-name(preceding-sibling::*[2])='startVariants'">b</xsl:when>
@@ -381,7 +382,7 @@ font-family="Calibri" font-weight="normal" font-style="normal">
 <xsl:attribute name="src">file:build-book/svg/<xsl:value-of select="@id"/>.svg</xsl:attribute> 
 </fo:external-graphic>
 </fo:block>
-
+<!-- 
 <xsl:if test="string-length($genre)&gt;0">
 <fo:block text-align="left" font-size="12pt" font-family="Century Schoolbook" 
 font-weight="normal" font-style="italic">
@@ -394,7 +395,7 @@ font-weight="normal" font-style="italic">
 </xsl:choose> <xsl:if test="string-length($genrenote)&gt;0">(<xsl:value-of select="$genrenote"/>)</xsl:if>
 </fo:block>  
 </xsl:if>
-
+ -->
 <!--
 <xsl:if test="string-length($mode)&gt;0">
 <fo:block text-align="left" font-size="12pt" font-family="Century Schoolbook" 

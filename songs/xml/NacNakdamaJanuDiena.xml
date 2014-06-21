@@ -1,7 +1,8 @@
 <song>
 <title>Nāc nākdama, Jāņu diena</title>
 <sources>
-<!--<source label=''/>-->
+<source label='Dievsetas2007' page="40"/>
+<!-- Līgojam, līgojam, neguļam, neguļam -->
 </sources>
 <tags>ligodziesma</tags>
 <narrator></narrator>
@@ -12,8 +13,28 @@
 <keys>1|1</keys>
 <motive add="5">a a e' d e c b a</motive>
 <ref></ref>
-<lyrics># Nāc nākdama, Jāņu diena,\\ Tevi gaida lieli, mazi.\\ Gaida govis, gaida gani,\\ Gaida lauku arājiņi.
-# Es uzliku Jāņa mātei\\ Dāboliņa vainadziņu;\\ Dievs dod mūsu Jāņa mātei\\ Labas govis dābolāi.
-# Es uzliku Jāņa tēvam\\ Zaļozola vainadziņu,\\ Lai zaļoja Jāņa tēvsi\\ Kā zaļaisi ozoliņis.
-# Ap tētiņu bites rūca,\\ Kā ap zaļu ozoliņu,\\ Ap māmiņu govis māva,\\ Kā ap zaļu āboliņu.</lyrics>
+<lyrics>
+# Nāc nākdama, Jāņu diena,\\ 
+Tevi gaida lieli, mazi.\\ 
+Gaida govis, gaida gani,\\ 
+Gaida lauku arājiņi.\\
+Gani gaida piena, siera,\\
+Govis bērzu vainadziņa.\\
+# Visi gaida Jāņu dienu,\\
+Meitas gaida, puiši gaida.\\
+Puišiem sieru, puišiem alu,\\
+Meitām zāļu vainadziņus. 
+# Es uzliku Jāņa mātei\\ 
+Dāboliņa vainadziņu;\\ 
+Dievs dod mūsu Jāņa mātei\\ 
+Labas govis dābolāi.
+# Es uzliku Jāņa tēvam\\ 
+Zaļozola vainadziņu,\\ 
+Lai zaļoja Jāņa tēvsi\\ 
+Kā zaļaisi ozoliņis.
+# Ap tētiņu bites rūca,\\ 
+Kā ap zaļu ozoliņu,\\ 
+Ap māmiņu govis māva,\\ 
+Kā ap zaļu āboliņu.
+</lyrics>
 </song>

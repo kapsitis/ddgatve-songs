@@ -16,7 +16,7 @@ ragged-last = ##f
 
 voiceA = \relative c' {
 \clef "treble"
-\key c \major
+\key d \minor
 \override Score.RehearsalMark #'break-align-symbols = #'(time-signature)
 \time 4/4 \mark \markup {  \circle \bold A }
 d4 g f d8[ e] | \mark \markup {  \circle \bold B }
@@ -24,7 +24,7 @@ f4 e d d |
 d4 g f d8[ e] |
 f4 e d d |
 d4 g f d8 e |
-f8 e d c d2 |
+f8 e d e d2 |
 \bar "|."
 } 
 

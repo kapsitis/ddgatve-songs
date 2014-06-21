@@ -25,11 +25,11 @@ g8 fis g fis | fis8 e e4
 } }
 
 lyricA = \lyricmode {
-Jā -- nīts pū -- ta va -- ra tau -- ri 
-vār -- tu sta -- ba ga -- li -- ņā -- i.
-Jā -- nīts pū -- ta va -- ra taur' 
-vār -- tu sta -- ba ga -- li -- ņā -- i;
-vār -- tu sta -- ba ga -- li -- ņā.
+Jā -- nīts sē -- de o -- zo -- lā -- je, 
+Jā -- ņa bēr -- ni pa -- za -- rē -- si.
+Jā -- nīts sē -- de o -- zo -- lā, 
+Jā -- ņa bēr -- ni pa -- za -- rē -- si,
+Jā -- ņa bēr -- ni pa -- za -- rēs.
 }
 
 voiceB = \transpose e a { \relative c' {

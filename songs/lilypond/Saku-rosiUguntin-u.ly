@@ -14,7 +14,7 @@ ragged-last = ##f
 }
 
 
-voiceA = \transpose d a { \relative c' {
+voiceA = \transpose d e { \relative c' {
 \clef "treble"
 \key d \minor
 \time 4/4
@@ -28,7 +28,7 @@ c8 c c c c d d4 | c8 c c c c d d4
 }
 } }
 
-voiceB = \transpose d a { \relative c' {
+voiceB = \transpose d e { \relative c' {
 \clef "treble"
 \key d \minor
 \time 4/4
@@ -44,8 +44,8 @@ e8 e e e e f f4 | e8 e e e e f f4
 
 
 lyricA = \lyricmode {
-Es sa -- kū -- ru u -- gun -- tiņ' no de -- vi -- ņi ža -- ga -- riņ'.
-Es sa -- kū -- ru u -- gun -- tiņ' no de -- vi -- ņi ža -- ga -- riņ,
+Sa -- kū -- ro -- si u -- gun -- tiņ' no de -- vi -- ņi ža -- ga -- riņ',
+Sa -- kū -- ro -- si u -- gun -- tiņ' no de -- vi -- ņi ža -- ga -- riņ,
 no de -- vi -- ņi ža -- ga -- riņ'.
 no de -- vi -- ņi ža -- ga -- riņ'.
 }

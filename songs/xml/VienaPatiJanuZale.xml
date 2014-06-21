@@ -1,7 +1,7 @@
 <song>
 <title>Viena pati Jāņu zāle</title>
 <sources>
-<!--<source label=''/>-->
+<source label='Silava1991' page="55"/>
 </sources>
 <tags>ligodziesma</tags>
 <narrator></narrator>
@@ -12,20 +12,38 @@
 <keys>1|1</keys>
 <motive add="5">a b c c d b a b</motive>
 <ref></ref>
-<lyrics># Viena pati Jāņu zāle, deviņāmi stariņāmi. 
-# Devītāi stariņāi saule lēja sidrabiņu.
-# Devītāi stariņāi vainadziņu darināju.
-# Vainadziņu darināju trejdeviņu ziediņiemi:
-# No rozīšu, magonīšu, sarkanāi āboliņa;
-# To uzliku galviņāi Jānu nakti līgodama.
-# Spīdēj manis vainadziņis pār deviņi novadiņi.
-# Tev, liepiņa, plata lapa, apsedz manu vainadziņu;
-# Jāņu nakti lietiņš lija sudrabiņa lāsītēmi.
-# Tas nebija lietutiņis, tās bij Jāņa asariņas.
-# Pērkons šķīla uguntiņu sausas egles galotnēi.
-# Sper, Pērkoni, kad sperdamis, nesper Jāņu vakarāi.
-# Tev piedera viss gadiņis, man tik Jāņu vakariņis.
-# Visas puķes noziedēja, papardīte vien nezieda,
-# Papardīte, zeltziedīte, uzzied Jāņu vakarāi;
-# Zelta ziedu meklējoti, novīst manis vainadziņis.</lyrics>
+<lyrics>
+# Viena pati Jāņu zāle,\\
+Deviņāmi stariņāmi.\\ 
+Devītāi stariņāi\\ 
+Saule lēja sidrabiņu.
+# Devītāi stariņāi\\ 
+Vainadziņu darināju.\\
+Vainadziņu darināju\\ 
+Trejdeviņu ziediņiemi:\\
+No rozīšu, magonīšu,\\ 
+Sarkanāi āboliņa.\\
+# To uzliku galviņāi\\ 
+Jānu nakti līgodama.\\
+Spīdēj manis vainadziņis\\ 
+Pār deviņi novadiņi.
+# Tev, liepiņa, plata lapa,\\ 
+Apsedz manu vainadziņu;\\
+Jāņu nakti lietiņš lija\\ 
+Sudrabiņa lāsītēmi.\\
+Tas nebija lietutiņis,\\ 
+Tās bij Jāņa asariņas.
+# Pērkons šķīla uguntiņu\\ 
+Sausas egles galotnēi.\\
+Sper, Pērkoni, kad sperdamis,\\ 
+Nesper Jāņu vakarāi.\\
+Tev piedera viss gadiņis,\\ 
+Man tik Jāņu vakariņis.
+# Visas puķes noziedēja,\\ 
+Papardīte vien nezieda,\\
+Papardīte, zeltziedīte,\\ 
+Uzzied Jāņu vakarāi;\\
+Zelta ziedu meklējoti,\\ 
+Novīst manis vainadziņis.
+</lyrics>
 </song>

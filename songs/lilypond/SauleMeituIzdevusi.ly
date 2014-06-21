@@ -20,7 +20,7 @@ voiceA = \relative c' {
 \time 4/4
 fis4 fis fis a | g8[ fis] e[ g] fis4. d8 | 
 fis4 fis fis a | g8[ fis] e[ g] fis4. d8 | 
-d4 d e e | b4 b fis'4. e8 | d4 d e e | b4 b b2
+d4 d e e | b4 b fis'4. e8 | d4 d e e | b4 b8[ a] b2
 \bar "|."
 }
 
@@ -30,14 +30,24 @@ Sau -- le mei -- tu iz -- de -- vu -- si, Sau -- le mei -- tu iz -- de -- vu -- 
 Lūdz Pēr -- ko -- ni pa -- nāk -- šo -- si, lūdz Pēr -- ko -- nu pa -- nāk -- šos. 
 }
 
+voiceB = \relative c' {
+\clef "treble"
+\key b \minor
+\time 4/4
+d4 d d d | cis4 cis4 d4. d8 | 
+d4 d d d | a4 a4 d4. d8 | 
+b4 b cis cis | b4 b b4. a8 | b4 b cis cis | b4 b8[ a] b2
+\bar "|."
+}
 
 
 
 fullScore = <<
 \new Staff {
 <<
-\new Voice = "voiceA" { \oneVoice \autoBeamOff \voiceA }
+\new Voice = "voiceA" { \voiceOne \autoBeamOff \voiceA }
 \lyricsto "voiceA" \new Lyrics \lyricA
+\new Voice = "voiceB" { \voiceTwo \autoBeamOff \voiceB }
 >>
 }
 >>

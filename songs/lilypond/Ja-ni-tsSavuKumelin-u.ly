@@ -21,7 +21,28 @@ voiceA = \relative c' {
 \time 4/4
 e8 g g g g e d e | f4 e f8[ g] g4 |
 \repeat volta 2 {
-a8 f g a g e d f
+
+
+
+ \oneVoice 
+<< { a8 f g a g e d g } 
+\new Staff \with {
+\remove "Time_signature_engraver"
+%\remove "Clef_engraver"
+%\remove "Key_engraver"
+%\remove "Accidental_engraver"
+alignAboveContext = #"main"
+fontSize = #-3
+\override StaffSymbol #'staff-space = #(magstep -3)
+\override StaffSymbol #'thickness = #(magstep -3)
+} { 
+  \key c \major
+  << { \voiceOne \autoBeamOff s2 g8 e d f  }
+  \new Voice { \voiceTwo \autoBeamOff s2 e8 c b d } >>    
+}
+>> \oneVoice
+
+
 }
 \alternative { { f4 e f8[ g] g4 } { f4 e2. } }
 } 

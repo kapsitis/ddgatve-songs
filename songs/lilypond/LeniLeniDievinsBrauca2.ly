@@ -14,13 +14,35 @@ ragged-last = ##f
 }
 
 
-voiceA = {
+voiceA = \relative c' {
 \clef "treble"
 \key a \minor
 \time 5/4
-c''4. b'8 a' g' a' e' e' e' 
+c'4. b8 a g a e e e 
 \time 6/2
-a'8 a' a' b' c''4 c''8[ d''8] e''4. d''8 c'' c'' b' b' c''4 b' a'2
+a8 a a b c4 c8[ d8] e4. d8 
+
+
+\oneVoice 
+<< { c c b b c4 b a2 } 
+\new Staff \with {
+\remove "Time_signature_engraver"
+%\remove "Clef_engraver"
+%\remove "Key_engraver"
+%\remove "Accidental_engraver"
+alignAboveContext = #"main"
+fontSize = #-3
+\override StaffSymbol #'staff-space = #(magstep -3)
+\override StaffSymbol #'thickness = #(magstep -3)
+} { 
+  \key a \minor
+  << \new Voice = "voiceAB" { \oneVoice \autoBeamOff c4 b8[ g] a1 }
+  \lyricsto "voiceAB" \new Lyrics { le -- ji -- ņā. } >>    
+}
+>> \oneVoice
+
+
+
 \bar "|."
 } 
 

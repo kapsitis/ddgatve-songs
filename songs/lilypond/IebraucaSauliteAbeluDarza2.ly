@@ -22,15 +22,15 @@ voiceA = \relative c' {
 \override Voice.TextScript #'font-family = #'sans
 \override Voice.TextScript #'font-size = #-1
 
-e8^"do" f^\markup{\center-column{ x 3p. }} e^"do" | 
-e8^"do" d^\markup{\center-column{x 4p.}} c^"do" | 
-e8^"do" f^\markup{\center-column{x 3p.}} e^"do" | 
-e16[ d]^\markup{\right-column{x "do 4p."}} d4^\markup{\underline "re"} \break
+e8 f e | 
+e8 d c | 
+e8 f e | 
+e16[ d] d4 \break
 
-d8^"re" f^"re" e^\markup{\center-column{x 3p.}} | 
-f8^"re" e^\markup{\center-column{x 3p.}} d16[ c]^\markup{\right-column{x "re 4p."}} | 
-e8^"do" f^\markup{\center-column{xv? 3p.}} e^"do" | 
-e4.^\markup{\underline "do"} 
+d8 f e | 
+f8 e d16[ c] | 
+e8 f e | 
+e4. 
 \bar "|."
 }
 

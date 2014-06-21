@@ -2,10 +2,10 @@
 <book>
 
 <title>Jāņu dziesmas</title>
-<subtitle>Krājumu sakārtoja Katrīna Riekstiņa</subtitle>
+<subtitle> </subtitle>
 <location>Ādaži</location>
-<publisher>DudajevaGatve.lv</publisher>
-<year>2014</year>
+<publisher> </publisher>
+<year>2014-06-21</year>
 
 <edition-notice>
 Izdošanas datums: 2014.gada 19.jūnijs
@@ -166,7 +166,7 @@ dziesmu avotu (gan oriģinālo, gan mūsdienu izpildījumu) bibliogrāfija.
 <section id="E">
 <title>Uguni kurot</title>
 <song dir="songs" id="SauleBridaMiglajosi" num="21"/>
-<song dir="songs" id="EsSakuruUguntinu" num="22"/>   
+<song dir="songs" id="Saku-rosiUguntin-u" num="22"/>   
 <song dir="songs" id="SanacietiJanaBerni" num="23"/>
 <song dir="songs" id="SitJanitiVaraBungas" num="24"/> 
 </section>
@@ -174,7 +174,7 @@ dziesmu avotu (gan oriģinālo, gan mūsdienu izpildījumu) bibliogrāfija.
 <section id="F">
 <title>Jāņa daudzināšana</title>
 <song dir="songs" id="AiJanitiDievaDels" num="11"/>
-<song dir="songs" id="Ja-ni-tsPu-taVaraTauri" num="12"/>
+<song dir="songs" id="Ja-ni-tsSe-deOzola-je" num="12"/> 
 <song dir="songs" id="AiJa-ni-tiDievaDe-lsi" num="46"/>
 <song dir="songs" id="Ja-ni-tsSavuKumelin-u" num="47"/>
 <song dir="songs" id="JauJa-ni-tisAizvakar"/>
@@ -185,7 +185,7 @@ dziesmu avotu (gan oriģinālo, gan mūsdienu izpildījumu) bibliogrāfija.
 <song dir="songs" id="NelistLietusNelistLietus" num="6"/>
 <song dir="songs" id="Spi-gul-oSauli-t" num="58"/>
 <song dir="songs" id="VisuDienuLietin-s-Lija"/>
-<!--  ??? Aizej, lietiņ, rūkdams, kaukdams  -->
+<song dir="songs" id="AizejLietin-Ru-kdamsKaukdams"/>
 </section>
 
 
@@ -193,7 +193,7 @@ dziesmu avotu (gan oriģinālo, gan mūsdienu izpildījumu) bibliogrāfija.
 <title>Jāņu nakti neguļot</title>
 <song dir="songs" id="AiJusPuisiAiJusMeitas" num="25"/>
 <song dir="songs" id="NeguluNeguluJanisaNakti" num="26"/>
-<song dir="songs" id="=Li-goJa-ni-ti"/>
+<song dir="songs" id="Li-goJa-ni-ti"/>
 <song dir="songs" id="KasTurSpi-daKasTurMirdza"/>
 </section>
 
@@ -209,25 +209,24 @@ dziesmu avotu (gan oriģinālo, gan mūsdienu izpildījumu) bibliogrāfija.
 <section id="J">
 <title>Apdziedāšanās</title>
 <song dir="songs" id="TuratiesiTuratiesi" num="28"/> 
-<!-- ??? Jāņa tēvs ar Jāņa māti -->
+<song dir="songs" id="Ja-n-aTe-vsArJa-naMa-ti"/>
 </section>
 
 
 <section id="K">
 <title>Saules dziesmas</title>
 <song dir="songs" id="JanisamiTrejiVarti" num="20"/>
-<song dir="songs" id="LigojamLigojam" num="29"/> 
-<!--  Parādiesi, tu, saulīte -->
-<song dir="songs" id="TaSacijaTaBijTiesa" num="30"/> 
+<song dir="songs" id="LigojamLigojam" num="29"/>
+<song dir="songs" id="Para-diesTuSauli-te"/> 
 <song dir="songs" id="Ta-Saci-jaTa-BijTiesa" num="54"/>
-<!--  iebrauca saulite -->
-<!--  Saule deva sav' meitiņu -->
-<!-- Saule brauca pār debesi -->
-<!--  Saule meitu izdevusi -->
-<!-- Šķērsu dienu saule tek -->
-<!--  Ai, Saulīte, mēnestiņi -->
-<!--  Lec, Saulīte, rītā agri -->
-<!--  Gāju, gāju garu ceļu -->
+<song dir="songs" id="IebraucaSauliteAbeluDarza2"/>
+<song dir="songs" id="SauleDevaSavMeitin-u"/>
+<song dir="songs" id="SauleBraucaPa-rDebesi"/>
+<song dir="songs" id="SauleMeituIzdevusi"/>
+<song dir="songs" id="SkersuDienuSauleTeka"/>
+<song dir="songs" id="AiSauli-teMe-nestinjiKa-Ju-sSkaistiMijaties2"/>
+<song dir="songs" id="LecSauli-teRi-ta-Agri"/>
+<song dir="songs" id="Ga-juGa-juGaruCel-u"/>
 </section>
 
 
@@ -235,14 +234,14 @@ dziesmu avotu (gan oriģinālo, gan mūsdienu izpildījumu) bibliogrāfija.
 <title>Dieva daudzināšana</title>
 <song dir="songs" id="LeniLeniDievinsBrauca2"/>
 <song dir="songs" id="PiDivenaGariGoldi"/>
-<!-- ??? Nāc, Dieviņi, uz manīm -->
+<song dir="songs" id="Na-cDievin-iUzMani-mi"/>
 </section>
 
 <section id="M">
 <title>Spēka dziesmas</title>
-<!-- Vij, Dieviņi, zelta viju -->
-<!-- Nedod, Dieviņ, man bēdiņu -->
-<!-- Visi meži guni dega -->
+<song dir="songs" id="VijDievin-iZeltaViju"/>
+<song dir="songs" id="NedodDievisManBe-din-u"/>
+<song dir="songs" id="VisiMez-iGuniDega"/>
 <song dir="songs" id="Avota-iGuniKu-ru"/>
 <song dir="songs" id="LaiBijVardiKamBijVardi"/>
 </section>

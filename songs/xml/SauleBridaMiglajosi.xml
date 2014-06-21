@@ -4,7 +4,7 @@
 <!--<source label=''/>-->
 </sources>
 <tags>ligodziesma</tags>
-<narrator></narrator>
+<narrator>Iļģi</narrator>
 <musicBy></musicBy>
 <lyricsBy></lyricsBy>
 <genre note="apakšējā balss ir sākotnējā melodija">1B+1B</genre>
@@ -12,10 +12,17 @@
 <keys>1|1</keys>
 <motive>d d d d d c c c</motive>
 <ref></ref>
-<lyrics># Saule brida miglājos Jāņu dienas vakarā;
-# Kur, Dieviņi, lielu guni, sildi visu pasaulīti.
-# Sakūrosi uguntiņu no deviņi žagariņi.
-# Sildies, Dievs, mīļā Laima, mana mūža licējiņa.
-# Līgojam, līgojam, neguļam, neguļam.
-# Redzēsim, redzēsim, kā saulīte rotājas.</lyrics>
+<lyrics>
+# Saule brida miglājos\\
+Jāņu dienas vakarā;\\
+Kur, Dieviņi, lielu guni,\\ 
+Sildi visu pasaulīti.
+# Sakūrosi uguntiņu\\ 
+No deviņi žagariņi.\\
+Sildies, Dievs, mīļā Laima,\\ 
+Mana mūža licējiņa.
+# Līgojam, līgojam,\\
+Neguļam, neguļam.\\
+Redzēsim, redzēsim,\\
+Kā saulīte rotājas.</lyrics>
 </song>

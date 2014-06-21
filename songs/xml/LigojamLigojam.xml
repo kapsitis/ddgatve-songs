@@ -12,42 +12,53 @@
 <keys>1|1</keys>
 <motive add="5">c c a a c c a a</motive>
 <ref></ref>
-<lyrics># Līgojam, līgojam,\\ Neguļam, neguļam. 
-# Redzēsim, redzēsim,\\ Kā saulīte rotājas. 
-# Kas Jānīša rītiņā\\ Pļavas, mežus skandināja. 
-# Jāņa bērni skandināja,\\ Visu nakti līgodami. 
-# Kas to teica, tas meloja,\\ Ka ir gara Jāņu nakte. 
-# Te satumsa, te uzausa,\\ Te saulīte gabalā.
-# Lec, saulīte, tu, saulīte,\\ Spīd ar mūsu sētiņāi!
-# Ir mums tava gaišumiņa\\ Vajadzēti vajadzēja. 
-# Saulīt, mīļa māmuliņa,\\ Parādiesi sudrabā. 
-# Parādies sudrabā\\ Pašā Jāņu rītiņā. 
-# Kā tos jāņus sagaidīja,\\ Tā tos Jāņus pavadīja. 
-# Līgodami sagaidīja,\\ Līgodami pavadīja.
+<lyrics>
+# Līgojam, līgojam,\\ 
+Neguļam, neguļam.\\ 
+Redzēsim, redzēsim,\\ 
+Kā saulīte rotājas. 
+# Kas Jānīša rītiņā\\ 
+Pļavas, mežus skandināja.\\ 
+Jāņa bērni skandināja,\\ 
+Visu nakti līgodami. 
+# Kas to teica, tas meloja,\\ 
+Ka ir gara Jāņu nakte.\\ 
+Te satumsa, te uzausa,\\ 
+Te saulīte gabalā.
+# Lec, saulīte, tu, saulīte,\\ 
+Spīd ar mūsu sētiņāi!\\
+Ir mums tava gaišumiņa\\ 
+Vajadzēti vajadzēja.
+# Rotājiesi tu, saulīte,\\ 
+Tu rotāji, es rotāju.\\ 
+Tu rotāji zelta rotas,\\ 
+Es jaunoi arājiņu. 
+# Nāci, nāci tu, Saulīte,\\ 
+Sen mēs tevi gaidījām!\\
+Kam tik ilgi kavējiesi\\ 
+Aiz viņiemi kalniņiemi. 
+# Kas to teica, tas meloja,\\ 
+Ka saulīte nakti guļ.\\ 
+Dienu loka zaļas birzes,\\ 
+Nakti loka ūdentiņu. 
+# Kas to teica, tas meloja,\\ 
+Ka saulīte nakti guļ.\\ 
+Vai saulīte tur uzlēca,\\ 
+Kur vakaru norietēj.
+# Ai, saulīte, bridaliņa,\\ 
+Brida dienu, brida nakti.\\ 
+Dienu brida dziļu jūru,\\ 
+Nakti dziļu ezeriņu. 
+# Kur saulīte mazgājāsi,\\ 
+Jāņu rītu uzlēkuse?\\
+Aiz upītes līcītī,\\ 
+Sudrabiņa bļodiņāi.
+# Saulīt, mīļa māmuliņa,\\ 
+Parādies sudrabā;\\ 
+Parādies sudrabā\\ 
+Pašā Jāņu rītiņā. 
 
-# Lec, saulīte, rītā agri,\\ Lec ar Dieva palīdziņu, 
-# No rītiņa sildīdama,\\ Vakarā žēlodama!
-# Lec, saulīte, rītā agri,\\ Lec ar Dieva palīdziņu. 
-# Vakarā noiedama\\ Nones blēņu valodiņas. 
-# Lec, saulīte, rītā agri,\\ Spodrin manu augumiņu, 
-# Vakarā noiedama,\\ Deldē manu pēlējiņu. 
-# Rotājiesi tu, saulīte,\\ Tu rotāji, es rotāju. 
-# Tu rotāji zelta rotas,\\ Es jaunoi arājiņu. 
-# Nāci, nāci tu, Saulīte,\\ Sen mēs tevi gaidījām!
-# Kam tik ilgi kavējiesi\\ Aiz viņiemi kalniņiemi. 
-# Kas to teica, tas meloja,\\ Ka saulīte nakti guļ. 
-# Dienu loka zaļas birzes,\\ Nakti loka ūdentiņu. 
-# Kas to teica, tas meloja,\\ Ka saulīte nakti guļ. 
-# Vai saulīte tur uzlēca,\\ Kur vakaru norietēj.
-# Ai, saulīte, bridaliņa,\\ Brida dienu, brida nakti. 
-# Dienu brida dziļu jūru,\\ Nakti dziļu ezeriņu. 
-# Kur saulīte mazgājāsi,\\ Jāņu rītu uzlēkuse?
-# Aiz upītes līcītī,\\ Sudrabiņa bļodiņāi.
-# Saulīt, mīļa māmuliņa,\\ Parādies sudrabā; 
-# Parādies sudrabā\\ Pašā Jāņu rītiņā. 
-# Kā tos Jāņus sagaidīja,\\ Kā tos Jāņus pavadīja?
-# Līgodami sagaidīja,\\ Līgodami pavadīja.
-
+<!-- 
 # Īsa, īsa Jāņu nakts\\ Par visām naksniņām:
 # Te satumsa, te uzausa\\ Pie Jānīša uguntiņas. 
 # Īsa, īsa Jāņu nakts\\ Par visām naksniņām:
@@ -76,5 +87,6 @@
 # Līgo saule, līgo bite,\\ Līgo visa radībiņa. 
 # Vakar Jāņus saņēmām,\\ Šodien Jāņus vadīsim; 
 # Vakar nāca dziedādami,\\ Nu iet prom raudādami.
+ -->
 </lyrics>
 </song>

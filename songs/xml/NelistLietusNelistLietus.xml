@@ -1,10 +1,11 @@
 <song>
 <title>Nelīst', lietus, nelīst', lietus</title>
 <sources>
-<!--<source label=''/>-->
+<source label='Silava1991' page="104"/>
 </sources>
 <tags>ligodziesma</tags>
 <narrator></narrator>
+<narrator-loc>Odziena</narrator-loc>
 <musicBy></musicBy>
 <lyricsBy></lyricsBy>
 <genre>1B</genre>
@@ -12,8 +13,13 @@
 <keys>1|2f</keys>
 <motive add="5">bes a g a</motive>
 <ref></ref>
-<lyrics># Nelīst', lietus, nelīst', lietus, šodien lietus nevajaga. 
-# Salīs manas Jāņu zāles, salīs paši Jāņa bērni. 
-# Dod, Dieviņi, saules gaisu, dzen lietiņu jūriņā!
-# Lai iekūra Jāņa bērni kalnā Jāņu uguntiņu. </lyrics>
+<lyrics>
+# Nelīst', lietus, nelīst', lietus,\\
+Šodien lietus nevajaga.\\ 
+Salīs manas Jāņu zāles,\\ 
+Salīs paši Jāņa bērni. 
+# Dod, Dieviņi, saules gaisu,\\ 
+Dzen lietiņu jūriņā!\\
+Lai iekūra Jāņa bērni\\ 
+Kalnā Jāņu uguntiņu.</lyrics>
 </song>

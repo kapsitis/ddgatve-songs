@@ -19,27 +19,59 @@ voiceA = \relative c' {
 \time 2/4
 \clef "treble"
 \key c \major
-\repeat volta 2 {
-c8 c c e 
+c8 c c e |
 \time 3/4
-f8 e d4. e8 
+f8 e d4. e8 |
 \time 2/4
-d8 d d d
+d8 d d d |
 \time 3/4
-d8 c e2 
-}
+d8 c e2 |
+\time 2/4
+c8 c c e |
+\time 3/4
+f8 e d4. e8 |
+\time 2/4
+d8 d d d |
+\time 3/4
+d8 c e2 |
 } 
 
 
 lyricA = \lyricmode {
-Sau -- le de -- va sav' mei -- ti -- ņu pār de -- vi -- ņi e -- ze -- riņ'.    
-} 
+Sau -- le de -- va sav' mei -- ti -- ņu 
+Pār de -- vi -- ņi e -- ze -- riņ',
+Sau -- le de -- va sav' mei -- ti -- ņu 
+Pār de -- vi -- ņi e -- ze -- riņ'.
+}
+
+voiceB = \relative c' {
+\time 2/4
+\clef "treble"
+\key c \major
+c8 c c e |
+\time 3/4
+f8 e d4. e8 |
+\time 2/4
+d8 d d d |
+\time 3/4
+d8 c e2 |
+
+\time 2/4
+e8 e e g |
+\time 3/4
+a8 g f4. e8 |
+\time 2/4
+f8 f f f | 
+\time 3/4
+f8 e g2
+}  
 
 fullScore = <<
 \new Staff {
 <<
-\new Voice = "voiceA" { \oneVoice \autoBeamOff \voiceA }
+\new Voice = "voiceA" { \voiceTwo \autoBeamOff \voiceA }
 \lyricsto "voiceA" \new Lyrics \lyricA
+\new Voice = "voiceB" { \voiceOne \autoBeamOff \voiceB }
 >>
 }
 >>
