@@ -21,12 +21,12 @@ voiceA = \relative c' {
 \key c \major
 \override Voice.TextScript #'font-family = #'sans
 \override Voice.TextScript #'font-size = #-1
-
+\oneVoice
 e8 f e | 
 e8 d c | 
 e8 f e | 
 e16[ d] d4 \break
-
+\voiceOne
 d8 f e | 
 f8 e d16[ c] | 
 e8 f e | 
@@ -42,12 +42,33 @@ Ie -- brau -- ca Sau -- lī -- te ā -- be -- ļu dārz'.
 } 
 
 
+voiceB = \relative c' {
+\time 3/8
+\clef "treble"
+\key c \major
+\override Voice.TextScript #'font-family = #'sans
+\override Voice.TextScript #'font-size = #-1
+
+s4. | 
+s4. | 
+s4. | 
+s4. \break
+
+d8 d d | 
+d8 d d | 
+c8 c c | 
+c4. 
+\bar "|."
+}
+
+
 
 fullScore = <<
 \new Staff {
 <<
-\new Voice = "voiceA" { \oneVoice \autoBeamOff \voiceA }
+\new Voice = "voiceA" { \voiceOne \autoBeamOff \voiceA }
 \lyricsto "voiceA" \new Lyrics \lyricA
+\new Voice = "voiceB" { \voiceTwo \autoBeamOff \voiceB }
 >>
 }
 >>

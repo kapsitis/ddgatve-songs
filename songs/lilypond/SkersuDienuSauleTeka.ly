@@ -19,7 +19,30 @@ voiceA = \relative c' {
 \key e \minor
 \time 4/4
 e8 fis g fis a g fis e | e8 fis g fis a g fis e | 
-b'4 b8[ g] a g b a | e4 e8 fis g fis a g | e2. r4 
+b'4 b8[ g] a g b a | 
+
+
+ 
+
+\oneVoice 
+<< { e4 e8 fis g fis a g | e2. r4 } 
+\new Staff \with {
+\remove "Time_signature_engraver"
+%\remove "Clef_engraver"
+%\remove "Key_engraver"
+%\remove "Accidental_engraver"
+alignAboveContext = #"main"
+fontSize = #-3
+\override StaffSymbol #'staff-space = #(magstep -3)
+\override StaffSymbol #'thickness = #(magstep -3)
+} { 
+  \key e \minor
+  << \new Voice = "voiceAB" { \oneVoice \autoBeamOff e2.( d4 | e2.) r4 }
+  \lyricsto "voiceAB" \new Lyrics { tiņš. } >>    
+}
+>> \oneVoice
+
+
 \bar "|."
 }
 

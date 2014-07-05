@@ -30,14 +30,40 @@ Sen dzir -- dē -- ju, nu ie -- rau -- gu, sen dzir -- dē -- ju, nu ie -- rau -
 Die -- vam sirm -- mi ku -- me -- li -- ņi, Die -- vam sir -- mi ku -- me -- liņ.   
 } 
 
+
+voiceB = \relative c' {
+\time 2/4
+\clef "treble"
+\key c \minor
+g'8 g g g | g8 g bes a | g8 g g g | g g bes a | 
+g16 g g g g g a a | g16 g g g g g a8\fermata
+\bar "|."
+} 
+
+
+%fullScore = <<
+%\new Staff {
+%<<
+%\new Voice = "voiceA" { \oneVoice \autoBeamOff \voiceA }
+%\lyricsto "voiceA" \new Lyrics \lyricA
+%>>
+%}
+%>>
+
+
 fullScore = <<
-\new Staff {
-<<
+\new ChoirStaff <<
+\new Staff = "upper" {<<
 \new Voice = "voiceA" { \oneVoice \autoBeamOff \voiceA }
-\lyricsto "voiceA" \new Lyrics \lyricA
+>>}
+\new Lyrics \lyricsto "voiceA" \lyricA
+\new Staff = "lower" {<<
+\new Voice = "voiceB" { \oneVoice \autoBeamOff \voiceB }
+>>}
 >>
-}
 >>
+
+
 
 \score {
 \fullScore

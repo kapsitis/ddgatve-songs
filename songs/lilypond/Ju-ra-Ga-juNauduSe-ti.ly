@@ -1,6 +1,6 @@
 \version "2.13.16"
 %\header {
-%    title = "Ai, saulīte, Mēnestiņi",AA lapas
+%    title = "Jūrā gāju naudu sēti", Websense grāmata
 %}
 \paper {
 line-width = 14\cm
@@ -16,30 +16,24 @@ ragged-last = ##f
 voiceA = \relative c' {
 \clef "treble"
 \key c \major
-\repeat volta 2 {
-\time 3/4
-d4 g f8 a |
-g4 d d8 e |
-f8( d) g4 f8 e |
-\time 4/4
-d4 c8( e) d2 |
-}
+\time 2/4
+g'8. c,16 c8 c | d8 d d d | e8 e e g | a8 g a b | 
+c8. a16 b8 b | a8 a e e | g8 g g g | g8 g g g |  
+\bar "|."
 } 
 
 lyricA = \lyricmode {
-Ai, Sau -- lī -- te, Mē -- nes -- ti -- ņi, kā jūs skais -- ti mi -- ja -- ties!
+Jū -- rā gā -- ju nau -- du sē -- ti, 
+Sau -- jā ne -- su dvē -- se -- lī -- ti, 
+Jū -- rā gā -- ju nau -- du sē -- ti, 
+Sau -- jā ne -- su dvē -- se -- lī -- ti.
 } 
-
-lyricB = \lyricmode {
-Kur die -- ni -- ņu Sau -- le te -- ka, nak -- tī te -- ka Mē -- nes -- tiņš. 
-}
 
 fullScore = <<
 \new Staff {
 <<
 \new Voice = "voiceA" { \oneVoice \autoBeamOff \voiceA }
 \lyricsto "voiceA" \new Lyrics \lyricA
-\lyricsto "voiceA" \new Lyrics \lyricB
 >>
 }
 >>

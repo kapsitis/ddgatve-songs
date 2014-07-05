@@ -32,15 +32,43 @@ u -- pīt'  te -- cēj'  čurk -- stē -- dam',
 
 lyricB = \lyricmode {
 Ai -- jā ri -- di, ai -- jā, rid -- ri -- di ral -- lā
-u -- pīt'  te -- cēj'  čurk -- stē -- dam'.
+_ _ _ _ _ _ _
 }
+
+voiceB = \relative c' {
+\clef "treble"
+\key d \minor
+\time 2/4
+\partial 4*1
+\repeat volta 2 {
+g'8 g | f4 f | g8 f e e | d4 f | d8 d d d8 | 
+
+
+<< { cis8 cis d4~ | d4 } 
+\new Staff \with {
+\remove "Time_signature_engraver"
+%\remove "Clef_engraver"
+%\remove "Key_engraver"
+%\remove "Accidental_engraver"
+alignAboveContext = #"main"
+fontSize = #-3
+\override StaffSymbol #'staff-space = #(magstep -3)
+\override StaffSymbol #'thickness = #(magstep -3)
+}  
+\new Voice = "voiceAB" { \voiceTwo \autoBeamOff a8 a d4~ | d4 }
+>> 
+
+}
+} 
+
 
 fullScore = <<
 \new Staff {
 <<
-\new Voice = "voiceA" { \oneVoice \autoBeamOff \voiceA }
+\new Voice = "voiceA" { \voiceOne \autoBeamOff \voiceA }
 \lyricsto "voiceA" \new Lyrics \lyricA
 \lyricsto "voiceA" \new Lyrics \lyricB
+\new Voice = "voiceB" { \voiceTwo \autoBeamOff \voiceB }
 >>
 }
 >>

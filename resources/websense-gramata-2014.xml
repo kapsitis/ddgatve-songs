@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+
+<title>Websense dziesmu grāmata</title>
+<subtitle> </subtitle>
+<location>Ādaži</location>
+<publisher> </publisher>
+<year>2014-07-04</year>
+
+<edition-notice>
+Izdošanas datums: 2014.gada 4.jūlijs
+
+
+</edition-notice> 
+
+
+<foreword>
+// //
+</foreword>
+
+
+<section id="A">
+<title>* * *</title>
+<song dir="songs" id="AiSauli-teMe-nestinjiKa-Ju-sSkaistiMijaties"/>
+<song dir="songs" id="AiSauli-teMe-nestinjiKa-Ju-sSkaistiMijaties2"/>
+<song dir="songs" id="C-etriStabiJu-ra-"/>
+<song dir="songs" id="DiviDienasMez-a-Ga-ju"/>
+<song dir="songs" id="IebraucaSauliteAbeluDarza2"/>
+<song dir="songs" id="JuraGajuNauduSeti"/>
+<song dir="songs" id="LeniLeniDievinsBrauca2"/>
+<song dir="songs" id="MazaTautuIstabinja"/>
+<song dir="songs" id="SauleDevaSavMeitin-u"/>
+<song dir="songs" id="SauleMeituIzdevusi"/>
+<song dir="songs" id="SenDzirdejuNuIeraugu"/>
+<song dir="songs" id="Sidrabin-aUpeTeka"/>
+<song dir="songs" id="SkersuDienuSauleTeka"/>
+<song dir="songs" id="TekuTekuPaCelin-u"/>
+<song dir="songs" id="UiVilciniUiVilcini"/>
+<song dir="songs" id="ZirgiZviedza"/>
+
+</section>
+
+</book>

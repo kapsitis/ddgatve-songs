@@ -24,7 +24,7 @@ g'8 g g g |
 f4 f8[ aes] g4.( g8) |
 \time 2/4
 f8 f f d |
-ees ees ees ees |
+ees ees ees c |
 \time 4/4
 d4 ees8[ d] c2 |
 \bar "|."
@@ -41,10 +41,10 @@ c8 c c c |
 \slurDashed
 bes4 bes ees4.( ees8) |
 \time 2/4
-f8 f f d |
-ees ees ees ees |
+d8 d d d |
+c8 c c c |
 \time 4/4
-g,4 g c2 |
+g4 g c2 |
 \bar "|."
 }
 

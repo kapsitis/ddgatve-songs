@@ -1,48 +1,54 @@
-\version "2.13.16"
-%\header {
-%    title = "Ai, saulīte, Mēnestiņi",AA lapas
-%}
+﻿\version "2.13.18"
+
 \paper {
 line-width = 14\cm
 left-margin = 0.4\cm
 between-system-padding = 0.1\cm
 between-system-space = 0.1\cm
 }
+% Websense klade
 \layout {
 indent = #0
 ragged-last = ##f
 }
 
+
 voiceA = \relative c' {
 \clef "treble"
-\key c \major
+\key d \minor
+\time 2/4
+d8 d d d | f4 d | f4 e8 e | d4 d | 
 \repeat volta 2 {
-\time 3/4
-d4 g f8 a |
-g4 d d8 e |
-f8( d) g4 f8 e |
-\time 4/4
-d4 c8( e) d2 |
-}
+\phrasingSlurDashed
+d4 d8 d | f4 d8 d | f4 e8\( e\) | d4 d | 
 } 
+\override NoteHead.style = #'cross
+d4 d4 |
+\bar"|."
+}
 
 lyricA = \lyricmode {
-Ai, Sau -- lī -- te, Mē -- nes -- ti -- ņi, kā jūs skais -- ti mi -- ja -- ties!
-} 
+Čet -- ri sta -- bi jū -- rā, zīl -- nie -- ce vi -- dū, 
+At -- skrē -- ja gai -- ga -- la, sa -- si -- ta spār -- nus. 
+}
 
 lyricB = \lyricmode {
-Kur die -- ni -- ņu Sau -- le te -- ka, nak -- tī te -- ka Mē -- nes -- tiņš. 
+_ _ _ _ _ _ _ _ _ _ _
+Sa -- sa -- la Dau -- ga -- va švirk -- stē- -- _ -- da -- ma.
 }
+
 
 fullScore = <<
 \new Staff {
 <<
 \new Voice = "voiceA" { \oneVoice \autoBeamOff \voiceA }
-\lyricsto "voiceA" \new Lyrics \lyricA
-\lyricsto "voiceA" \new Lyrics \lyricB
+\lyricsto "voiceA" \new Lyrics  \lyricA
+\lyricsto "voiceA" \new Lyrics  \lyricB
 >>
 }
 >>
+
+
 
 \score {
 \fullScore
