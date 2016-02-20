@@ -33,14 +33,14 @@ Vi -- sus tre -- jus vi -- ri -- nā -- ja: lī -- go, lī -- go!
 } 
 
 lyricB = \lyricmode {
-Lī -- go, lī -- go! lī -- go, lī -- go!
+go. Lī -- go, lī -- go! lī -- go, lī -- go!
 } 
 
 voiceB = \transpose e a { \relative c' {
 \clef "treble"
 \key e \minor
 \time 2/4
-s2 | s2
+a2^\markup{(velk no iepr. panta)} | s2
 \time 4/4
 e4 e2. | e4 e2.~
 \time 2/4

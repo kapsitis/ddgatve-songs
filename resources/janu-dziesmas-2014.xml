@@ -5,10 +5,10 @@
 <subtitle> </subtitle>
 <location>Ādaži</location>
 <publisher> </publisher>
-<year>2014-06-21</year>
+<year>2015-06-18</year>
 
 <edition-notice>
-Izdošanas datums: 2014.gada 19.jūnijs
+Izdošanas datums: 2015.gada 18.jūnijs
 
 <!--
 Dziesmu pirmteksti: http://code.google.com/p/webkursi/
@@ -154,12 +154,15 @@ dziesmu avotu (gan oriģinālo, gan mūsdienu izpildījumu) bibliogrāfija.
 
 
 <section id="D">
-<title>Aplīgo dārzus</title>
+<title>Aplīgo dārzus, sētu</title>
 <song dir="songs" id="LabvakarRudzuLauks" num="16"/>
 <song dir="songs" id="DievinsBridaRudzuLauku" num="13"/>
 <song dir="songs" id="EsRedzejuJanuNakti" num="14"/>
 <song dir="songs" id="Ju-sMa-sin-asNezina-ti"/>
 <song dir="songs" id="N-emJa-ni-tiBaltuZirgu"/>
+<song dir="songs" id="N-emJa-ni-tiMelnuZirgu"/>
+<song dir="songs" id="TiesaTiesaNeMelini" num="39"/>
+<song dir="songs" id="Ja-n-aMa-tesPagalma-i"/>
 </section>
 
 
@@ -178,6 +181,7 @@ dziesmu avotu (gan oriģinālo, gan mūsdienu izpildījumu) bibliogrāfija.
 <song dir="songs" id="AiJa-ni-tiDievaDe-lsi" num="46"/>
 <song dir="songs" id="Ja-ni-tsSavuKumelin-u" num="47"/>
 <song dir="songs" id="JauJa-ni-tisAizvakar"/>
+<song dir="songs" id="Ra-miRa-miJa-ni-tsBrauca"/>
 </section>
 
 <section id="G">
@@ -194,51 +198,50 @@ dziesmu avotu (gan oriģinālo, gan mūsdienu izpildījumu) bibliogrāfija.
 <song dir="songs" id="AiJusPuisiAiJusMeitas" num="25"/>
 <song dir="songs" id="NeguluNeguluJanisaNakti" num="26"/>
 <song dir="songs" id="Li-goJa-ni-ti"/>
-<song dir="songs" id="KasTurSpi-daKasTurMirdza"/>
 </section>
 
 
 <section id="I">
-<title>Ļaunuma atvairīšana</title>
-<song dir="songs" id="TiesaTiesaNeMelini" num="39"/>  
-<song dir="songs" id="N-emJa-ni-tiMelnuZirgu"/>
+<title>Apdziedāšanās</title>
+<song dir="songs" id="TuratiesiTuratiesi" num="28"/> 
+<song dir="songs" id="Ja-n-aBe-rniSana-kus-i"/>
 </section>
-
 
 
 <section id="J">
-<title>Apdziedāšanās</title>
-<song dir="songs" id="TuratiesiTuratiesi" num="28"/> 
-<song dir="songs" id="Ja-n-aTe-vsArJa-naMa-ti"/>
-</section>
-
-
-<section id="K">
-<title>Saules dziesmas</title>
+<title>Saulei norietot un uzlecot</title>
 <song dir="songs" id="JanisamiTrejiVarti" num="20"/>
-<song dir="songs" id="LigojamLigojam" num="29"/>
+<song dir="songs" id="KasTurSpi-daKasTurMirdza"/>
+<song dir="songs" id="KasToTeicaTasMeloja" num="29"/>
 <song dir="songs" id="Para-diesTuSauli-te"/> 
 <song dir="songs" id="Ta-Saci-jaTa-BijTiesa" num="54"/>
+</section>
+
+<section id="K">
+<title>Pielikums: Saules dziesmas</title>
 <song dir="songs" id="IebraucaSauliteAbeluDarza2"/>
 <song dir="songs" id="SauleDevaSavMeitin-u"/>
 <song dir="songs" id="SauleBraucaPa-rDebesi"/>
 <song dir="songs" id="SauleMeituIzdevusi"/>
 <song dir="songs" id="SkersuDienuSauleTeka"/>
 <song dir="songs" id="AiSauli-teMe-nestinjiKa-Ju-sSkaistiMijaties2"/>
-<song dir="songs" id="LecSauli-teRi-ta-Agri"/>
+<song dir="songs" id="SudrabotiGailiDzied2"/>
 <song dir="songs" id="Ga-juGa-juGaruCel-u"/>
+<song dir="songs" id="RitiSauli-tRite-dama"/>
+<song dir="songs" id="TumsaTumsaKasParTumsu"/>
+<song dir="songs" id="G-e-rbiesSauleSudrabota"/>
 </section>
 
 
 <section id="L">
-<title>Dieva daudzināšana</title>
+<title>Pielikums: Dieva daudzināšana</title>
 <song dir="songs" id="LeniLeniDievinsBrauca2"/>
-<song dir="songs" id="PiDivenaGariGoldi"/>
+<song dir="songs" id="PieDievin-aGariGaldi"/>
 <song dir="songs" id="Na-cDievin-iUzMani-mi"/>
 </section>
 
 <section id="M">
-<title>Spēka dziesmas</title>
+<title>Pielikums: Spēka dziesmas</title>
 <song dir="songs" id="VijDievin-iZeltaViju"/>
 <song dir="songs" id="NedodDievisManBe-din-u"/>
 <song dir="songs" id="VisiMez-iGuniDega"/>
@@ -252,7 +255,10 @@ dziesmu avotu (gan oriģinālo, gan mūsdienu izpildījumu) bibliogrāfija.
 <song dir="songs" id="Samaisi-juIemauktin-us" num="59"/>
 </section>
 
-
+<!-- 
+Ja-n-aMa-tesPagalma-i.xml
+TumsaTumsaKasParTumsu.xml
+-->
 
 
 <!-- 

@@ -1,12 +1,12 @@
-\version "2.13.16"
+\version "2.13.16" 
 %\header {
-%    title = "Pa gadskārtu Jānīts nāca"
+% title = "Ģērbies, Saule, sudrabota"
 %}
 \paper {
 line-width = 14\cm
 left-margin = 0.4\cm
-between-system-padding = 0.1\cm
-between-system-space = 0.1\cm
+between-system-padding = 0.3\cm
+between-system-space = 0.3\cm
 }
 \layout {
 indent = #0
@@ -15,22 +15,21 @@ ragged-last = ##f
 
 voiceA = \relative c' {
 \clef "treble"
-\key g \major
-\time 2/4
-g'8 d' d d | c8 b a g 
-\repeat volta 2 { 
-\time 2/4
-g8[ b] d4 | 
-c8[ e] d4 | b8 d d d | c8 b a g 
-\time 4/4
-b8[ a] g2.   
-}
+\key c \major
+\time 5/8
+g'8 e g4 c8 | a8 f a4 d8 | b8 g b4 d8 | d8 b c4. |
+g8 e' e4 e8 | e16[ d] f8 d4 c8 | b8 d d4 e8 | d8 c c4. 
 }
 
+
 lyricA = \lyricmode {
-Pa gads -- kār -- tu Jā -- nīts nā -- ca, lī -- go, lī -- go, 
-Sa -- vus bēr -- nus ap -- rau -- dzī -- ti, lī -- go.
-} 
+Ģēr -- bies, Sau -- le, sud -- ra -- bo -- ta, nu brauc ta -- vi pre -- ci -- niek',
+Ģēr -- bies, Sau -- le, sud -- ra -- bo -- ta, nu brauc ta -- vi pre -- ci -- niek'!
+}
+
+
+
+
 
 fullScore = <<
 \new Staff {

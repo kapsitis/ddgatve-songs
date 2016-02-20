@@ -1,5 +1,5 @@
 <song>
-<title>Līgojam, līgojam</title>
+<title>Kas to teica, tas meloja</title>
 <sources>
 <source label='DienasJani' code='12'/>
 </sources>
@@ -13,30 +13,10 @@
 <motive add="5">c c a a c c a a</motive>
 <ref></ref>
 <lyrics>
-# Līgojam, līgojam,\\ 
-Neguļam, neguļam.\\ 
-Redzēsim, redzēsim,\\ 
-Kā saulīte rotājas. 
-# Kas Jānīša rītiņā\\ 
-Pļavas, mežus skandināja.\\ 
-Jāņa bērni skandināja,\\ 
-Visu nakti līgodami. 
 # Kas to teica, tas meloja,\\ 
 Ka ir gara Jāņu nakte.\\ 
 Te satumsa, te uzausa,\\ 
 Te saulīte gabalā.
-# Lec, saulīte, tu, saulīte,\\ 
-Spīd ar mūsu sētiņāi!\\
-Ir mums tava gaišumiņa\\ 
-Vajadzēti vajadzēja.
-# Rotājiesi tu, saulīte,\\ 
-Tu rotāji, es rotāju.\\ 
-Tu rotāji zelta rotas,\\ 
-Es jaunoi arājiņu. 
-# Nāci, nāci tu, Saulīte,\\ 
-Sen mēs tevi gaidījām!\\
-Kam tik ilgi kavējiesi\\ 
-Aiz viņiemi kalniņiemi. 
 # Kas to teica, tas meloja,\\ 
 Ka saulīte nakti guļ.\\ 
 Dienu loka zaļas birzes,\\ 
@@ -45,18 +25,22 @@ Nakti loka ūdentiņu.
 Ka saulīte nakti guļ.\\ 
 Vai saulīte tur uzlēca,\\ 
 Kur vakaru norietēj.
-# Ai, saulīte, bridaliņa,\\ 
-Brida dienu, brida nakti.\\ 
-Dienu brida dziļu jūru,\\ 
-Nakti dziļu ezeriņu. 
 # Kur saulīte mazgājāsi,\\ 
 Jāņu rītu uzlēkuse?\\
 Aiz upītes līcītī,\\ 
 Sudrabiņa bļodiņāi.
-# Saulīt, mīļa māmuliņa,\\ 
-Parādies sudrabā;\\ 
-Parādies sudrabā\\ 
-Pašā Jāņu rītiņā. 
+# Nāci, nāci tu, Saulīte,\\ 
+Sen mēs tevi gaidījām!\\
+Kam tik ilgi kavējiesi\\ 
+Aiz viņiemi kalniņiemi. 
+# Kas Jānīša rītiņā\\ 
+Pļavas, mežus skandināja.\\ 
+Jāņa bērni skandināja,\\ 
+Visu nakti līgodami. 
+# Rotājiesi tu, saulīte,\\ 
+Tu rotāji, es rotāju.\\ 
+Tu rotāji zelta rotas,\\ 
+Es jaunoi arājiņu. 
 
 <!-- 
 # Īsa, īsa Jāņu nakts\\ Par visām naksniņām:

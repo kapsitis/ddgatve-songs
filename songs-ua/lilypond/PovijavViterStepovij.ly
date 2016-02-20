@@ -1,8 +1,8 @@
 \version "2.13.16"
 %\header {
-%    title = "Sudraboti gaiļi dzied"
-%    (Deprecated -> Sk. "Jānīšami treji vārti")
+%    title = "Vuoi mėiga mėiga"
 %}
+% "Skamba, skamba kankliai, 1993"
 \paper {
 line-width = 14\cm
 left-margin = 0.4\cm
@@ -14,43 +14,46 @@ indent = #0
 ragged-last = ##f
 }
 
+
+
+
 voiceA = \relative c' {
+\tempo 4=108
 \clef "treble"
-\key cis\minor
+\key f \major
+\time 4/4 
+\partial 4*1 c4 | 
+f4. e8 g f e d | 
+c2. c4 |
+bes'4. bes8 bes a c[ bes] |
+a2. f4 |
 \repeat volta 2 {
-\time 2/4
-e8. e16 dis8 cis | dis8. cis16 cis4 
-\time 3/4 
-cis4 dis2 | e4 cis2 
+<<d'4. bes>> <<c8 a>> <<d bes>> <<c a>>  
+c4 c d | e2 e4 | d2 d4 | b2.  
+\bar "|."
+} 
+
+lyricA = \lyricmode {
+Vuoi mėi -- ga mėi -- ga mėi -- ge -- lė, 
+Aš ta mėi -- ge -- lė ne -- la -- ba. 
+
 }
-} 
-
-lyricAA = \lyricmode {
-Su -- dra -- bo -- ti gai -- ļi1 dzied, lī -- go, lī -- go,
-} 
-
-lyricAB = \lyricmode {
-Zelt -- u -- pī -- tes ma -- li -- ņā, lī -- go, lī -- go.
-} 
 
 voiceB = \relative c' {
 \clef "treble"
-\key cis\minor
-\repeat volta 2 {
-\time 2/4
-cis2~ | cis2~ 
-\time 3/4 
-cis2.~ | cis2.
-}
+\time 3/4
+\key c \major
+b'4 g g | b2 b4 | a2 g4 | d2. | 
+a'4 a b | c2 c4 | b2 a4 | g2. 
+\bar "|."
 } 
-
 
 fullScore = <<
 \new Staff {
 <<
-\new Voice = "voiceA" { \voiceOne \autoBeamOff \voiceA }
-\lyricsto "voiceA" \new Lyrics \lyricAA
-\lyricsto "voiceA" \new Lyrics \lyricAB
+\new Voice = "voiceA" { 
+\voiceOne \autoBeamOff \voiceA }
+\lyricsto "voiceA" \new Lyrics \lyricA
 \new Voice = "voiceB" { \voiceTwo \autoBeamOff \voiceB }
 >>
 }

@@ -1,7 +1,8 @@
 \version "2.13.16"
 %\header {
-%    title = "Pa gadskārtu Jānīts nāca"
+%    title = "Sudraboti gaiļi dzied"
 %}
+% Spēka dziesmas; p.18
 \paper {
 line-width = 14\cm
 left-margin = 0.4\cm
@@ -13,24 +14,25 @@ indent = #0
 ragged-last = ##f
 }
 
+
 voiceA = \relative c' {
 \clef "treble"
-\key g \major
-\time 2/4
-g'8 d' d d | c8 b a g 
-\repeat volta 2 { 
-\time 2/4
-g8[ b] d4 | 
-c8[ e] d4 | b8 d d d | c8 b a g 
+\key d \minor
 \time 4/4
-b8[ a] g2.   
-}
-}
+r2 r4 d8 f | e4 d8[ a] f'8 f f e | 
+\time 3/4
+d8 f e4 d |
+\time 4/4
+f8 f f e f4 e8[ d] | d2\fermata r2 
+} 
 
 lyricA = \lyricmode {
-Pa gads -- kār -- tu Jā -- nīts nā -- ca, lī -- go, lī -- go, 
-Sa -- vus bēr -- nus ap -- rau -- dzī -- ti, lī -- go.
-} 
+Sud -- ra -- bo -- ti gai -- ļi dzie -- da zelt -- u -- pī -- tes,
+zelt -- u -- pī -- tes ma -- li -- ņā. 
+}
+
+
+
 
 fullScore = <<
 \new Staff {

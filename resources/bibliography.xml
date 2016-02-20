@@ -1,5 +1,16 @@
 <bibliography>
- 
+    
+    A.W.Hupell &quot;&quot;, 
+
+<bibitem 
+    id="#bibHupell"
+    label="Hupell"
+    author="A.W.Hupell"
+    title="Topographische Nachrichten von Lief- und Ehstland. 2.Band."
+    published="Riga"
+    year="1977"/>
+
+
 <bibitem 
     id="#bibBerzinsTDz"
     label="Berzins1948"
@@ -330,11 +341,21 @@
     label="Dievseta2007"/>
     
 <bibitem
-    id="id="#bibMaldere2012"
+    id="#bibMaldere2012"
     label="Maldere2012"
     author="Ērika Māldere"
     title="3x9 Jāņi"
     published="Zvaigzne ABC"
     year="2012"/>
+
+<bibitem
+    id="#bibSpekaDziesmas"
+    label="SpekaDziesmas2012"
+    author="Ieva Ančevska"
+    title="Spēka dziesmas"
+    published="Ventspils"
+    year="2012"/>
+
+
 
 </bibliography>

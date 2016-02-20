@@ -1,6 +1,7 @@
 \version "2.13.16"
 %\header {
-%    title = "Līgojam, līgojam"
+%    title = "Kas to teica, tas meloja"
+%    title = "Ligojam, ligojam"
 %}
 \paper {
 line-width = 14\cm
@@ -34,8 +35,8 @@ e8 e fis fis | e8 fis e e | e4 e4
 } }
 
 lyricA = \lyricmode {
-Lī -- go -- ja -- mi, lī -- go -- ja -- mi, lī -- go, 
-Ne -- gu -- ļa -- mi, ne -- gu -- ļa -- mi, lī -- go. 
+Kas to tei -- ca, tas me -- lo -- ja, lī -- go, 
+Ka ir ga -- ra Jā -- ņu nak -- te, lī -- go. 
 }
 
 chordsA = \chordmode {

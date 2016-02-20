@@ -1,7 +1,8 @@
 \version "2.13.16"
 %\header {
-%    title = "Pa gadskārtu Jānīts nāca"
+%    title = "Tumsa, tumsa, kas par tumsu"
 %}
+% Spēka dziesmas; p.18
 \paper {
 line-width = 14\cm
 left-margin = 0.4\cm
@@ -13,24 +14,25 @@ indent = #0
 ragged-last = ##f
 }
 
+
 voiceA = \relative c' {
 \clef "treble"
-\key g \major
-\time 2/4
-g'8 d' d d | c8 b a g 
-\repeat volta 2 { 
-\time 2/4
-g8[ b] d4 | 
-c8[ e] d4 | b8 d d d | c8 b a g 
-\time 4/4
-b8[ a] g2.   
-}
-}
+\key c \major
+\time 3/4
+f8 f a16 a g f g8( a16) g | f8 f a16 a g f g8( a16) g |
+d8 d a'16 a g f c8( f16) e | d8 d a'16 a g f c4 
+\bar "|."
+} 
 
 lyricA = \lyricmode {
-Pa gads -- kār -- tu Jā -- nīts nā -- ca, lī -- go, lī -- go, 
-Sa -- vus bēr -- nus ap -- rau -- dzī -- ti, lī -- go.
-} 
+Tum -- sa, tum -- sa, kas par tum -- su,
+Tum -- sa, tum -- sa, kas par tum -- su, 
+Es par tum -- su ne -- bē -- dā -- ju, 
+Es par tum -- su ne -- bē -- dāj'. 
+}
+
+
+
 
 fullScore = <<
 \new Staff {

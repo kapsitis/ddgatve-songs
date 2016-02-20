@@ -1,7 +1,8 @@
 \version "2.13.16"
 %\header {
-%    title = "Parādiesi tu, saulīte"
+%    title = "Jāņa mātes pagalmāi"
 %}
+% 
 \paper {
 line-width = 14\cm
 left-margin = 0.4\cm
@@ -13,34 +14,37 @@ indent = #0
 ragged-last = ##f
 }
 
+
+
 voiceA = \relative c' {
 \clef "treble"
-\key b \minor
-\time 4/4
-b8 b e cis d b cis cis | b b e cis d b cis4 |
-d8 b b cis d d cis cis 
-d8 b b cis d d cis4
-d8 b b cis d d cis4\fermata
+\key a \minor
+\time 2/4
+d8 d d e | f8 e d d | d4 e | e8[ f] g4 | f8 e f f | g8 f e d | e4 f | e4 d |
+d8 d d e | f8 e d d | d4 e | e8[ f] g4 | f8 e f f | g8 f e d | e4 f4 | e4 d 
+\bar "|."
 }
 
 voiceB = \relative c' {
 \clef "treble"
-\key b \minor
-\time 4/4
-s1 | s1 |
-b8 b b b b b a a 
-b8 b b b b b a4
-b8 b b b b b a4\fermata
+\key a \minor
+\time 2/4
+s2 | s2 | s2 | s2 | s2 | s2 | s2 | s2 | 
+d8 d d d | d8 d d d | d4 c | c4 c | d8 d d d | d8 d d d | c4 d | c4 d
+\bar "|."
 }
 
-
 lyricA = \lyricmode {
-Pa -- rā -- die -- si, tu, sau -- lī -- te, 
-Trīs -- reiz je -- le die -- ni -- ņā,
-Pa -- rā -- die -- si, tu, sau -- lī -- te, 
-Trīs -- reiz je -- le die -- ni -- ņā, 
-Trīs -- reiz je -- le die -- ni -- ņā.
-} 
+Jā -- ņa mā -- tes pa -- gal -- mā -- i, 
+lī -- go, lī -- go,
+Trīs sid -- ra -- ba a -- vo -- ti -- ņi, 
+lī -- go, lī -- go!
+Jā -- ņa mā -- tes pa -- gal -- mā -- i, 
+lī -- go, lī -- go,
+Trīs sid -- ra -- ba a -- vo -- ti -- ņi, 
+lī -- go, lī -- go!  
+}
+
 
 fullScore = <<
 \new Staff {
@@ -65,5 +69,6 @@ fullScore = <<
 \context { \Voice \consists "Staff_performer" }
 }
 }
+
 
 

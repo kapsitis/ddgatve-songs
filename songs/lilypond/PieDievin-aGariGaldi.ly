@@ -1,6 +1,7 @@
 \version "2.13.16"
 %\header {
-%    title = "Pa gadskārtu Jānīts nāca"
+%    title = "Pie Dieviņa gari galdi"
+%   (sk. "Pie Dieviņa gari galdi")
 %}
 \paper {
 line-width = 14\cm
@@ -15,22 +16,25 @@ ragged-last = ##f
 
 voiceA = \relative c' {
 \clef "treble"
-\key g \major
+\key d \major
 \time 2/4
-g'8 d' d d | c8 b a g 
-\repeat volta 2 { 
-\time 2/4
-g8[ b] d4 | 
-c8[ e] d4 | b8 d d d | c8 b a g 
-\time 4/4
-b8[ a] g2.   
-}
-}
+fis8 fis fis e16[( fis]) | g8 g g fis | e4 g4 | fis4. e8 |
+d8 d d cis16[( d]) | e8 e e d | cis4 fis8[( e]) | fis4. r8 |
+a8 a a g16[( a]) | b8 b b a | g4 b | a4. g8 |
+fis8 fis fis e16[( fis]) | g8 g g fis | e4 g | fis4. r8
+\bar "|."
+} 
+
+
 
 lyricA = \lyricmode {
-Pa gads -- kār -- tu Jā -- nīts nā -- ca, lī -- go, lī -- go, 
-Sa -- vus bēr -- nus ap -- rau -- dzī -- ti, lī -- go.
-} 
+Pie Die -- vi -- ņa ga -- ri gal -- di, ga -- ri gal -- di,
+Tur sēž  pa -- ti mī -- ļā Mā -- ra, mī -- ļā Mār'.
+Pie Die -- vi -- ņa ga -- ri gal -- di, ga -- ri gal -- di,
+Tur sēž  pa -- ti mī -- ļā Mā -- ra, mī -- ļā Mār'.
+}
+
+
 
 fullScore = <<
 \new Staff {
