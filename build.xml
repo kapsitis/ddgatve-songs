@@ -66,7 +66,7 @@
 
 	<target name="make" description="Creates PNG and MIDI from LilyPond">
 		<fail unless="song" message="Missing parameter 'song'" />
-		<exec executable="lilypond">
+		<exec executable="/home/kalvis/bin/lilypond">
 			<arg value="-fpng" />
 			<arg value="${current.dir}/${song}.ly" />
 		</exec>
@@ -79,7 +79,7 @@
 
 		<move file="${basedir}/${song}.new.png" tofile="${current.dir}/../png/${song}.png" />
 
-		<exec executable="lilypond">
+		<exec executable="/home/kalvis/bin/lilypond">
 			<arg value="-dbackend=svg" />
 			<arg value="${current.dir}/${song}.ly" />
 		</exec>
