@@ -202,7 +202,11 @@ Ar ozola zariņiemi.
 3. Ai, Jānīša vakariņis,   
 Ozoliņu tērētājis:   
 Grib dārziņi tīrumiņi,   
-Grib meitiņas vainadziņis. 
+Grib meitiņas vainadziņis.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -217,7 +221,11 @@ Kam bij kaula kažociņš.
 6. Iestādīju ozoliņu   
 Jāņa tēva pagalmā.   
 Lai tas auga, lai zaļoja   
-Līdz citiem Jānīšiem. 
+Līdz citiem Jānīšiem.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -282,7 +290,11 @@ Sidrabiņa ziediņiemi.
 5. Visas bija Jāņu zāles,  
 Ko plūc Jāņu vakarā;  
 Visi bija Jāņu bērni,  
-Kas Jānīti daudzināja.
+Kas Jānīti daudzināja.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup><hgroup>
@@ -302,7 +314,11 @@ Tā vairs lieti nederēja.
 9. Visa laba Jāņu zāle,  
 Kas lasīta Jāņu nakti:  
 Jāņu nakti zelta rasa  
-Katrā zāles galiņā.
+Katrā zāles galiņā.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -330,7 +346,11 @@ Gan baltais vīrāksnītis.
 4. Maraniņas salasīju  
 Avotiņa lejiņā.  
 Es nopīšu vainadziņu,  
-Ar ko Jāni sagaidīt.
+Ar ko Jāni sagaidīt.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -347,7 +367,11 @@ Ziedēj' visu vasariņu.
 Papardīte gudriniece,   
 Tā ziedēja Jāņu nakti.  
 Tā ziedēja Jāņu nakti,   
-Zelta miglu miglodama. 
+Zelta miglu miglodama.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -370,7 +394,11 @@ Ko plūc Jāņu vakarāi;
 Papardīte, tā nebija,   
 Tai ziediņi neziedēja,   
 Tā zied Jāņu naksniņāi,   
-Kad ļautiņi neredzēja.
+Kad ļautiņi neredzēja.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -381,7 +409,11 @@ Skan mežāi ozolāi.
 5. Lokatiesi, mežu gali,  
 Lai balstiņis pāri skana!  
 Lai balstiņis pāri skana  
-Pār deviņi novadiņi!
+Pār deviņi novadiņi!  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -405,7 +437,11 @@ Sarkanāi āboliņa.
 3. To uzliku galviņāi   
 Jānu nakti līgodama.  
 Spīdēj manis vainadziņis   
-Pār deviņi novadiņi.
+Pār deviņi novadiņi.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -426,7 +462,11 @@ Papardīte vien nezieda,
 Papardīte, zeltziedīte,   
 Uzzied Jāņu vakarāi;  
 Zelta ziedu meklējoti,   
-Novīst manis vainadziņis.
+Novīst manis vainadziņis.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -449,7 +489,11 @@ Galotnītes līgojās.
 3. Ai, zaļā bērzu birze,  
 Tu meitiņas košumā:  
 Balti svārki, zaļa sagša,  
-Vizulīšu vainadziņš. 
+Vizulīšu vainadziņš.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup><hgroup>
@@ -467,7 +511,11 @@ Visi tavi zari dimd(a),
 Visi tavi zari dimd(a),  
 Visas tavas pazarītes.  
 Pilni zari zelta zīļu,  
-Pilni sīka sudrabiņa. 
+Pilni sīka sudrabiņa.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -492,7 +540,11 @@ Zelta miglu miglodam.
 3. Kas redzēja Jāņu nakti  
 Papardīti uzziedam,  
 Tas līgoja cauru gadu  
-Kā Jānīša vakarā. 
+Kā Jānīša vakarā.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup><hgroup>
@@ -504,7 +556,11 @@ Bite ziedus lasīdama.
 5. Līgo saule, līgo bite  
 Līgo visa pasaulīte.  
 Tā līgoja Jāņa bērni  
-Pa maliņu maliņām.
+Pa maliņu maliņām.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -533,7 +589,11 @@ Uztecēju Saules muižu.
 Uztecēju Saules muižu,  
 Nevarēju garām tikt.   
 Ņēmu pašu Saules meitu,  
-Tad varēju garām tikt.
+Tad varēju garām tikt.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -548,7 +608,11 @@ Tam iedevu zelta sauju.
 Pastarītis krēslu cēla,  
 Tam iedevu Saules meitu.  
 Tam iedevu Saules meitu,  
-Visu mūžu līgaviņu.
+Visu mūžu līgaviņu.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -570,7 +634,11 @@ Nevarēja aptecēti.
 3. Ozoliņi, ozoliņi,  
 Tavu lielu diženumu:   
 Meitas nāca dziedādamas,  
-Vainagiemi zarus lauzti. 
+Vainagiemi zarus lauzti.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup><hgroup>
@@ -582,7 +650,11 @@ Es nomiršu, tu paliksi.
 5. Sanākati, Jāņa bērni,  
 Zem kuplāi ozoliņa;   
 Zem kuplāi ozoliņa,   
-Tur Jānīša goda vieta.
+Tur Jānīša goda vieta.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -643,7 +715,11 @@ Govis bērzu vainadziņa.
 2. Visi gaida Jāņu dienu,  
 Meitas gaida, puiši gaida.  
 Puišiem sieru, puišiem alu,  
-Meitām zāļu vainadziņus. 
+Meitām zāļu vainadziņus.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup><hgroup>
@@ -659,7 +735,11 @@ Kā zaļaisi ozoliņis.
 5. Ap tētiņu bites rūca,   
 Kā ap zaļu ozoliņu,   
 Ap māmiņu govis māva,   
-Kā ap zaļu āboliņu.
+Kā ap zaļu āboliņu.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -687,7 +767,11 @@ Man vībotnes, vārmelītes.
 3. Nāc pretīmi, Jāņa tēvs,  
 Samīsimi alutiņu.  
 Tev no rūgtu apenīšu,  
-Man no salda medutiņa.
+Man no salda medutiņa.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup><hgroup>
@@ -711,7 +795,11 @@ Pa lieliem gabaliem.
 6. Labvakari, Jāņa bērni,  
 Nāciet droši sētiņā.  
 Netrūkst siera, netrūkst sviesta.  
-Netrūkst salda alutiņa. 
+Netrūkst salda alutiņa.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -748,7 +836,11 @@ Iešu miežus noviļāšu.
 6. Jāņa māte bēdājāsi,   
 Daudz sanāca Jāņa bērni.  
 Nebēdāi, Jāņa māte,   
-Gan tos visus pamielosi.
+Gan tos visus pamielosi.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup><hgroup>
@@ -772,7 +864,11 @@ Stallī bērus kumeliņus
 11. Ko mēs labu vēlēsimi   
 Mūsu Jāņu tētiņami?  
 Zirgiem zviegti, aitām blēti,   
-Arājami gavilēti!
+Arājami gavilēti!  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -827,7 +923,11 @@ Dzelten' ziedus noziedēt?
 3. Labvakar, auzu lauks,   
 Kā Dieviņis tev līdzēja?   
 Kā Dieviņis tev līdzēja   
-Baltus ziedus noziedēt?
+Baltus ziedus noziedēt?  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -842,7 +942,11 @@ Raibus ziedus noziedēt?
 6. Tie nebija raibi ziedi,   
 Tie bij' Dieva pakariņi;   
 Tie bij Dieva pakariņi   
-Mīļās Māras norakstīti. 
+Mīļās Māras norakstīti.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup>
@@ -865,7 +969,11 @@ Tīru maizi gribēdams.
 3. Kas piesēja melnu zirgu  
 Pie Jānīša klētsdurvīm?  
 Dieva dēli piesējuši,  
-Miežus, rudzus mērodami. 
+Miežus, rudzus mērodami.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -880,7 +988,11 @@ Jāņa nakti staigādami.
 6. Saule grieza zelta riņķi  
 Jāņa tēva pagalmā;  
 Sagriez, Dievs, rudzus, miežus   
-Jāņa tēva tīrumā.
+Jāņa tēva tīrumā.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup>
@@ -900,7 +1012,11 @@ Trešā tīra sudrabiņa.
 2. Kam šie kalni, kam šīs lejas,   
 Kam šie lielie rudzu lauki.   
 Dievam kalni, Laimai lejas,   
-Jānīšami rudzu lauki. 
+Jānīšami rudzu lauki.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -911,8 +1027,11 @@ Auzu skaru villainīti
 4. Dieviņš sēja sudrabiņu   
 Visu garu Jāņu nakti.  
 Sēj, Dieviņi, manu tiesu   
-Jele vienu birzumiņu.
-
+Jele vienu birzumiņu.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -934,7 +1053,11 @@ Klāvā vietas neatrada.
 3. Augstu metu Jāņu zāles,  
 Lai telītes lielas auga.  
 Lai telītes lielas auga,  
-Lai tās pulka piena deva.
+Lai tās pulka piena deva.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -953,7 +1076,11 @@ Tā man pulka piena deva:
 No sieriemi jumtu taisu,  
 Sviestu metu kaudzītē.  
 Pienu ēdu, pienu dzēru,  
-Pienā muti nomazgāju.
+Pienā muti nomazgāju.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -979,7 +1106,11 @@ Lai zied paša saimeniece.
 4. Ai, Jānīti, Dieva dēls,  
 Apjāj manu rudzu lauku,  
 Apjāj manu rudzu lauku  
-Pelēkām vārpiņām. 
+Pelēkām vārpiņām.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup><hgroup>
@@ -995,7 +1126,11 @@ Kā Jānīša garā pīpe.
 7. Lec, Jānīti, kur lekdamis,  
 Lec kāpostu dārziņā  
 Lai aug mani kāpostiņi  
-Kā Jānīša cepurīte.
+Kā Jānīša cepurīte.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -1017,7 +1152,11 @@ Tā bij govu raganiņa.
 3. Piniet, meitas, ērkšķu kroni,  
 Metiet govu laidarā(i),  
 Lai ragana acis bada,  
-Jāņu nakti skraidīdama.
+Jāņu nakti skraidīdama.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup><hgroup>
@@ -1033,7 +1172,11 @@ Sit ar vara trumulīti.
 6. Es savām(i) telītēm(i)  
 Pīlādžkūju kūtī liku,  
 Lai raganas nenobur,  
-Jāņu nakti staigājot. 
+Jāņu nakti staigājot.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -1055,7 +1198,11 @@ Adatāmi jumti jumti.
 Adatāmi jumti jumti,   
 Izkaptēmi spāres celtas.  
 Adatāmi nosadurti,   
-Izkaptēmi nosagriezti. 
+Izkaptēmi nosagriezti.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup><hgroup>
@@ -1071,7 +1218,11 @@ Nevar mani izpostīt.
 Dieviņš taisa dzelžu sētu  
 Apkārt manu mājas vietu.  
 Dieviņš taisa dzelžu sētu  
-Apkārt manu augumiņu.
+Apkārt manu augumiņu.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -1092,7 +1243,11 @@ Trīs sidraba ozoliņi:
 Vienā kāra vara kokles,  
 Otra zelta pātadziņu,  
 Tai trešāi ozolāi  
-Zelta bites spietu laida.
+Zelta bites spietu laida.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup><hgroup>
@@ -1108,7 +1263,11 @@ Pār deviņi novadiņi.
 5. Šūn, bitīte, vaska krēslu  
 Zem zaļā ozoliņa;  
 Tur sēdēja Jāņa māte,  
-Jāņa bērnus gaidīdama.
+Jāņa bērnus gaidīdama.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -1166,7 +1325,11 @@ Saules meitu gaidīdams.
 3. Noiet saule vakarā,  
 Zelta starus starodama;  
 Dod, Dieviņi, tā starot  
-Jele mūža galiņā.
+Jele mūža galiņā.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup><hgroup>
@@ -1178,7 +1341,11 @@ Saules meitu sveicināja.
 5. Līgojam, līgojam,  
 Neguļam, neguļam.  
 Redzēsim, redzēsim,  
-Kā saulīte rotājas.
+Kā saulīte rotājas.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -1199,7 +1366,11 @@ Sildās mana dvēselīt'.
 2. Dedzi, dedzi uguntiņa,  
 Tu nezini, ko es došu,   
 Es tev došu ziediņami   
-Trejdeviņas dzirkstelītes. 
+Trejdeviņas dzirkstelītes.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup><hgroup>
@@ -1213,7 +1384,11 @@ Es paņemšu ņemamo.
 Es paņemšu ņemamo   
 Ar abām rociņām.   
 Ar abām rociņām,   
-Ar balto dvēselīt.
+Ar balto dvēselīt.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -1236,7 +1411,11 @@ No maliņu maliņām.
 3. Drīz pienāksi Jāņu diena,  
 Nebūs Jāņu vakariņa:  
 Darvas mucas izdegušas,  
-Jāņa bērni aizsnauduši. 
+Jāņa bērni aizsnauduši.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -1249,7 +1428,11 @@ Barga kunga klausījumu,
 Lai uzlika vaiņadziņus  
 No ozolu lapiņāmi;  
 No ozolu lapiņāmi,  
-Ar rozēmi izrotātus.
+Ar rozēmi izrotātus.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -1267,7 +1450,11 @@ No maliņu maliņām.
 2. Kuriet lielu jāņuguni   
 Jāņu dienas vakarā:  
 Jāņu bērni samirkuši,   
-Jāņu zāles lasīdami.
+Jāņu zāles lasīdami.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup><hgroup>
@@ -1279,7 +1466,11 @@ Lai tie nāca sētiņā.
 4. Dedzi gaiši, jāņugune,  
 Pār deviņi novadiņi;   
 Pār deviņi novadiņi,  
-Līdz saulīte rotāsiesi.
+Līdz saulīte rotāsiesi.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup>
@@ -1347,7 +1538,11 @@ Visi treji nopuškoti:
 Vienam bija zīļu rota,  
 Otram zelta žvingulīši,  
 Trešam spožā Jāņu saule,  
-Kas spīd Jāņu rītiņā.
+Kas spīd Jāņu rītiņā.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup><hgroup>
@@ -1359,7 +1554,11 @@ Zeltotiem iemauktiem.
 5. Ai, Jānīti, Dieva dēlsi,   
 Ko tu vedi vezumā?  
 Puišiem vedi ozoliņus,   
-Meitām ziedu vainadziņus. 
+Meitām ziedu vainadziņus.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -1381,7 +1580,11 @@ Lai saņēma Jāņa bērnus.
 3. Es uzliku Jānīšami   
 Zaļ' ozola vainadziņu,  
 Lai tas auga, lai zaļoja   
-Kā zaļaisi ozoliņš.
+Kā zaļaisi ozoliņš.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -1396,7 +1599,11 @@ Alus muca pagrabā.
 6. Lai ir labi, kam ir labi,   
 Jānīšami tam ir labi;  
 Visapkārti Jāņa bērni,   
-Pats pa vidu grozījāsi.
+Pats pa vidu grozījāsi.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -1432,7 +1639,11 @@ Man telītes raibaliņas.
 6. Ciema meitas viltenieces  
 Man' pievīla migliņā.  
 Sviež pār upi baltakmini  
-Šķiet man siera gabaliņu.
+Šķiet man siera gabaliņu.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -1459,7 +1670,11 @@ Gudru maizes arājiņu.
 12. Nemūžami nedabūju,  
 Ko dabūju Jāņu nakti.  
 Es dabūju meitas vārdu,  
-Meitas vītu vainadziņu.
+Meitas vītu vainadziņu.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -1481,7 +1696,11 @@ Ar visām(i) pazarēm.
 3. Zemas bija tautu durvis  
 Zarots manis vainadziņis.  
 Zaru lauzu ieiedama,  
-Zaru lauzu iziedama.
+Zaru lauzu iziedama.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -1498,7 +1717,11 @@ Jāņu nakti līgodama.
 6. Jauni puiši, jaunas meitas  
 Uz ezera līgot gāja.  
 Izlīgoja zelta galdus  
-Ar sudraba sprāģīšiem(i).
+Ar sudraba sprāģīšiem(i).  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -1520,7 +1743,11 @@ Skanēj pieši nolecoti.
 3. Ai, Jānīti, Dieva dēls(i),  
 Tavu augstu kumeliņu -  
 Caur mežiem pieši spīda,  
-Pār mežiem cepurīte.
+Pār mežiem cepurīte.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -1531,7 +1758,11 @@ Otrā bēri kumeliņi.
 5. Jānīts jāja visu nakti  
 Sudrabiņu kaisīdams,  
 Lai redzēja Jāņa bērni,  
-Kā saulīte rotājās.
+Kā saulīte rotājās.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -1553,7 +1784,11 @@ Zeltotiemi iemauktiemi.
 3. Jānīts savu kumeliņu  
 Uz akmeņa kaldināja,  
 Lai nedzēra rāvūdeni,  
-Lai nerūsa pakaviņi.
+Lai nerūsa pakaviņi.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -1568,7 +1803,11 @@ Zelta groži rocināi.
 6. Ņem, Jānīti, kumeliņu,  
 Celies pāri pār Daugavu,  
 Zem ozola Saules meita  
-Vainadziņu darināja.
+Vainadziņu darināja.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -1620,14 +1859,22 @@ Vainadziņu darināja.
 1. Nelīst', lietus, nelīst', lietus,  
 Šodien lietus nevajaga.   
 Salīs manas Jāņu zāles,   
-Salīs paši Jāņa bērni. 
+Salīs paši Jāņa bērni.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
 2. Dod, Dieviņi, saules gaisu,   
 Dzen lietiņu jūriņā!  
 Lai iekūra Jāņa bērni   
-Kalnā Jāņu uguntiņu.
+Kalnā Jāņu uguntiņu.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -1640,7 +1887,11 @@ Kalnā Jāņu uguntiņu.
 Met melnu jūrā  
 Velc baltu mugurā,  
 Lai velējas jūras meitas  
-Ar ozola vālītēm.
+Ar ozola vālītēm.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 # <lo-sample/> Visu dienu lietiņš lija
@@ -1660,7 +1911,11 @@ Man tik Jāņu vakariņ(i)s.
 3. Nelīst, lietus, nelīst, lietus,  
 Šodien lietus nevajaga.  
 Salīs manas Jāņu zāles,  
-Salīs paši Jāņa bērni.
+Salīs paši Jāņa bērni.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup><hgroup>
@@ -1672,7 +1927,11 @@ Saules gaužu asariņu.
 5. Pāri, pāri, lietus gaisi  
 Pār šo zemes gabaliņ'.  
 Pāri ļaužu valodiņas  
-Pār to manu augumiņ'.
+Pār to manu augumiņ'.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -1686,7 +1945,11 @@ Pār to manu augumiņ'.
 
 1. Aizej, lietiņ, rūkdams, kaukdams   
 Aiz tiem jūras lieliem vaļņiem,   
-Atnāc, Saulīte, spīguļodama! 
+Atnāc, Saulīte, spīguļodama!   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 
@@ -1742,7 +2005,11 @@ Veldrē visa labībiņa.
 3. Kas gulēja Jāņu nakti,   
 Sasien kājas, sasien rokas.  
 Sasien kājas, sasien rokas,   
-Iemet nātru krūmiņā.
+Iemet nātru krūmiņā.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -1763,7 +2030,11 @@ Brīžam tīra sudrabiņa.
 5. Ai, jūs, puiši, ai, jūs, meitas,   
 Jāņu nakti neguļati.  
 Kas gulēja Jāņu nakti,   
-Tas mūžiņu nogulēja.
+Tas mūžiņu nogulēja.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -1772,7 +2043,6 @@ Tas mūžiņu nogulēja.
 
 ![notis](../svg/NeguluNeguluJanisaNakti.svg)
 
-<hgroup>
 
 1. Neguļu, neguļu Jānīša nakti,  
 Lai mani rudzīši veldrē nekrīt. 
@@ -1785,12 +2055,12 @@ Lai mani liniņi veldrē nekrīt.
 5. Neguļu, neguļi Jānīša nakti,  
 Lai manas auziņas veldrē nekrīt. 
 6. Neguļu, neguļi Jānīša nakti,  
-Lai mani zirniņi veldrē nekrīt.
+Lai mani zirniņi veldrē nekrīt.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
-</hgroup><hgroup>
-
-
-</hgroup>
 
 
 # <lo-sample/> Līgo, Jānīti
@@ -1818,7 +2088,11 @@ Jānīša nakti!
 5. Jāņos iedama,  
 Vainagu liku,  
 Lai krita vainags,  
-Ne es pati.
+Ne es pati.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup><hgroup>
@@ -1838,7 +2112,11 @@ Papardi ziedam.
 9. Paparde ziedēja  
 Sudraba ziediem,  
 Kas gāja meklēt,  
-Atrada laimi. 
+Atrada laimi.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -1902,7 +2180,11 @@ Ozolam sudrabiņa.
 Mazajam bērziņam  
 Zaļa vara vainadziņu,  
 Sīkajam kārklīšam  
-Uzmauc zelta gredzentiņu.
+Uzmauc zelta gredzentiņu.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -1913,7 +2195,11 @@ Sudrabiņa laiviņā.
 5. Kupli auga ozoliņi  
 Saules takas maliņā,  
 Tur Saulīte jostu kāra,  
-Vakarā noiedama.
+Vakarā noiedama.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -1945,7 +2231,11 @@ Tā tur spīd, tā tur viz.
 5. Kas tur spīd, kas tur mirdz  
 Jāņu mātes istabā?  
 Jāņu mātes zīda kleita,  
-Tā spīdēja, tā mirdzēja.
+Tā spīdēja, tā mirdzēja.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -1964,7 +2254,11 @@ Ar sudraba sprādzītēm.
 9. Kas tur spīd, kas tur mirdz  
 Viņā lauka galiņā?  
 Tur nāk mūsu Jāņu māte,  
-Zelta puķe rociņā.
+Zelta puķe rociņā.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -1990,7 +2284,11 @@ Kur vakaru norietēj.
 4. Kur saulīte mazgājāsi,   
 Jāņu rītu uzlēkuse?  
 Aiz upītes līcītī,   
-Sudrabiņa bļodiņāi.
+Sudrabiņa bļodiņāi.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -2005,7 +2303,11 @@ Visu nakti līgodami.
 7. Rotājiesi tu, saulīte,   
 Tu rotāji, es rotāju.   
 Tu rotāji zelta rotas,   
-Es jaunoi arājiņu. 
+Es jaunoi arājiņu.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -2031,7 +2333,11 @@ Vakarā žēlodama!
 4. Lec, saulīte, rītā agri,  
 Lec ar Dieva palīdziņu,  
 Vakarā noiedama,  
-Nones blēņu valodiņas.
+Nones blēņu valodiņas.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -2046,7 +2352,11 @@ Tur pabira sudrabiņš.
 7. Riti, saulīt, ritēdama,  
 Zelta zarus zarodam.  
 Pamet manam mūžiņam  
-Kaut jel vienu atzarīt.
+Kaut jel vienu atzarīt.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -2068,7 +2378,11 @@ Zelta rasā mazgājāsi.
 3. Līgojami, līgojami,  
 Neguļami, neguļami.  
 Redzēsimi, redzēsim  
-Kā saulīte rotājās.
+Kā saulīte rotājās.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -2079,7 +2393,11 @@ Brīžam tīra sudrabiņa.
 5. Saulīt, balta māmuliņ  
 Parādies sudrabā.  
 Parādies sudrabā  
-Pašā Jāņu rītiņā.
+Pašā Jāņu rītiņā.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -2151,7 +2469,11 @@ Jāņu nakti dancojot.
 7. Ai, cik stipri mēle nieza  
 Mūsu ciema meitiņām;  
 Velns parāva suseklīti,  
-Ar ko mēles izsukāt.
+Ar ko mēles izsukāt.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -2183,6 +2505,10 @@ Gar visām sienmalēm.
 Vai mēs kādi naidenieki:  
 Dziesmu dziedu, kāda bija,  
 Ne tā manis darināta.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -2218,7 +2544,11 @@ Sīkajāmi nātriņāmi.
 6. Ieraudzījis vien, pazinu  
 Savu vecu saiminieku:  
 Visi stabi, stumburīši  
-Ar sūnām apauguši.
+Ar sūnām apauguši.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup><hgroup>
@@ -2242,7 +2572,11 @@ Asakām atstutēta.
 # Jāņa tēvs ar Jāņa māti  
 Abi lieli darbinieki:  
 Viens bij' sviesta taisītājs,  
-Otrs ķērnes laizītājs.
+Otrs ķērnes laizītājs.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -2295,14 +2629,22 @@ Lai nenāca sveša salna
 2. Vij, Dieviņ, zelta viju  
 Visgarām tēvu zemi,  
 Lai nenāca sveša salna  
-Šai zemē ziedu raut.
+Šai zemē ziedu raut.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
 3. Vij, Dieviņ, zelta viju  
 Visgarām manu sētu,  
 Lai nenāca sveša salna  
-Manā sētā ziedu raut.
+Manā sētā ziedu raut.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup>
@@ -2326,7 +2668,11 @@ Lai nelaime bēdājās.
 3. RIti, riti rīta rasa,   
 Pa ozola lapiņām;  
 Tā ritēja ļauna diena  
-Garām manu augumiņ'. 
+Garām manu augumiņ'.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -2341,7 +2687,11 @@ Svied Nelaimi ūdenī!
 6. Nelaimīte kājas āva,  
 Dzīrās manim līdzi nākt,  
 Nāc, Laimiņa, tu man līdzi  
-Basajāmi kājiņām'!
+Basajāmi kājiņām'!  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -2364,7 +2714,11 @@ Kur aizgāja ļauna diena.
 3. Lija lietus nenolija,  
 Kā nomirku rasiņā;  
 Rāja tautas nenorāja,  
-Kā norāja ļauna diena. 
+Kā norāja ļauna diena.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup><hgroup>
@@ -2376,7 +2730,11 @@ Ne slaucīt(i) asariņ's.
 5. Ej, Laimiņa, tu pa priekšu,   
 Nes rokā(i) uguntiņ',  
 Lai kājiņu neiespēr'  
-Asariņu paltītē. 
+Asariņu paltītē.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -2399,7 +2757,11 @@ Nevar raksta izrakstīt.
 Saka rakstu rakstītāji,   
 Gana grūta rakstīšan'.   
 Kas mācēja, tam bij' viegli,   
-Kas nemāka, tam bij' grūt'.
+Kas nemāka, tam bij' grūt'.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -2410,7 +2772,11 @@ Vidū balta atslēdziņ'.
 4. Krustā eju, krustā iešu,  
 Vaļā vēru atslēdziņ'.  
 Lai izplauka uguntiņa  
-Līdz pašām debesīm.
+Līdz pašām debesīm.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -2433,7 +2799,11 @@ Kā tērauda gabalā.
 3. Ko varēja man darīt,  
 Ko manai galviņai:  
 Dzelzu kalta man galviņa,  
-Tēraudiņa dvēselīt'.
+Tēraudiņa dvēselīt'.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -2450,7 +2820,11 @@ Ap to manu augumiņ'.
 Cel, Dieviņi, stipru sētu  
 Ap to manu dvēselīt'.  
 Cel, Dieviņi, stipru sētu  
-Ap to manu mājas viet'. 
+Ap to manu mājas viet'.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -2508,7 +2882,11 @@ Ar bungām(i) aizraidīja.
 2. Vakar Jāņus saņēmāmi,   
 Šodien Jāņus vadīsim;   
 Vakar nāca dziedādami,   
-Nu iet prom(i) raudādami.
+Nu iet prom(i) raudādami.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup><hgroup>
@@ -2520,7 +2898,11 @@ Pēc Jānīša neziedēja.
 4. Nu ardievu, Jāņu diena,   
 Mēs tev' klusi pavadām.   
 Nāksi atkal citu gadu,   
-Mēs ar prieku saņemsimi.
+Mēs ar prieku saņemsimi.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -2542,7 +2924,11 @@ Lai panāca Pēterītis.
 2. Lieli zirgi Jānīšam,  
 Vēl lielāki Pēteram.  
 Jānīts jāja meža vidu,  
-Pēters meža virsotnītes.
+Pēters meža virsotnītes.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup><hgroup>
@@ -2554,7 +2940,11 @@ Pa žagaru žagariem.
 4. Bēdz, Jānīti, nu uz Rīgu  
 Nu mēs tevi pavadāmi.  
 Nāc atkal(i) citu gadu  
-Tad mēs tevi gaidīsim.
+Tad mēs tevi gaidīsim.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -2607,7 +2997,11 @@ Tur tevi ziediem(i) apbirdinās(i).
 2. Gauži raud Saulīte ābeļu dārzā,   
 Ābelei nokrita zeltābolītis.  
 Neraudi, Saulīte, Dievs dara citu.   
-No zelta, no vara, no sudrabiņa. 
+No zelta, no vara, no sudrabiņa.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -2618,7 +3012,11 @@ No zelta, no vara, no sudrabiņa.
 4. Ko gan tā Saulīte tik gauži raud(a)?  
 Rīgā(i) pazuda dimanta rati.   
 Neraudi, Saulīte, Dievs dos(i) citus  
-No zelta, sudraba, no dimantiņa.
+No zelta, sudraba, no dimantiņa.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -2636,7 +3034,11 @@ Stāv malā(i) raudādam'.
 2. Piejāj divi Dieva dēli,  
 Pras': Saulīte, kam tu raud'?  
 Žēl meitiņas, žēl pūriņa,   
-Žēl ir zelta gredzentiņ'.
+Žēl ir zelta gredzentiņ'.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -2647,7 +3049,11 @@ Zīda visi prievietiņ'.
 4. Visu nakti sveces dega   
 Sidrabiņa lukturos,   
 Mēnestiņis ceļu rāda   
-Saules meitas vedējiem.
+Saules meitas vedējiem.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -2666,14 +3072,22 @@ Kā tie tevim nepiekusa?
 Vai tie kusa, vai nekusa  
 Es nevaru dusināt;  
 Kad nobraukšu Vāczemē,  
-Tur es viņus dusināšu. 
+Tur es viņus dusināšu.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
 2. Ai, Saulīte, tu tik spoža,  
 Dod man savu spožumiņu.  
 Ai, Laimiņa, tu tik laba,  
-Dod man savu labumiņu. 
+Dod man savu labumiņu.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -2696,7 +3110,11 @@ Kur es baltu izmazgāšu?
 Meklē tādu ezeriņu   
 Deviņām attekām.  
 Devītā attekā,   
-Tur tu baltas izmazgāsi. 
+Tur tu baltas izmazgāsi.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;    
 
 </hgroup><hgroup>
 
@@ -2711,7 +3129,11 @@ Kur es baltu sarullēšu?
 Meklē tādu zelta rulli  
 Deviņiem mangaļiem.  
 Devītā mangalī,  
-Tur tu baltas sarullēsi. 
+Tur tu baltas sarullēsi.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -2736,7 +3158,11 @@ Dievam greznu kumeliņ'.
 Caur sedliem(i) Saule lēca,  
 Caur iemauktu Mēnestiņš;  
 Pavadiņas galiņā(i),  
-Tur lec rīta Auseklīt's. 
+Tur lec rīta Auseklīt's.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup><hgroup>
@@ -2752,7 +3178,11 @@ Ar sudraba šaudīklām.
 6. Krustiem auga bērziem saknes,  
 Krustiem zvaigznes debesīs;  
 Sāniem jāja Dieva dēli,  
-Krustiem tek(a) kumeliņ'.
+Krustiem tek(a) kumeliņ'.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -2779,7 +3209,11 @@ Dienu, nakti tecēdam'.
 4. Kas spīdēja vakarāi,  
 Kas rītiņa agrumā?  
 Mēnesītis vakarā(i),  
-Saulīt' rīta agrumā.
+Saulīt' rīta agrumā.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -2796,7 +3230,11 @@ Naktī jūras ūdentiņ'.
 7. Ai, Saulīte, Mēnestiņi,  
 Kā Jūs skaisti mijaties!  
 Kur vasaru Saule teka,  
-Tur tek ziemu Mēnestiņš.
+Tur tek ziemu Mēnestiņš.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -2820,7 +3258,11 @@ Saules meita vainadziņ'.
 3. Saules meita kumeliņu  
 Jūriņā peldināja.   
 Dieva dēls grožus tura  
-Maliņā stāvēdams.
+Maliņā stāvēdams.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup><hgroup>
@@ -2832,7 +3274,11 @@ Pa rociņu rociņām.
 5. Sargatiesi, Dieva dēli,  
 Šorīt saule barga leca.  
 Kam vakari nomaucat   
-Saules meitas gredzentiņu.
+Saules meitas gredzentiņu.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -2852,7 +3298,11 @@ Es atradu kumeliņu.
 3. Es atradu kumeliņu  
 Pie Mēneša namdurvīm;  
 Mēness ņēma Saules meitu,  
-Aicin' mani vedējos. 
+Aicin' mani vedējos.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup><hgroup>
@@ -2864,7 +3314,11 @@ Mēness sudrab' iemauktiņus.
 Nu es jāšu vedējos  
 Apseglotu kumeliņ'. 
 5. Jāju, jāju garu ceļu,  
-Ceļam gala nezināj'. 
+Ceļam gala nezināj'.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -2887,7 +3341,11 @@ Tie sabira jūriņā.
 3. Ne šodienu ne vakari,   
 Netek Saule kājiņām,  
 Pār zemīti ratiņosi,   
-Pār jūriņu laiviņā.
+Pār jūriņu laiviņā.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -2906,7 +3364,11 @@ Kur deviņas upes tek.
 7. Saulīt vēlu vakarāi   
 Sēžas zelta laiviņā,  
 No rītiņa uzlēkdama,  
-Atstāj laivu līgojot.
+Atstāj laivu līgojot.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -2929,7 +3391,11 @@ Vai ir visas vakarā.
 Visas bija vakarā,  
 Auseklītis vien nebija.  
 Auseklītis aiztecējis  
-Saules meitu lūkoties.
+Saules meitu lūkoties.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -2944,7 +3410,11 @@ Zelta zarus lasīdama;
 Ceturtāi gadiņāi  
 Paceļ pašu galotnīti.  
 Tur nopina Saules meita  
-Triju staru vainadziņu.
+Triju staru vainadziņu.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup>
 
@@ -2967,7 +3437,11 @@ Gaid' Saulīti iesēdam.
 3. Saule brauca pār jūriņu  
 Spīdēdama, vizēdam';  
 Zelta kronis galviņā,  
-Vaska cimdi rociņā.
+Vaska cimdi rociņā.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 </hgroup><hgroup>
 
@@ -2978,7 +3452,11 @@ Jūra putu gabaliņ'.
 5. Ozols auga jūriņā  
 Sudrabiņa lapiņām:  
 Tur saulīte savas meitas  
-Sudrabā(i) kaldināj'. 
+Sudrabā(i) kaldināj'.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 
 </hgroup>
