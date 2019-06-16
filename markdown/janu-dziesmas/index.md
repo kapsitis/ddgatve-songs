@@ -57,7 +57,12 @@ Tur tevi daudzina.
 Pa ežu ežām,  
 Pa ceļu ceļiem  
 Tur tevi daudzina  
-Kronīšus pinot.
+Kronīšus pinot.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
 
 </hgroup><hgroup> 
 
@@ -72,7 +77,13 @@ Veci un jauni.
 Tur tevi daudzina  
 (Tievi un kupli).  
 Tur tevi daudzina   
-Līgojoti. 
+Līgojoti.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
+
 
 </hgroup>
 
@@ -98,7 +109,12 @@ Nu dziesmiņas jāizdzieda.
 4. Visu gadu dziesmas krāju,   
 Sudrabiņa vācelē;   
 Pašā Jāņu vakarā   
-Izbārstīju pagalmā.
+Izbārstīju pagalmā.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
 
 </hgroup><hgroup>
 
@@ -113,7 +129,12 @@ Kur dziedāja Jāņu bērni.
 7. Dziedam divi, dziedam divi,  
 Neiet šurpu, neiet turpu;  
 Kad dziedāja liela pulka,  
-Kā līgoti nolīgoja. 
+Kā līgoti nolīgoja.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
 
 </hgroup>
 
@@ -135,7 +156,12 @@ Jānīšam viducītis.
 3. Jāņa tēvs alu dara  
 Baltā bērzu muciņā,  
 Jāņa māte sieru sēja  
-Baltā llinu audeklā. 
+Baltā llinu audeklā.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
 
 </hgroup><hgroup>
 
@@ -150,7 +176,12 @@ Zāļu dienas vakarā.
 6. Brauc, Jānīti, nu no Rīgas,  
 Nu mēs tevi sagaidām:  
 Savus vārtus pusķojam  
-Ar ozola lapiņām.
+Ar ozola lapiņām.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
 
 </hgroup>
 
