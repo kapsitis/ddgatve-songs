@@ -26,14 +26,13 @@ def rmDirectory(src):
 
 def main(): 
     rmDirectory('target')
-    copyDirectory('reveal.js', 'target/reveal.js')
+    copyDirectory('markdown/reveal.js', 'target/reveal.js')
+    copyDirectory('markdown/svg', 'target/svg')
     shutil.copyfile('markdown/index.html', 'target/index.html')  
     resTypes = ['markdown']
     for resType in resTypes:
-        rmDirectory('%s/svg' % resType)
-        copyDirectory('songs/svg', '%s/svg' % resType)
         ROOT = resType
-        subDirectories = set(next(os.walk(ROOT))[1]).difference(set(['svg']))
+        subDirectories = set(next(os.walk(ROOT))[1]).difference(set(['svg', 'reveal.js']))
         for dd in subDirectories:
             print('Processing with pandoc/reveal, dir=%s' % dd)
             srcPath = 'index.md'
@@ -42,11 +41,10 @@ def main():
             print('workingDir %s' % workingDir)
             subprocess.call(['pandoc','-t','revealjs','-s',
                 '-o',destPath,srcPath,'--slide-level=2',
-                '-V','revealjs-url=../../reveal.js','--metadata', 'pagetitle="Janu dziesmas"',
+                '-V','revealjs-url=../reveal.js','--metadata', 'pagetitle="Janu dziesmas"',
                 '--mathjax=https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML',
                 '-V','theme=white'], cwd=workingDir)
             copyDirectory('%s/%s' % (ROOT,dd), 'target/%s' % dd)
- #           copyDirectory('%s/%s/svg' % (ROOT,dd), 'target/%s/svg' % dd)
 
 
 if __name__ == '__main__':
