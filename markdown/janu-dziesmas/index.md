@@ -11,7 +11,7 @@
 
 </hgroup>
 
-<hgroup style="margin-top:-50px">
+<hgroup style="margin-top:-60px; font-size:90%">
 
 <span style="color:darkgreen">**(A) Jāņus sagaidot**</span>  
 <span>(B) [Zāles lasot](#section-1)</span>  
@@ -21,20 +21,24 @@
 <span>(F) [Jāni daudzinot](#section-5)</span>  
 <span>(G) [Lietu aizdzenot](#section-6)</span>  
 <span>(H) [Jāņu nakti neguļot](#section-7)</span>  
-<span>(I) [Saulei   norietot, uzlecot](#section-9)</span>  
-<span>(J) [Apdziedāšanās](#section-8)</span>  
-<span>(K) [Buršanās](#section-10)</span>  
+<span>(I) [Saulei   norietot, uzlecot](#section-8)</span>  
+<span>(J) [Apdziedāšanās](#section-9)</span>  
+<span>(K) [Par Dievu](#section-10)</span>  
 <span>(L) [Jāņu dienu pavadot](#section-11)</span>  
-<span>(M) [Saules dziesmas](#section-12)</span>
-
-</span>
+<span>(M) [Saules dziesmas](#section-12)</span>  
+<span>(N) [Rotaļdziesmas](#section-13)</span>  
+<span>(O) [Rādītāji](#section-14)</span>
 
 </hgroup>
 
 
-# <lo-sample/> Celiesi, brālīti, auniesi kājas
+# <lo-sample/> #1: Celiesi, brālīti, auniesi kājas
 
 ![notis](../svg/CeliesiBralitiAuniesiKajas.svg)
+
+[YouTube](https://www.youtube.com/watch?v=tOaCHBRdNs8)
+[YouTube](https://www.youtube.com/watch?v=ozhjb9yKiEI)
+[MIDI](../midi/CeliesiBralitiAuniesiKajas.midi)
 
 <hgroup> 
 
@@ -88,9 +92,11 @@ Līgojoti.
 </hgroup>
 
 
-# <lo-sample/> Līgojati, līgojati
+# <lo-sample/> #2: Līgojati, līgojati
 
 ![notis](../svg/LigojatiLigojati.svg)
+
+[MIDI](../midi/LigojatiLigojati.midi)
 
 <hgroup>
 
@@ -139,9 +145,11 @@ Kā līgoti nolīgoja.
 </hgroup>
 
 
-# <lo-sample/> Pār gadskārtu Jānīts nāca
+# <lo-sample/> #3: Pār gadskārtu Jānīts nāca
 
 ![notis](../svg/PaGadska-rtuJa-ni-tsNa-ca.svg)
+
+[MIDI](../midi/PaGadska-rtuJa-ni-tsNa-ca.midi)
 
 <hgroup>
 
@@ -185,9 +193,11 @@ Ar ozola lapiņām.
 
 </hgroup>
 
-# <lo-sample/> Es Jums saku, Jāņa bērni
+# <lo-sample/> #4: Es Jums saku, Jāņa bērni
 
 ![notis](../svg/EsJumsSakuJanaBerni.svg)
+
+[MIDI](../midi/EsJumsSakuJanaBerni.midi)
 
 <hgroup>
 
@@ -243,7 +253,7 @@ Līdz citiem Jānīšiem.
 
 </hgroup>
 
-<hgroup style="margin-top:-50px">
+<hgroup style="margin-top:-60px; font-size:90%">
 
 <span>(A) [Jāņus sagaidot](#section)</span>  
 <span style="color:darkgreen">**(B) Zāles lasot**</span>  
@@ -253,11 +263,13 @@ Līdz citiem Jānīšiem.
 <span>(F) [Jāni daudzinot](#section-5)</span>  
 <span>(G) [Lietu aizdzenot](#section-6)</span>  
 <span>(H) [Jāņu nakti neguļot](#section-7)</span>  
-<span>(I) [Saulei   norietot, uzlecot](#section-9)</span>  
-<span>(J) [Apdziedāšanās](#section-8)</span>  
-<span>(K) [Buršanās](#section-10)</span>  
+<span>(I) [Saulei   norietot, uzlecot](#section-8)</span>  
+<span>(J) [Apdziedāšanās](#section-9)</span>  
+<span>(K) [Par Dievu](#section-10)</span>  
 <span>(L) [Jāņu dienu pavadot](#section-11)</span>  
-<span>(M) [Saules dziesmas](#section-12)</span>
+<span>(M) [Saules dziesmas](#section-12)</span>  
+<span>(N) [Rotaļdziesmas](#section-13)</span>  
+<span>(O) [Rādītāji](#section-14)</span>
 
 
 </hgroup>
@@ -265,9 +277,12 @@ Līdz citiem Jānīšiem.
 
 
 
-# <lo-sample/> Jānīšami pavaicāju
+# <lo-sample/> #5: Jānīšami pavaicāju
 
 ![notis](../svg/JanisamiPavaicaju.svg)
+
+[MIDI](../midi/JanisamiPavaicaju.midi)
+
 
 <hgroup>
 
@@ -323,9 +338,14 @@ Katrā zāles galiņā.
 </hgroup>
 
 
-# <lo-sample/> Līgo lauki, līgo pļavas
+# <lo-sample/> #6: Līgo lauki, līgo pļavas
 
 ![notis](../svg/LigoLaukiLigoPlavas.svg)
+
+[YouTube](https://youtu.be/-N25OPm5-SE)
+
+[MIDI](../midi/LigoLaukiLigoPlavas.midi)
+
 
 <hgroup>
 
@@ -375,9 +395,12 @@ Zelta miglu miglodama.
 
 </hgroup>
 
-# <lo-sample/> Trīs kalniņi noziedēja
+# <lo-sample/> #7: Trīs kalniņi noziedēja
 
 ![notis](../svg/Tri-sKalnin-iNoziede-ja.svg)
+
+[MIDI](../midi/Tri-sKalnin-iNoziede-ja.midi)
+
 
 <hgroup>
 
@@ -418,9 +441,12 @@ Pār deviņi novadiņi!
 </hgroup>
 
 
-# <lo-sample/> Viena pati jāņu zāle
+# <lo-sample/> #8: Viena pati jāņu zāle
 
 ![notis](../svg/VienaPatiJanuZale.svg)
+
+[MIDI](../midi/VienaPatiJanuZale.midi)
+
 
 <hgroup>
 
@@ -472,9 +498,13 @@ Novīst manis vainadziņis.
 
 
 
-# <lo-sample/> Zaļa, zaļa, skaļa, skaļa
+# <lo-sample/> #9: Zaļa, zaļa, skaļa, skaļa
 
 ![notis](../svg/Zal-aZal-aSkal-aSkal-a.svg)
+
+[YouTube](https://youtu.be/2exxK-szZMQ)
+[MIDI](../midi/Zal-aZal-aSkal-aSkal-a.midi)
+
 
 <hgroup>
 
@@ -521,9 +551,12 @@ Pilni sīka sudrabiņa.
 
 
 
-# <lo-sample/> Jānīts brauca katru gadu
+# <lo-sample/> #10: Jānīts brauca katru gadu
 
 ![notis](../svg/Ja-ni-tsBraucaKatruGad.svg)
+
+[MIDI](../midi/Ja-ni-tsBraucaKatruGad.midi)
+
 
 <hgroup>
 
@@ -566,9 +599,11 @@ Pa maliņu maliņām.
 
 
 
-# <lo-sample/> Teku, teku pa celiņu
+# <lo-sample/> #11: Teku, teku pa celiņu
 
 ![notis](../svg/TekuTekuPaCelin-u.svg)
+
+[YouTube](https://youtu.be/OLuTD8rNs9U)
 
 <hgroup>
 
@@ -617,7 +652,7 @@ Visu mūžu līgaviņu.
 </hgroup>
 
 
-# <lo-sample/> Ozoliņi, ozoliņi
+# <lo-sample/> #12: Ozoliņi, ozoliņi
 
 ![notis](../svg/OzoliniOzolini.svg)
 
@@ -680,7 +715,7 @@ Tur Jānīša goda vieta.
 
 </hgroup>
 
-<hgroup style="margin-top:-50px">
+<hgroup style="margin-top:-60px; font-size:90%">
 
 <span>(A) [Jāņus sagaidot](#section)</span>  
 <span>(B) [Zāles lasot](#section-1)</span>  
@@ -690,17 +725,19 @@ Tur Jānīša goda vieta.
 <span>(F) [Jāni daudzinot](#section-5)</span>  
 <span>(G) [Lietu aizdzenot](#section-6)</span>  
 <span>(H) [Jāņu nakti neguļot](#section-7)</span>  
-<span>(I) [Saulei   norietot, uzlecot](#section-9)</span>  
-<span>(J) [Apdziedāšanās](#section-8)</span>  
-<span>(K) [Buršanās](#section-10)</span>  
+<span>(I) [Saulei   norietot, uzlecot](#section-8)</span>  
+<span>(J) [Apdziedāšanās](#section-9)</span>  
+<span>(K) [Par Dievu](#section-10)</span>  
 <span>(L) [Jāņu dienu pavadot](#section-11)</span>  
-<span>(M) [Saules dziesmas](#section-12)</span>
+<span>(M) [Saules dziesmas](#section-12)</span>  
+<span>(N) [Rotaļdziesmas](#section-13)</span>  
+<span>(O) [Rādītāji](#section-14)</span>
 
 
 </hgroup>
 
 
-# <lo-sample/> Nāc nākdama, Jāņu diena
+# <lo-sample/> #13: Nāc nākdama, Jāņu diena
 
 ![notis](../svg/NacNakdamaJanuDiena.svg)
 
@@ -745,7 +782,7 @@ Kā ap zaļu āboliņu.
 
 
 
-# <lo-sample/> Labvakari, Jāņa māte
+# <lo-sample/> #14: Labvakari, Jāņa māte
 
 ![notis](../svg/LabvakariJanaMate.svg)
 
@@ -805,7 +842,7 @@ Netrūkst salda alutiņa.
 
 
 
-# <lo-sample/> Kas spīdēja, kas vizēja
+# <lo-sample/> #15: Kas spīdēja, kas vizēja
 
 ![notis](../svg/KasSpidejaKasVizeja.svg)
 
@@ -886,7 +923,7 @@ Arājami gavilēti!
 
 </hgroup>
 
-<hgroup style="margin-top:-50px">
+<hgroup style="margin-top:-60px; font-size:90%">
 
 <span>(A) [Jāņus sagaidot](#section)</span>  
 <span>(B) [Zāles lasot](#section-1)</span>  
@@ -896,19 +933,23 @@ Arājami gavilēti!
 <span>(F) [Jāni daudzinot](#section-5)</span>  
 <span>(G) [Lietu aizdzenot](#section-6)</span>  
 <span>(H) [Jāņu nakti neguļot](#section-7)</span>  
-<span>(I) [Saulei   norietot, uzlecot](#section-9)</span>  
-<span>(J) [Apdziedāšanās](#section-8)</span>  
-<span>(K) [Buršanās](#section-10)</span>  
+<span>(I) [Saulei   norietot, uzlecot](#section-8)</span>  
+<span>(J) [Apdziedāšanās](#section-9)</span>  
+<span>(K) [Par Dievu](#section-10)</span>  
 <span>(L) [Jāņu dienu pavadot](#section-11)</span>  
-<span>(M) [Saules dziesmas](#section-12)</span>
+<span>(M) [Saules dziesmas](#section-12)</span>  
+<span>(N) [Rotaļdziesmas](#section-13)</span>  
+<span>(O) [Rādītāji](#section-14)</span>
 
 
 </hgroup>
 
 
-# <lo-sample/> Labvakar, rudzu lauks
+# <lo-sample/> #16: Labvakar, rudzu lauks
 
 ![notis](../svg/LabvakarRudzuLauks.svg)
+
+[YouTube](https://youtu.be/MAjL4D1n0do?t=10)
 
 <hgroup>
 
@@ -952,9 +993,11 @@ Mīļās Māras norakstīti.
 </hgroup>
 
 
-# <lo-sample/> Dieviņš brida rudzu lauku
+# <lo-sample/> #17: Dieviņš brida rudzu lauku
 
 ![notis](../svg/DievinsBridaRudzuLauku.svg)
+
+[YouTube.alt](https://youtu.be/Mop29Q10CcU)
 
 <hgroup>
 
@@ -998,9 +1041,10 @@ Jāņa tēva tīrumā.
 </hgroup>
 
 
-# <lo-sample/> Es redzēju jāņu nakti
+# <lo-sample/> #18: Es redzēju jāņu nakti
 
 ![notis](../svg/EsRedzejuJanuNakti.svg)
+
 
 
 <hgroup>
@@ -1036,7 +1080,7 @@ Jele vienu birzumiņu.
 </hgroup>
 
 
-# <lo-sample/> Jūs, māsiņas, nezināti
+# <lo-sample/> #19: Jūs, māsiņas, nezināti
 
 ![notis](../svg/Ju-sMa-sin-asNezina-ti.svg)
 
@@ -1085,9 +1129,11 @@ Pienā muti nomazgāju.
 </hgroup>
 
 
-# <lo-sample/> Ņem, Jānīti, baltu zirgu
+# <lo-sample/> #20: Ņem, Jānīti, baltu zirgu
 
 ![notis](../svg/N-emJa-ni-tiBaltuZirgu.svg)
+
+[YouTube](https://youtu.be/8a93yheMNZ0)
 
 <hgroup>
 
@@ -1135,9 +1181,11 @@ Kā Jānīša cepurīte.
 </hgroup>
 
 
-# <lo-sample/> Ņem, Jānīti, melnu zirgu
+# <lo-sample/> #21: Ņem, Jānīti, melnu zirgu
 
 ![notis](../svg/N-emJa-ni-tiMelnuZirgu.svg)
+
+[YouTube](https://youtu.be/a73Ej5rfrzw)
 
 <hgroup>
 
@@ -1181,9 +1229,11 @@ Jāņu nakti staigājot.
 </hgroup>
 
 
-# <lo-sample/> Tiesa, tiesa ne meliņi
+# <lo-sample/> #22: Tiesa, tiesa ne meliņi
 
 ![notis](../svg/TiesaTiesaNeMelini.svg)
+
+[YouTube](https://youtu.be/omJEQ4jkLrc)
 
 <hgroup>
 
@@ -1226,7 +1276,7 @@ Apkārt manu augumiņu.
 
 </hgroup>
 
-# <lo-sample/> Jāņa mātes pagalmā
+# <lo-sample/> #23: Jāņa mātes pagalmā
 
 ![notis](../svg/Ja-n-aMa-tesPagalma-i.svg)
 
@@ -1287,7 +1337,7 @@ Jāņa bērnus gaidīdama.
 
 </hgroup>
 
-<hgroup style="margin-top:-50px">
+<hgroup style="margin-top:-60px; font-size:90%">
 
 <span>(A) [Jāņus sagaidot](#section)</span>  
 <span>(B) [Zāles lasot](#section-1)</span>  
@@ -1297,18 +1347,20 @@ Jāņa bērnus gaidīdama.
 <span>(F) [Jāni daudzinot](#section-5)</span>  
 <span>(G) [Lietu aizdzenot](#section-6)</span>  
 <span>(H) [Jāņu nakti neguļot](#section-7)</span>  
-<span>(I) [Saulei   norietot, uzlecot](#section-9)</span>  
-<span>(J) [Apdziedāšanās](#section-8)</span>  
-<span>(K) [Buršanās](#section-10)</span>  
+<span>(I) [Saulei   norietot, uzlecot](#section-8)</span>  
+<span>(J) [Apdziedāšanās](#section-9)</span>  
+<span>(K) [Par Dievu](#section-10)</span>  
 <span>(L) [Jāņu dienu pavadot](#section-11)</span>  
-<span>(M) [Saules dziesmas](#section-12)</span>
+<span>(M) [Saules dziesmas](#section-12)</span>  
+<span>(N) [Rotaļdziesmas](#section-13)</span>  
+<span>(O) [Rādītāji](#section-14)</span>
 
 
 </hgroup>
 
 
 
-# <lo-sample/> Saule brida miglājos
+# <lo-sample/> #24: Saule brida miglājos
 
 ![notis](../svg/SauleBridaMiglajosi.svg)
 
@@ -1351,9 +1403,11 @@ Kā saulīte rotājas.
 
 
 
-# <lo-sample/> Sakūrosi uguntiņu
+# <lo-sample/> #25: Sakūrosi uguntiņu
 
 ![notis](../svg/Saku-rosiUguntin-u.svg)
+
+[YouTube](https://youtu.be/_aQkiUbJ84s)
 
 <hgroup>
 
@@ -1394,7 +1448,7 @@ Ar balto dvēselīt.
 
 
 
-# <lo-sample/> Sanāciet, Jāņa bērni
+# <lo-sample/> #26: Sanāciet, Jāņa bērni
 
 ![notis](../svg/SanacietiJanaBerni.svg)
 
@@ -1437,7 +1491,7 @@ Ar rozēmi izrotātus.
 </hgroup>
 
 
-# <lo-sample/> Sit, Jānīti, vara bungas
+# <lo-sample/> #27: Sit, Jānīti, vara bungas
 
 ![notis](../svg/SitJanitiVaraBungas.svg)
 
@@ -1498,7 +1552,7 @@ Līdz saulīte rotāsiesi.
 
 </hgroup>
 
-<hgroup style="margin-top:-50px">
+<hgroup style="margin-top:-60px; font-size:90%">
 
 <span>(A) [Jāņus sagaidot](#section)</span>  
 <span>(B) [Zāles lasot](#section-1)</span>  
@@ -1508,20 +1562,24 @@ Līdz saulīte rotāsiesi.
 <span style="color:darkgreen">**(F) Jāni daudzinot**</span>  
 <span>(G) [Lietu aizdzenot](#section-6)</span>  
 <span>(H) [Jāņu nakti neguļot](#section-7)</span>  
-<span>(I) [Saulei   norietot, uzlecot](#section-9)</span>  
-<span>(J) [Apdziedāšanās](#section-8)</span>  
-<span>(K) [Buršanās](#section-10)</span>  
+<span>(I) [Saulei   norietot, uzlecot](#section-8)</span>  
+<span>(J) [Apdziedāšanās](#section-9)</span>  
+<span>(K) [Par Dievu](#section-10)</span>  
 <span>(L) [Jāņu dienu pavadot](#section-11)</span>  
-<span>(M) [Saules dziesmas](#section-12)</span>
+<span>(M) [Saules dziesmas](#section-12)</span>  
+<span>(N) [Rotaļdziesmas](#section-13)</span>  
+<span>(O) [Rādītāji](#section-14)</span>
 
 
 </hgroup>
 
 
 
-# <lo-sample/> Ai, Jānīti, Dieva dēls
+# <lo-sample/> #28: Ai, Jānīti, Dieva dēls
 
 ![notis](../svg/AiJanitiDievaDels.svg)
+
+[YouTube](https://youtu.be/30drcoQaczg?t=9)
 
 <hgroup>
 
@@ -1563,7 +1621,7 @@ Meitām ziedu vainadziņus.
 </hgroup>
 
 
-# <lo-sample/> Jānīts sēde ozolāje 
+# <lo-sample/> #29: Jānīts sēde ozolāje 
 
 ![notis](../svg/Ja-ni-tsSe-deOzola-je.svg) 
 
@@ -1609,7 +1667,7 @@ Pats pa vidu grozījāsi.
 
 
 
-# <lo-sample/> Ai, Jānīti, Dieva Dēls
+# <lo-sample/> #30: Ai, Jānīti, Dieva Dēls
 
 ![notis](../svg/AiJa-ni-tiDievaDe-lsi.svg)
 
@@ -1679,9 +1737,11 @@ Meitas vītu vainadziņu.
 </hgroup>
 
 
-# <lo-sample/> Jānīts savu kumeliņu
+# <lo-sample/> #31: Jānīts savu kumeliņu
 
 ![notis](../svg/Ja-ni-tsSavuKumelin-u.svg)
+
+[YouTube.alt](https://youtu.be/A3-J9fqJmkw)
 
 <hgroup>
 
@@ -1726,7 +1786,7 @@ Ar sudraba sprāģīšiem(i).
 </hgroup>
 
 
-# <lo-sample/> Jau Jānītis aizvakar
+# <lo-sample/> #32: Jau Jānītis aizvakar
 
 ![notis](../svg/JauJa-ni-tisAizvakar.svg)
 
@@ -1767,7 +1827,7 @@ Kā saulīte rotājās.
 </hgroup>
 
 
-# <lo-sample/> Rāmi, rāmi Jānīts brauca
+# <lo-sample/> #33: Rāmi, rāmi Jānīts brauca
 
 ![notis](../svg/Ra-miRa-miJa-ni-tsBrauca.svg)
 
@@ -1829,7 +1889,7 @@ Vainadziņu darināja.
 
 </hgroup>
 
-<hgroup style="margin-top:-50px">
+<hgroup style="margin-top:-60px; font-size:90%">
 
 <span>(A) [Jāņus sagaidot](#section)</span>  
 <span>(B) [Zāles lasot](#section-1)</span>  
@@ -1839,20 +1899,24 @@ Vainadziņu darināja.
 <span>(F) [Jāni daudzinot](#section-5)</span>  
 <span style="color:darkgreen">**(G) Lietu aizdzenot**</span>  
 <span>(H) [Jāņu nakti neguļot](#section-7)</span>  
-<span>(I) [Saulei   norietot, uzlecot](#section-9)</span>  
-<span>(J) [Apdziedāšanās](#section-8)</span>  
-<span>(K) [Buršanās](#section-10)</span>  
+<span>(I) [Saulei   norietot, uzlecot](#section-8)</span>  
+<span>(J) [Apdziedāšanās](#section-9)</span>  
+<span>(K) [Par Dievu](#section-10)</span>  
 <span>(L) [Jāņu dienu pavadot](#section-11)</span>  
-<span>(M) [Saules dziesmas](#section-12)</span>
+<span>(M) [Saules dziesmas](#section-12)</span>  
+<span>(N) [Rotaļdziesmas](#section-13)</span>  
+<span>(O) [Rādītāji](#section-14)</span>
 
 
 </hgroup>
 
 
 
-# <lo-sample/> Nelīst lietus, nelīst lietus
+# <lo-sample/> #34: Nelīst lietus, nelīst lietus
 
 ![notis](../svg/NelistLietusNelistLietus.svg)
+
+[YouTube](https://youtu.be/pivxyO_5-YA)
 
 <hgroup>
 
@@ -1879,9 +1943,11 @@ Kalnā Jāņu uguntiņu.
 </hgroup>
 
 
-# <lo-sample/> Spīguļo, Saulīt
+# <lo-sample/> #35: Spīguļo, Saulīt
 
 ![notis](../svg/Spi-gul-oSauli-t.svg)
+
+[YouTube](https://youtu.be/VL-bjrxRDx0?t=12)
 
 1. Spīguļo saulīt  
 Met melnu jūrā  
@@ -1894,9 +1960,11 @@ Ar ozola vālītēm.
 &nbsp;   
 
 
-# <lo-sample/> Visu dienu lietiņš lija
+# <lo-sample/> #36: Visu dienu lietiņš lija
 
 ![notis](../svg/VisuDienuLietin-s-Lija.svg)
+
+[YouTube.alt](https://youtu.be/HuaLdaj9n78)
 
 <hgroup>
 
@@ -1938,10 +2006,11 @@ Pār to manu augumiņ'.
 
 
 
-# <lo-sample/> Aizej, lietiņ, rūkdams, kaukdams
+# <lo-sample/> #37: Aizej, lietiņ, rūkdams, kaukdams
 
 ![notis](../svg/AizejLietin-Ru-kdamsKaukdams.svg)
 
+[YouTube](https://www.youtube.com/watch?v=0-qcXRqZfo8)
 
 1. Aizej, lietiņ, rūkdams, kaukdams   
 Aiz tiem jūras lieliem vaļņiem,   
@@ -1966,7 +2035,7 @@ Atnāc, Saulīte, spīguļodama!
 
 </hgroup>
 
-<hgroup style="margin-top:-50px">
+<hgroup style="margin-top:-60px; font-size:90%">
 
 <span>(A) [Jāņus sagaidot](#section)</span>  
 <span>(B) [Zāles lasot](#section-1)</span>  
@@ -1976,11 +2045,13 @@ Atnāc, Saulīte, spīguļodama!
 <span>(F) [Jāni daudzinot](#section-5)</span>  
 <span>(G) [Lietu aizdzenot](#section-6)</span>  
 <span style="color:darkgreen">**(H) Jāņu nakti neguļot**</span>  
-<span>(I) [Saulei   norietot, uzlecot](#section-9)</span>  
-<span>(J) [Apdziedāšanās](#section-8)</span>  
-<span>(K) [Buršanās](#section-10)</span>  
+<span>(I) [Saulei   norietot, uzlecot](#section-8)</span>  
+<span>(J) [Apdziedāšanās](#section-9)</span>  
+<span>(K) [Par Dievu](#section-10)</span>  
 <span>(L) [Jāņu dienu pavadot](#section-11)</span>  
-<span>(M) [Saules dziesmas](#section-12)</span>
+<span>(M) [Saules dziesmas](#section-12)</span>  
+<span>(N) [Rotaļdziesmas](#section-13)</span>  
+<span>(O) [Rādītāji](#section-14)</span>
 
 
 </hgroup>
@@ -1988,7 +2059,7 @@ Atnāc, Saulīte, spīguļodama!
 
 
 
-# <lo-sample/> Ai jūs puiši, ai jūs meitas
+# <lo-sample/> #38: Ai jūs puiši, ai jūs meitas
 
 ![notis](../svg/AiJusPuisiAiJusMeitas.svg)
 
@@ -2039,10 +2110,11 @@ Tas mūžiņu nogulēja.
 </hgroup>
 
 
-# <lo-sample/> Negulu, negulu Jānīša nakti
+# <lo-sample/> #39: Negulu, negulu Jānīša nakti
 
 ![notis](../svg/NeguluNeguluJanisaNakti.svg)
 
+[YouTube](https://youtu.be/cEufEFph9os)
 
 1. Neguļu, neguļu Jānīša nakti,  
 Lai mani rudzīši veldrē nekrīt. 
@@ -2063,9 +2135,11 @@ Lai mani zirniņi veldrē nekrīt.
 
 
 
-# <lo-sample/> Līgo, Jānīti
+# <lo-sample/> #40: Līgo, Jānīti
 
 ![notis](../svg/Li-goJa-ni-ti.svg)
+
+[YouTube](https://youtu.be/Y2UeSGudMR0)
 
 <hgroup>
 
@@ -2135,7 +2209,7 @@ Atrada laimi.
 
 </hgroup>
 
-<hgroup style="margin-top:-50px">
+<hgroup style="margin-top:-60px; font-size:90%">
 
 <span>(A) [Jāņus sagaidot](#section)</span>  
 <span>(B) [Zāles lasot](#section-1)</span>  
@@ -2146,10 +2220,12 @@ Atrada laimi.
 <span>(G) [Lietu aizdzenot](#section-6)</span>  
 <span>(H) [Jāņu nakti neguļot](#section-7)</span>  
 <span style="color:darkgreen">**(I) Saulei   norietot, uzlecot**</span>  
-<span>(J) [Apdziedāšanās](#section-8)</span>  
-<span>(K) [Buršanās](#section-10)</span>  
+<span>(J) [Apdziedāšanās](#section-9)</span>  
+<span>(K) [Par Dievu](#section-10)</span>  
 <span>(L) [Jāņu dienu pavadot](#section-11)</span>  
-<span>(M) [Saules dziesmas](#section-12)</span>
+<span>(M) [Saules dziesmas](#section-12)</span>  
+<span>(N) [Rotaļdziesmas](#section-13)</span>  
+<span>(O) [Rādītāji](#section-14)</span>
 
 
 </hgroup>
@@ -2157,9 +2233,11 @@ Atrada laimi.
 
 
 
-# <lo-sample/> Jānīšami treji vārti
+# <lo-sample/> #41: Jānīšami treji vārti
 
 ![notis](../svg/JanisamiTrejiVarti.svg)
+
+[YouTube](https://www.youtube.com/watch?v=2_It8-2atd4)
 
 <hgroup>
 
@@ -2204,9 +2282,11 @@ Vakarā noiedama.
 </hgroup>
 
 
-# <lo-sample/> Kas tur spīda, kas tur mirdza
+# <lo-sample/> #42: Kas tur spīda, kas tur mirdza
 
 ![notis](../svg/KasTurSpi-daKasTurMirdza.svg)
+
+[YouTube](https://www.youtube.com/watch?v=LSZvCDWnS1U)
 
 <hgroup>
 
@@ -2263,7 +2343,7 @@ Zelta puķe rociņā.
 </hgroup>
 
 
-# <lo-sample/> Kas to teica, tas meloja
+# <lo-sample/> #43: Kas to teica, tas meloja
 
 ![notis](../svg/KasToTeicaTasMeloja.svg)
 
@@ -2312,9 +2392,11 @@ Es jaunoi arājiņu.
 </hgroup>
 
 
-# <lo-sample/> Parādies tu, saulīte
+# <lo-sample/> #44: Parādies tu, saulīte
 
 ![notis](../svg/Para-diesTuSauli-te.svg)
+
+[YouTube](https://www.youtube.com/watch?v=Zm3WoAlU2cw)
 
 <hgroup>
 
@@ -2361,9 +2443,12 @@ Kaut jel vienu atzarīt.
 </hgroup>
 
 
-# <lo-sample/> Tā sacīja, tā bij tiesa 
+# <lo-sample/> #45: Tā sacīja, tā bij tiesa 
  
 ![notis](../svg/Ta-Saci-jaTa-BijTiesa.svg)
+
+[YouTube.alt](https://www.youtube.com/watch?v=PmhV9XBwueI)
+[YouTube.alt](https://www.youtube.com/watch?v=HCMlrrZMvpk)
 
 <hgroup>
 
@@ -2416,7 +2501,7 @@ Pašā Jāņu rītiņā.
 
 </hgroup>
 
-<hgroup style="margin-top:-50px">
+<hgroup style="margin-top:-60px; font-size:90%">
 
 <span>(A) [Jāņus sagaidot](#section)</span>  
 <span>(B) [Zāles lasot](#section-1)</span>  
@@ -2428,17 +2513,21 @@ Pašā Jāņu rītiņā.
 <span>(H) [Jāņu nakti neguļot](#section-7)</span>  
 <span>(I) [Saulei   norietot, uzlecot](#section-8)</span>  
 <span style="color:darkgreen">**(J) Apdziedāšanās**</span>  
-<span>(K) [Buršanās](#section-10)</span>  
+<span>(K) [Par Dievu](#section-10)</span>  
 <span>(L) [Jāņu dienu pavadot](#section-11)</span>  
-<span>(M) [Saules dziesmas](#section-12)</span>
+<span>(M) [Saules dziesmas](#section-12)</span>  
+<span>(N) [Rotaļdziesmas](#section-13)</span>  
+<span>(O) [Rādītāji](#section-14)</span>
 
 
 </hgroup>
 
 
-# <lo-sample/> Turatiesi, turatiesi
+# <lo-sample/> #46: Turatiesi, turatiesi
 
 ![notis](../svg/TuratiesiTuratiesi.svg)
+
+[YouTube](https://youtu.be/hetYyfe0Igw)
 
 <hgroup>
 
@@ -2515,7 +2604,7 @@ Ne tā manis darināta.
 
 
 
-# <lo-sample/> Jāņa bērni sanākuši
+# <lo-sample/> #47: Jāņa bērni sanākuši
 
 ![notis](../svg/Ja-n-aBe-rniSana-kus-i.svg)
 
@@ -2596,7 +2685,7 @@ Otrs ķērnes laizītājs.
 
 </hgroup>
 
-<hgroup style="margin-top:-50px">
+<hgroup style="margin-top:-60px; font-size:90%">
 
 <span>(A) [Jāņus sagaidot](#section)</span>  
 <span>(B) [Zāles lasot](#section-1)</span>  
@@ -2608,17 +2697,21 @@ Otrs ķērnes laizītājs.
 <span>(H) [Jāņu nakti neguļot](#section-7)</span>  
 <span>(I) [Saulei   norietot, uzlecot](#section-8)</span>  
 <span>(J) [Apdziedāšanās](#section-9)</span>  
-<span style="color:darkgreen">**(K) Buršanās**</span>  
+<span style="color:darkgreen">**(K) Par Dievu**</span>  
 <span>(L) [Jāņu dienu pavadot](#section-11)</span>  
-<span>(M) [Saules dziesmas](#section-12)</span>
+<span>(M) [Saules dziesmas](#section-12)</span>  
+<span>(N) [Rotaļdziesmas](#section-13)</span>  
+<span>(O) [Rādītāji](#section-14)</span>
 
 
 </hgroup>
 
 
-# <lo-sample/> Vij, Dieviņi, zelta viju
+# <lo-sample/> #48: Vij, Dieviņi, zelta viju
 
 ![notis](../svg/VijDievin-iZeltaViju.svg)
+
+[YouTube](https://www.youtube.com/watch?v=wo18ph3RISg&t=18)
 
 <hgroup>
 
@@ -2651,7 +2744,7 @@ Manā sētā ziedu raut.
 
 
 
-# <lo-sample/> Nedod, Dievis, man bēdiņu
+# <lo-sample/> #49: Nedod, Dievis, man bēdiņu
 
 ![notis](../svg/NedodDievisManBe-din-u.svg)
 
@@ -2697,9 +2790,11 @@ Basajāmi kājiņām'!
 
 
 
-# <lo-sample/> Visi meži gunī dega
+# <lo-sample/> #50: Visi meži gunī dega
 
 ![notis](../svg/VisiMez-iGuniDega.svg)
+
+[YouTube](https://www.youtube.com/watch?v=iheImmWywYI)
 
 <hgroup>
 
@@ -2740,9 +2835,11 @@ Asariņu paltītē.
 
 
 
-# <lo-sample/> Avotāi guni kūru
+# <lo-sample/> #51: Avotāi guni kūru
 
 ![notis](../svg/Avota-iGuniKu-ru.svg)
+
+[YouTube](https://www.youtube.com/watch?v=LrHUouz2Ujo)
 
 <hgroup>
 
@@ -2782,9 +2879,11 @@ Līdz pašām debesīm.
 
 
 
-# <lo-sample/> Lai bij vārdi, kam bij vārdi
+# <lo-sample/> #52: Lai bij vārdi, kam bij vārdi
 
 ![notis](../svg/LaiBijVardiKamBijVardi.svg)
+
+[YouTube](https://www.youtube.com/watch?v=QPrckXS7MA4)
 
 <hgroup>
 
@@ -2848,7 +2947,7 @@ Ap to manu mājas viet'.
 
 </hgroup>
 
-<hgroup style="margin-top:-50px">
+<hgroup style="margin-top:-60px; font-size:90%">
 
 <span>(A) [Jāņus sagaidot](#section)</span>  
 <span>(B) [Zāles lasot](#section-1)</span>  
@@ -2860,15 +2959,17 @@ Ap to manu mājas viet'.
 <span>(H) [Jāņu nakti neguļot](#section-7)</span>  
 <span>(I) [Saulei   norietot, uzlecot](#section-8)</span>  
 <span>(J) [Apdziedāšanās](#section-9)</span>  
-<span>(K) [Buršanās](#section-10)</span>  
+<span>(K) [Par Dievu](#section-10)</span>  
 <span style="color:darkgreen">**(L) Jāņu dienu pavadot**</span>  
-<span>(M) [Saules dziesmas](#section-12)</span>
+<span>(M) [Saules dziesmas](#section-12)</span>  
+<span>(N) [Rotaļdziesmas](#section-13)</span>  
+<span>(O) [Rādītāji](#section-14)</span>
 
 </hgroup>
 
 
 
-# <lo-sample/> Jānīts Jāņu vakarā
+# <lo-sample/> #53: Jānīts Jāņu vakarā
 
 ![notis](../svg/JanitsJanuVakara.svg)
 
@@ -2909,7 +3010,7 @@ Mēs ar prieku saņemsimi.
 
 
 
-# <lo-sample/> Samaisīju iemauktiņus
+# <lo-sample/> #54: Samaisīju iemauktiņus
 
 ![notis](../svg/Samaisi-juIemauktin-us.svg)
 
@@ -2964,7 +3065,7 @@ Tad mēs tevi gaidīsim.
 
 </hgroup>
 
-<hgroup style="margin-top:-50px">
+<hgroup style="margin-top:-60px; font-size:90%">
 
 <span>(A) [Jāņus sagaidot](#section)</span>  
 <span>(B) [Zāles lasot](#section-1)</span>  
@@ -2976,17 +3077,23 @@ Tad mēs tevi gaidīsim.
 <span>(H) [Jāņu nakti neguļot](#section-7)</span>  
 <span>(I) [Saulei   norietot, uzlecot](#section-8)</span>  
 <span>(J) [Apdziedāšanās](#section-9)</span>  
-<span>(K) [Buršanās](#section-10)</span>  
+<span>(K) [Par Dievu](#section-10)</span>  
 <span>(L) [Jāņu dienu pavadot](#section-11)</span>  
-<span style="color:darkgreen">**(M) Saules dziesmas**</span>
+<span style="color:darkgreen">**(M) Saules dziesmas**</span>  
+<span>(N) [Rotaļdziesmas](#section-13)</span>  
+<span>(O) [Rādītāji](#section-14)</span>
 
 </hgroup>
 
 
 
-# <lo-sample/> Iebrauca Saulīte ābeļu dārzā
+# <lo-sample/> #55: Iebrauca Saulīte ābeļu dārzā
 
 ![notis](../svg/IebraucaSauliteAbeluDarza2.svg)
+
+[YouTube](https://www.youtube.com/watch?v=gVQGhZcEUSI)
+[YouTube.alt](https://www.youtube.com/watch?v=lNtPHLa7zEg)
+[YouTube.alt](https://youtu.be/v2SB9ogfh3o)
 
 <hgroup>
 
@@ -3021,9 +3128,11 @@ No zelta, sudraba, no dimantiņa.
 </hgroup>
 
 
-# <lo-sample/> Saule deva sav' meitiņu
+# <lo-sample/> #56: Saule deva sav' meitiņu
 
 ![notis](../svg/SauleDevaSavMeitin-u.svg)
+
+[YouTube](https://www.youtube.com/watch?v=7CYDGoZi624)
 
 <hgroup>
 
@@ -3058,10 +3167,12 @@ Saules meitas vedējiem.
 </hgroup>
 
 
-# <lo-sample/> Saule brauca pār debesi
+# <lo-sample/> #57: Saule brauca pār debesi
 
 ![notis](../svg/SauleBraucaPa-rDebesi.svg)
 
+[YouTube](https://www.youtube.com/watch?v=h2t9ZWk9jFc)
+[YouTube](https://www.youtube.com/watch?v=FJye77CdrOw&t=30)
 
 <hgroup>
 
@@ -3093,9 +3204,11 @@ Dod man savu labumiņu.
 
 
 
-# <lo-sample/> Saule meitu izdevusi
+# <lo-sample/> #58: Saule meitu izdevusi
 
 ![notis](../svg/SauleMeituIzdevusi.svg)
+
+[YouTube](https://www.youtube.com/watch?v=cHYyLQW_Y6w&t=40)
 
 <hgroup>
 
@@ -3139,9 +3252,12 @@ Tur tu baltas sarullēsi.
 
 
 
-# <lo-sample/> Šķērsu dienu saule teka
+# <lo-sample/> #59: Šķērsu dienu saule teka
 
 ![notis](../svg/SkersuDienuSauleTeka.svg)
+
+[YouTube](https://www.youtube.com/watch?v=ahrVBxk5urM)
+[YouTube](https://www.youtube.com/watch?v=SzLVjHS2pfg)
 
 <hgroup>
 
@@ -3188,9 +3304,11 @@ Krustiem tek(a) kumeliņ'.
 
 
 
-# <lo-sample/> Ai, Saulīte, Mēnestiņi
+# <lo-sample/> #60: Ai, Saulīte, Mēnestiņi
 
 ![notis](../svg/AiSauli-teMe-nestinjiKa-Ju-sSkaistiMijaties2.svg)
+
+[YouTube](https://www.youtube.com/watch?v=w0Ab-R9p608)
 
 <hgroup>
 
@@ -3239,9 +3357,11 @@ Tur tek ziemu Mēnestiņš.
 </hgroup>
 
 
-# <lo-sample/> Sudraboti gaiļi dzied
+# <lo-sample/> #61: Sudraboti gaiļi dzied
 
 ![notis](../svg/SudrabotiGailiDzied2.svg)
+
+[YouTube](https://www.youtube.com/watch?v=TjD7YJEsuvw)
 
 <hgroup>
 
@@ -3283,9 +3403,11 @@ Saules meitas gredzentiņu.
 </hgroup>
 
 
-# <lo-sample/> Gāju, gāju garu ceļu
+# <lo-sample/> #62: Gāju, gāju garu ceļu
 
 ![notis](../svg/Ga-juGa-juGaruCel-u.svg)
+
+[YouTube](https://www.youtube.com/watch?v=a22w8wUuvEQ)
 
 <hgroup>
 
@@ -3324,7 +3446,7 @@ Ceļam gala nezināj'.
 
 
 
-# <lo-sample/> Riti, Saulīt, ritēdama
+# <lo-sample/> #63: Riti, Saulīt, ritēdama
 
 ![notis](../svg/RitiSauli-tRite-dama.svg)
 
@@ -3374,9 +3496,12 @@ Atstāj laivu līgojot.
 
 
 
-# <lo-sample/> Tumsa, tumsa, kas par tumsu
+# <lo-sample/> #64: Tumsa, tumsa, kas par tumsu
 
 ![notis](../svg/TumsaTumsaKasParTumsu.svg)
+
+[YouTube.alt](https://www.youtube.com/watch?v=-unOZJVOJ-I)
+[YouTube.alt](https://www.youtube.com/watch?v=jXCyHfWYzSo)
 
 <hgroup>
 
@@ -3420,9 +3545,11 @@ Triju staru vainadziņu.
 
 
 
-# <lo-sample/> Ģērbies, Saule, sudrabota
+# <lo-sample/> #65: Ģērbies, Saule, sudrabota
 
 ![notis](../svg/G-e-rbiesSauleSudrabota.svg)
+
+[YouTube](https://www.youtube.com/watch?v=AW5s6DXPuVk)
 
 <hgroup>
 
@@ -3462,6 +3589,382 @@ Sudrabā(i) kaldināj'.
 </hgroup>
 
 
+# &nbsp;
+
+<hgroup>
+
+<h1>&nbsp;</h1>
+
+<h1 style="font-size:28pt">Jāņu dziesmas</h1>
+
+[Song sources in GitHub](https://github.com/kapsitis/ddgatve-songs)
+
+</hgroup>
+
+<hgroup style="margin-top:-60px; font-size:90%">
+
+<span>(A) [Jāņus sagaidot](#section)</span>  
+<span>(B) [Zāles lasot](#section-1)</span>  
+<span>(C) [Jāņa māti, tēvu sveicot](#section-2)</span>  
+<span>(D) [Dārzus, sētu aplīgojot](#section-3)</span>  
+<span>(E) [Uguni kurot](#section-4)</span>  
+<span>(F) [Jāni daudzinot](#section-5)</span>  
+<span>(G) [Lietu aizdzenot](#section-6)</span>  
+<span>(H) [Jāņu nakti neguļot](#section-7)</span>  
+<span>(I) [Saulei   norietot, uzlecot](#section-8)</span>  
+<span>(J) [Apdziedāšanās](#section-9)</span>  
+<span>(K) [Par Dievu](#section-10)</span>  
+<span>(L) [Jāņu dienu pavadot](#section-11)</span>  
+<span>(M) [Saules dziesmas](#section-12)</span>  
+<span style="color:darkgreen">**(N) Rotaļdziesmas**</span>  
+<span>(O) [Rādītāji](#section-14)</span>
+
+</hgroup>
 
 
+
+# <lo-sample/> #66: Dindaru, dandaru
+
+![notis](../svg/DindaruDandaruOzolini.svg)
+
+[YouTube](https://www.youtube.com/watch?v=ozhjb9yKiEI&feature=youtu.be&t=325)
+
+<hgroup>
+
+1. Dindaru, dandaru, ozoliņi.  
+Visi tavi zariņi zīlīšu pilni.
+2. Izgāju lasīt, apsamaldījosi.   
+Ai, Dieva dēliņi, vedati cauri. 
+
+</hgroup><hgroup>
+
+3. Ložņā, ložņā lakstīgala.  
+Caur zaru zariem, caur pazariemi. 
+4. Lec apkārti, tautu meita, līdz tu savu sadabūs'.  
+Kad tu savu sadabūsi, paliec pati vietiņā. 
+
+</hgroup>
+
+**Rotaļas apraksts:** Rotaļnieki izveido dārziņu, viens - vidū. Visi iet pa apli, 
+vidējais stāv. Dziedot "ložņā, ložņā", 
+dārziņš apstājas, un visi ceļ 
+uz augšu sadotās rokas. Vidējais rotaļnieks ložņā zem paceltajām rokām, bet, 
+dziedot "lec apkārti", viņš pa dārziņa ārpusi uz vienas kājas lec apkārt. 
+Dziesmai beidzoties, viņš iestumj vidū to, aiz kura muguras apstājies, 
+bet pats iestājas brīvajā vietā. Ja aplī stāvošo dalībnieku ir daudz, 
+tad apkārt lēkātāju var būt vairāki.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
+
+
+# <lo-sample/> #67: Lielais Jānis kalniņā
+
+![notis](../svg/LielaisJanisKalnina.svg)
+
+[YouTube](https://www.youtube.com/watch?v=5gcjGGsmu9w)
+[YouTube](https://www.youtube.com/watch?v=iB99QJwrWI0&t=20)
+
+
+1. Lielais Jānis kalniņāi strīķē savu izkaptiņ'.  
+Trin, Jānīt, trin, Jānīt, trin Jānīt izkaptiņ'.
+2. Ja tu labi neiztrīsi, izkaptiņa nekodīs!  
+Trin, Jānīt, trin, Jānīt, trin, Jānīt, izkaptiņ’!
+3. Mazais Jānis lejiņā taisa savu stabulīt’.  
+Tais’, Jānīt, tais’, Jānīt, tais’, Jānīt, stabulīt’!
+
+
+4. Ja tu labi netaisīsi, stabulīte neskanēs!   
+Tais’, Jānīt, tais’, Jānīt, tais’, Jānīt, stabulīt’!
+5. Meitenīte, zilacīte, patur’ Jāņa stabulīt’!  
+Tur’, meitiņ, tur’, meitiņ, tur’, Jāņa stabulīt’!
+6. Ja tu labi neturēsi, stabulīte neskanēs!  
+Tur’, meitiņ, tur’, meitiņ, tur’, Jāņa stabulīt’!
+
+**Rotaļas apraksts:** Rotaļnieki sastājas divos apmēram vienādos dārziņos: viens - iekšējais, 
+otrs - ārējais. Dziedot panta pirmo pusi, ārējais iet pa labi, iekšējais - pa kreisi, 
+šis kustības virziens saglabājams visu rotaļas laiku neatkarīgi no tā, 
+vai rotaļnieki atradīsies ārpusē vai iekšpusē. Dziedot otro daļu, kāds 
+no ārējā dārziņa uzņemas rotaļas vadību, pāršķeļ iekšējo apli un ieved savējo vidū. 
+Tikmēr tas,  pie kura rokas tika pārcirsts vidējais aplis, izved savējos ārā. 
+Un tā katrā pantā vidējais dārziņš mijas ar ārējo vietām. Tam, kas ved iekšā, 
+jāiet lēnāk, savukārt tam, kas rotaļniekus ved ārā, ir jāpasteidzas. 
+Ja nepaspēj samainīties, tad dzied otro panta pusi vēlreiz.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
+
+
+
+# <lo-sample/> #68: Pērkonītis
+
+![notis](../svg/Perkonitis.svg)
+
+[YouTube](https://www.youtube.com/watch?v=3f5XFxLKKic)
+[YouTube](https://youtu.be/ozhjb9yKiEI?t=173)
+
+<hgroup>
+
+1. Pērkonītis ducināja  
+Visu cauru vasariņ'.  
+Lai rīb tautu istabiņa  
+Jele šādu vakariņ'!
+2. Ko dosim Pērkonam  
+Par vasaras graudumiņ'-  
+Sieku rudzu, sieku miežu,  
+Pusbirkavu apinīš.
+3. Danco Dievis ar Pērkonu,  
+Es ar savu bāleliņ'.  
+Pērkonam visa zeme,  
+Man deviņi bāleliņ'.
+4. Pērkonami pieci dēli,  
+Visi pieci amatā,   
+Pirmais spēra otrais rūca,  
+Trešais šķīla uguntiņ';  
+Ceturtaisi lodes laida,  
+Piektais sita zibentiņ'.
+
+</hgroup><hgroup>
+
+5. Pērkonami trīs meitiņas,  
+Visas trejas saderēt's,   
+Pirmā Dieva dēliņami,  
+Otrā rīta Ausekļam,  
+Tā trešāi pastarīte  
+Pašam Saules vedējam.
+6. Pērkonami pieci dēli,  
+Visi pieci amatā:   
+Pirmais rūca, otrais spēra,  
+Trešais šķīla uguntiņ',  
+Ceturtaisi lodes lēja,  
+Piektais sita zibentiņ'.
+7. Sper Pērkoni, kad sperdams  
+Nesper goda vakarā.  
+Tev pieder viss gadiņis,  
+Man šis goda vakariņš.
+
+</hgroup>
+
+
+**1.takts:** Pārinieki trīs reizes sparīgi rībina 
+(puisis piesit kreiso, labo, kreiso, bet meita labo, kreiso, labo kāju). 
+Vienlaicīgi viņi pagriež viens otram muguras.
+
+**2.takts:** Dejotāji atkārto 1.takts kustību ar pretējām kājām, 
+pagriežoties ar seju viens pret otru.
+
+**3.-8. takts.** Četras reizes atkārto 1. un 2. takts kustības.
+
+**Apaļā polka** //(8 taktis, 5.-8.takts jādzied vai jāspēlē divas reizes.)//
+Pārinieki saķeras aptvērienā ar kreiso roku sānos un ar skrējiena soli 
+dejo sparīgu Apaļo polku pa dejas ceļu.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
+
+
+
+
+# <lo-sample/> #69: Pinu, pinu sietu
+
+![notis](../svg/PinuPinuSietu.svg)
+
+[YouTube](https://www.youtube.com/watch?v=KP_3N8yG-qM)
+
+1. Pinu, pinu sietu, sapinu vainagu,  
+Sapinu vainagu no zaļas zāles.   
+Cieši sapinu. 
+2. Pinu, pinu sietu, izpinu vainagu,  
+izpinu vainagu no zaļas zāles.  
+Labi izpinu. 
+
+**Rotaļas apraksts:** Darbību, kas šajā rotaļā tiek veikta, sauc par mezglu siešanu jeb pīšanu. 
+Visi sastājas rindā viens aiz otra sadotām rokām, rotaļas vadītājs - kā pirmais. 
+Sākot dziedāšanu, viņš kreiso roku, kas sadota ar blakusstāvētāja labo roku, 
+apliek sev ap kaklu un izlien caur otrā un trešā rotaļnieka izveidotiem vārtiņiem. 
+Kad otrais rotaļnieks pēc apgriešanās kreiso roku ir aplicis sev ap kaklu, 
+tad pirmais rotaļnieks turpina līst caur trešā un ceturtā rotaļnieka 
+izveidotajiem vārtiņiem utt., līdz visi rotaļnieki ir sapiti pinuma satvērienā.
+
+Dziedot 2. pantu notiek atpīšana. Pirmais rotaļnieks dodas pretējā virzienā, 
+t.i., pa kreisi. Atpīšanu beidzot, izveidojas tāda pati virkne kā sākumā.   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
+
+
+
+# <lo-sample/> #70: Šurp, Jāņa bērni
+
+![notis](../svg/SurpJanaBerni.svg)
+
+[YouTube](https://www.youtube.com/watch?v=QC7MeWMe32g) 
+[YouTube](https://www.youtube.com/watch?v=cLMaGhgRZWY)
+
+1. Šurp, Jāņa bērni, dziedāsim tīrumā,  
+Dziedāsim skaņi līdz vēlam vakaram!  
+Pēterītis, Miķelītis, abi gāja bekas lauzt,  
+Abi divi piekusuši, nevar bekas kustināt.
+
+# &nbsp;
+
+<hgroup>
+
+<h1>&nbsp;</h1>
+
+<h1 style="font-size:28pt">Jāņu dziesmas</h1>
+
+[Song sources in GitHub](https://github.com/kapsitis/ddgatve-songs)
+
+</hgroup>
+
+<hgroup style="margin-top:-60px; font-size:90%">
+
+<span>(A) [Jāņus sagaidot](#section)</span>  
+<span>(B) [Zāles lasot](#section-1)</span>  
+<span>(C) [Jāņa māti, tēvu sveicot](#section-2)</span>  
+<span>(D) [Dārzus, sētu aplīgojot](#section-3)</span>  
+<span>(E) [Uguni kurot](#section-4)</span>  
+<span>(F) [Jāni daudzinot](#section-5)</span>  
+<span>(G) [Lietu aizdzenot](#section-6)</span>  
+<span>(H) [Jāņu nakti neguļot](#section-7)</span>  
+<span>(I) [Saulei   norietot, uzlecot](#section-8)</span>  
+<span>(J) [Apdziedāšanās](#section-9)</span>  
+<span>(K) [Par Dievu](#section-10)</span>  
+<span>(L) [Jāņu dienu pavadot](#section-11)</span>  
+<span>(M) [Saules dziesmas](#section-12)</span>  
+<span>(N) [Rotaļdziesmas](#section-13)</span>  
+<span style="color:darkgreen">**(O) Rādītāji**</span>
+
+</hgroup>
+
+
+# <lo-summary/> Alfabētisks rādītājs - 1
+
+<hgroup style="font-size:85%">
+
+Ai, Jānīti, Dieva dēls [#28](#ai-jānīti-dieva-dēls)  
+Ai, Jānīti, Dieva Dēls [#30](#ai-jānīti-dieva-dēls-1)  
+Ai jūs puiši, ai jūs meitas [#38](#ai-jūs-puiši-ai-jūs-meitas)  
+Ai, Saulīte, Mēnestiņi [#60](#ai-saulīte-mēnestiņi)  
+Aizej, lietiņ, rūkdams, kaukdams [#37](#aizej-lietiņ-rūkdams-kaukdams)  
+Avotāi guni kūru [#51](#avotāi-guni-kūru)  
+Celiesi, brālīti, auniesi kājas [#1](#celiesi-brālīti-auniesi-kājas)  
+Dieviņš brida rudzu lauku [#17](#dieviņš-brida-rudzu-lauku)  
+Dindaru, dandaru [#66](#dindaru-dandaru)  
+Es Jums saku, Jāņa bērni [#4](#es-jums-saku-jāņa-bērni)  
+Es redzēju jāņu nakti [#18](#es-redzēju-jāņu-nakti)  
+Gāju, gāju garu ceļu [#62](#gāju-gāju-garu-ceļu)
+
+
+</hgroup><hgroup style="font-size:85%">
+
+
+Ģērbies, Saule, sudrabota [#65](#ģērbies-saule-sudrabota)  
+Iebrauca Saulīte ābeļu dārzā [#55](#iebrauca-saulīte-ābeļu-dārzā)  
+Jāņa bērni sanākuši [#47](#jāņa-bērni-sanākuši)  
+Jāņa mātes pagalmā [#23](#jāņa-mātes-pagalmā)  
+Jānīšami pavaicāju [#5](#jānīšami-pavaicāju)  
+Jānīšami treji vārti [#41](#jānīšami-treji-vārti)  
+Jānīts brauca katru gadu [#10](#jānīts-brauca-katru-gadu)  
+Jānīts Jāņu vakarā [#53](#jānīts-jāņu-vakarā)  
+Jānīts savu kumeliņu [#31](#jānīts-savu-kumeliņu)  
+Jānīts sēde ozolāje [#29](#jānīts-sēde-ozolāje)  
+Jau Jānītis aizvakar [#32](#jau-jānītis-aizvakar)  
+Jūs, māsiņas, nezināti [#19](#jūs-māsiņas-nezināti)
+
+</hgroup>
+
+# <lo-summary/> Alfabētisks rādītājs - 2
+
+<hgroup style="font-size:85%">
+
+Kas spīdēja, kas vizēja [#15](#kas-spīdēja-kas-vizēja)  
+Kas to teica, tas meloja [#43](#kas-to-teica-tas-meloja)  
+Kas tur spīda, kas tur mirdza [#42](#kas-tur-spīda-kas-tur-mirdza)  
+Labvakari, Jāņa māte [#14](#labvakari-jāņa-māte)  
+Labvakar, rudzu lauks [#16](#labvakar-rudzu-lauks)  
+Lai bij vārdi, kam bij vārdi [#52](#lai-bij-vārdi-kam-bij-vārdi)  
+Lielais Jānis kalniņā [#67](#lielais-jānis-kalniņā)  
+Līgo, Jānīti [#40](#līgo-jānīti)  
+Līgojati, līgojati [#2](#līgojati-līgojati)  
+Līgo lauki, līgo pļavas [#6](#līgo-lauki-līgo-pļavas)  
+Nāc nākdama, Jāņu diena [#13](#nāc-nākdama-jāņu-diena)  
+Nedod, Dievis, man bēdiņu [#49](#nedod-dievis-man-bēdiņu)
+
+</hgroup><hgroup style="font-size:85%">
+
+Negulu, negulu Jānīša nakti [#39](#negulu-negulu-jānīša-nakti)  
+Nelīst lietus, nelīst lietus [#34](#nelīst-lietus-nelīst-lietus)  
+Ņem, Jānīti, baltu zirgu [#20](#ņem-jānīti-baltu-zirgu)  
+Ņem, Jānīti, melnu zirgu [#21](#ņem-jānīti-melnu-zirgu)  
+Ozoliņi, ozoliņi [#12](#ozoliņi-ozoliņi)  
+Parādies tu, saulīte [#44](#parādies-tu-saulīte)  
+Pār gadskārtu Jānīts nāca [#3](#pār-gadskārtu-jānīts-nāca)  
+Pērkonītis [#68](#pērkonītis)  
+Pinu, pinu sietu [#69](#pinu-pinu-sietu)  
+Rāmi, rāmi Jānīts brauca [#33](#rāmi-rāmi-jānīts-brauca)  
+Riti, Saulīt, ritēdama [#63](#riti-saulīt-ritēdama)  
+Sakūrosi uguntiņu [#25](#sakūrosi-uguntiņu)
+
+</hgroup>
+
+# <lo-summary/> Alfabētisks rādītājs - 3
+
+<hgroup style="font-size:85%">
+
+Samaisīju iemauktiņus [#54](#samaisīju-iemauktiņus)  
+Sanāciet, Jāņa bērni [#26](#sanāciet-jāņa-bērni)  
+Saule brauca pār debesi [#57](#saule-brauca-pār-debesi)  
+Saule brida miglājos [#24](#saule-brida-miglājos)  
+Saule deva sav' meitiņu [#56](#saule-deva-sav-meitiņu)  
+Saule meitu izdevusi [#58](#saule-meitu-izdevusi)  
+Sit, Jānīti, vara bungas [#27](#sit-jānīti-vara-bungas)  
+Šķērsu dienu saule teka [#59](#šķērsu-dienu-saule-teka)  
+Spīguļo, Saulīt [#35](#spīguļo-saulīt)  
+Sudraboti gaiļi dzied [#61](#sudraboti-gaiļi-dzied)  
+Šurp, Jāņa bērni [#70](#šurp-jāņa-bērni)  
+
+
+</hgroup><hgroup style="font-size:85%">
+
+Tā sacīja, tā bij tiesa [#45](#tā-sacīja-tā-bij-tiesa)  
+Teku, teku pa celiņu [#11](#teku-teku-pa-celiņu)  
+Tiesa, tiesa ne meliņi [#22](#tiesa-tiesa-ne-meliņi)  
+Trīs kalniņi noziedēja [#7](#trīs-kalniņi-noziedēja)  
+Tumsa, tumsa, kas par tumsu [#64](#tumsa-tumsa-kas-par-tumsu)  
+Turatiesi, turatiesi [#46](#turatiesi-turatiesi)  
+Viena pati jāņu zāle [#8](#viena-pati-jāņu-zāle)  
+Vij, Dieviņi, zelta viju [#48](#vij-dieviņi-zelta-viju)  
+Visi meži gunī dega [#50](#visi-meži-gunī-dega)  
+Visu dienu lietiņš lija [#36](#visu-dienu-lietiņš-lija)  
+Zaļa, zaļa, skaļa, skaļa [#9](#zaļa-zaļa-skaļa-skaļa)  
+
+</hgroup>
+
+
+
+
+
+# <lo-summary/> Melodiju kontūru kodi
+
+[Parsona kods](https://en.wikipedia.org/wiki/Parsons_code): Aiz pirmās nots `*` raksta
+`U`, ja melodija iet uz augšu, `D`, ja uz leju, R, ja skaņa
+atkārtojas. "Aijā žūžu" kods: `*UUUUDDUUUDDDURDDURDUUDD`.
+
+
+
+<!--
+https://youtu.be/UjEip30ThFI - Skandinieki - "Visu gadu" (Official audio)
+https://youtu.be/K9o48NOG--k - Latvian folk song - Teku, teku pa celiņu (latviešu Līgo tautasdziesma)
+https://youtu.be/5tlqxlvIAsM - Skandinieki - Liela, resna Jāņu māte
+https://youtu.be/FujrY-SzGKI - Skandinieki - Laima brida auzu lauku
+https://youtu.be/VXJpIBocNys - Latvia: Summer Solstice (Jaņi) 2006 with Skandinieki
+https://youtu.be/QM2jwSAuhRM - Skandinieki - Ai, Jānīša vakariņš
+https://youtu.be/Cd9yKDc47PE - Trio (Šmite, Kārkle, Cinkuss)- Jānīts brauca katru gadu
+-->
 

@@ -1,0 +1,712 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="143.9999mm" height="55.283028mm" viewBox="0.05 3.8453 81.94389800950884 31.4591">
+
+<text fill="currentColor" text-anchor="start" font-size="2.2001" font-family="Century Schoolbook L" transform="translate(2.2762, 2.8453)">
+<tspan>
+ </tspan>
+</text>
+<text fill="currentColor" text-anchor="start" font-size="2.2001" font-family="Century Schoolbook L" transform="translate(2.2762, 3.8453)">
+<tspan>
+ </tspan>
+</text>
+<text fill="currentColor" text-anchor="start" font-size="2.2001" font-family="Century Schoolbook L" transform="translate(79.7588, 3.8453)">
+<tspan>
+ </tspan>
+</text>
+<rect fill="currentColor" ry="0.1000" height="0.2000" width="1.9743" y="-0.1000" x="8.2757" transform="translate(2.2762, 12.6329)"/>
+<rect fill="currentColor" ry="0.1000" height="0.2000" width="1.9743" y="-0.1000" x="49.6172" transform="translate(2.2762, 12.6329)"/>
+<line y2="-0.0000" x2="79.6177" y1="-0.0000" x1="0.0500" stroke="currentColor" stroke-width="0.1000" stroke-linecap="round" stroke-linejoin="round" transform="translate(2.2762, 11.6329)"/>
+<line y2="-0.0000" x2="79.6177" y1="-0.0000" x1="0.0500" stroke="currentColor" stroke-width="0.1000" stroke-linecap="round" stroke-linejoin="round" transform="translate(2.2762, 10.6329)"/>
+<line y2="-0.0000" x2="79.6177" y1="-0.0000" x1="0.0500" stroke="currentColor" stroke-width="0.1000" stroke-linecap="round" stroke-linejoin="round" transform="translate(2.2762, 9.6329)"/>
+<line y2="-0.0000" x2="79.6177" y1="-0.0000" x1="0.0500" stroke="currentColor" stroke-width="0.1000" stroke-linecap="round" stroke-linejoin="round" transform="translate(2.2762, 8.6329)"/>
+<line y2="-0.0000" x2="79.6177" y1="-0.0000" x1="0.0500" stroke="currentColor" stroke-width="0.1000" stroke-linecap="round" stroke-linejoin="round" transform="translate(2.2762, 7.6329)"/>
+<rect fill="currentColor" ry="0.0000" height="4.0000" width="0.1900" y="-2.0000" x="0.0000" transform="translate(29.2519, 9.6329)"/>
+<rect fill="currentColor" ry="0.0000" height="4.0000" width="0.1900" y="-2.0000" x="0.0000" transform="translate(70.7799, 9.6329)"/>
+<rect fill="currentColor" ry="0.0000" height="4.0000" width="0.1900" y="-2.0000" x="0.0000" transform="translate(51.1736, 9.6329)"/>
+<rect fill="currentColor" ry="0.0000" height="4.0000" width="0.1900" y="-2.0000" x="0.0000" transform="translate(62.7806, 9.6329)"/>
+<rect fill="currentColor" ry="0.0000" height="4.0000" width="0.1900" y="-2.0000" x="0.0000" transform="translate(81.7539, 9.6329)"/>
+<rect fill="currentColor" ry="0.0000" height="4.0000" width="0.1900" y="-2.0000" x="0.0000" transform="translate(21.3874, 9.6329)"/>
+<rect fill="currentColor" ry="0.0000" height="4.0000" width="0.1900" y="-2.0000" x="0.0000" transform="translate(40.2349, 9.6329)"/>
+<path fill="currentColor" d="M0 0c0 -198 209 -335 209 -533c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -19 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 104 -95 208 -167 283h-16v250h16z" transform="translate(60.9087, 7.6729) scale(0.0040, -0.0040)"/>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-2.0000" x="-0.0650" transform="translate(60.8437, 9.6329)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:33:14:15" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(58.2021, 16.0388)">
+<tspan>
+sim</tspan>
+</text>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:22:6:7" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(59.5926, 11.1329) scale(0.0040, -0.0040)"/>
+</a>
+<path fill="currentColor" d="M0 0c0 -198 209 -335 209 -533c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -19 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 104 -95 208 -167 283h-16v250h16z" transform="translate(57.3603, 8.1729) scale(0.0040, -0.0040)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:22:10:11" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(64.0715, 10.6329) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:33:18:19" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(62.7493, 16.0388)">
+<tspan>
+ska</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-2.5000" x="-0.0650" transform="translate(65.3227, 9.6329)"/>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-2.5000" x="-0.0650" transform="translate(45.0707, 9.6329)"/>
+<path fill="currentColor" d="M0 0c0 -198 209 -335 209 -533c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -19 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 104 -95 208 -167 283h-16v250h16z" transform="translate(45.1357, 7.1729) scale(0.0040, -0.0040)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:47:26:27" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.6163" font-family="sans-serif" transform="translate(47.3338, 6.5987)">
+<tspan>
+C</tspan>
+</text>
+<text fill="currentColor" text-anchor="start" font-size="2.6163" font-family="sans-serif" transform="translate(49.1434, 6.5987)">
+<tspan/>
+</text>
+<text fill="currentColor" text-anchor="start" font-size="2.6163" font-family="sans-serif" transform="translate(49.1434, 6.5987)">
+<tspan/>
+</text>
+<text fill="currentColor" text-anchor="start" font-size="1.8500" font-family="sans-serif" transform="translate(49.1434, 5.0987)">
+<tspan/>
+</text>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:21:33:34" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(47.3338, 11.6329) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:32:56:57" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(45.8750, 16.0388)">
+<tspan>
+mā,</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-1.5000" x="-0.0650" transform="translate(48.5850, 9.6329)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:22:0:1" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(52.2225, 12.6329) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:33:0:1" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(50.5588, 16.0388)">
+<tspan>
+dzie</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-0.5000" x="-0.0650" transform="translate(53.4736, 9.6329)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:22:3:4" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(56.0441, 11.6329) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:33:8:9" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(55.3023, 16.0388)">
+<tspan>
+dā</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-1.5000" x="-0.0650" transform="translate(57.2953, 9.6329)"/>
+<path fill="currentColor" d="M0 0c0 -198 209 -335 209 -533c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -19 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 104 -95 208 -167 283h-16v250h16z" transform="translate(80.4339, 8.6729) scale(0.0040, -0.0040)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:33:22:23" style="color:inherit;">
+<rect fill="currentColor" ry="0.0400" height="0.1300" width="0.3000" y="-0.5500" x="0.0000" transform="translate(66.7564, 16.0388)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:32:47:48" style="color:inherit;">
+<rect fill="currentColor" ry="0.0400" height="0.1300" width="0.3173" y="-0.5500" x="0.0000" transform="translate(42.7929, 16.0388)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:22:13:14" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(67.5886, 9.1329) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:33:25:26" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(67.1029, 16.0388)">
+<tspan>
+ņi</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-0.3122" x="-0.0650" transform="translate(67.6536, 9.6329)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:47:47:48" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.6163" font-family="sans-serif" transform="translate(71.7391, 6.5987)">
+<tspan>
+G</tspan>
+</text>
+<text fill="currentColor" text-anchor="start" font-size="2.6163" font-family="sans-serif" transform="translate(73.7535, 6.5987)">
+<tspan/>
+</text>
+<text fill="currentColor" text-anchor="start" font-size="2.6163" font-family="sans-serif" transform="translate(73.7535, 6.5987)">
+<tspan/>
+</text>
+<text fill="currentColor" text-anchor="start" font-size="1.8500" font-family="sans-serif" transform="translate(73.7535, 5.0987)">
+<tspan/>
+</text>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:22:17:18" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(71.7391, 10.6329) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:33:28:29" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(70.2974, 16.0388)">
+<tspan>
+līdz</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-2.5000" x="-0.0650" transform="translate(72.9903, 9.6329)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:22:20:21" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(75.5693, 11.1329) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:33:33:34" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(74.9470, 16.0388)">
+<tspan>
+vē</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-2.0000" x="-0.0650" transform="translate(76.8205, 9.6329)"/>
+<path fill="currentColor" d="M0 0c0 -198 209 -335 209 -533c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -19 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 104 -95 208 -167 283h-16v250h16z" transform="translate(76.8855, 7.6729) scale(0.0040, -0.0040)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:22:23:24" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(79.1177, 12.1329) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:33:39:40" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(77.6077, 16.0388)">
+<tspan>
+lam</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-1.0000" x="-0.0650" transform="translate(80.3689, 9.6329)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:21:6:7" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(18.7376, 11.1329) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:32:12:13" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(17.9617, 16.0388)">
+<tspan>
+ņa</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-2.0000" x="-0.0650" transform="translate(19.9888, 9.6329)"/>
+<path fill="currentColor" d="M0 0c0 -198 209 -335 209 -533c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -19 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 104 -95 208 -167 283h-16v250h16z" transform="translate(20.0538, 7.6729) scale(0.0040, -0.0040)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:21:10:11" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(22.4654, 10.6329) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:32:15:16" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(21.2797, 16.0388)">
+<tspan>
+bēr</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-2.5000" x="-0.0650" transform="translate(23.7166, 9.6329)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:21:13:14" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(25.9825, 9.1329) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:32:22:23" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(25.1553, 16.0388)">
+<tspan>
+ni,</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-0.3122" x="-0.0650" transform="translate(26.0475, 9.6329)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:47:0:1" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.6163" font-family="sans-serif" transform="translate(10.8810, 6.5987)">
+<tspan>
+C</tspan>
+</text>
+<text fill="currentColor" text-anchor="start" font-size="2.6163" font-family="sans-serif" transform="translate(12.6906, 6.5987)">
+<tspan/>
+</text>
+<text fill="currentColor" text-anchor="start" font-size="2.6163" font-family="sans-serif" transform="translate(12.6906, 6.5987)">
+<tspan/>
+</text>
+<text fill="currentColor" text-anchor="start" font-size="1.8500" font-family="sans-serif" transform="translate(12.6906, 5.0987)">
+<tspan/>
+</text>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:21:0:1" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(10.8810, 12.6329) scale(0.0040, -0.0040)"/>
+</a>
+<path fill="currentColor" d="M376 262c4 0 9 1 13 1c155 0 256 -128 256 -261c0 -76 -33 -154 -107 -210c-22 -17 -47 -28 -73 -36c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -120 -90 -228 -208 -228c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95 c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65c96 0 157 92 163 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-29 -5 -58 -8 -89 -8c-188 0 -333 172 -333 374c0 177 131 306 248 441c-19 62 -37 125 -45 190c-6 52 -7 104 -7 156c0 115 55 224 149 292c3 2 7 3 10 3c4 0 7 0 10 -3 c71 -84 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207zM461 -203c68 24 113 95 113 164c0 90 -66 179 -173 190c24 -116 46 -231 60 -354zM74 28c0 -135 129 -247 264 -247c28 0 55 2 82 6c-14 127 -37 245 -63 364c-79 -8 -124 -61 -124 -119 c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-3 0 -6 1 -9 2c-80 43 -117 115 -117 185c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM408 1045c-99 -48 -162 -149 -162 -259c0 -74 18 -133 36 -194 c80 97 146 198 146 324c0 55 -4 79 -20 129z" transform="translate(3.0762, 10.6329) scale(0.0040, -0.0040)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:19:0:1" style="color:inherit;">
+</a>
+<path fill="currentColor" d="M204 307c22 14 44 29 60 50c11 15 19 33 27 50c2 4 5 6 9 6c6 0 13 -5 13 -14v-245h72c10 0 15 -7 15 -14s-5 -15 -15 -15h-72v-8c0 -48 27 -94 72 -94c8 0 12 -5 12 -11s-4 -12 -12 -12c-44 0 -87 13 -131 13s-87 -13 -131 -13c-8 0 -12 6 -12 12s4 11 12 11 c45 0 73 46 73 94v8h-167c-23 0 -31 14 -31 23c0 3 1 5 2 6c80 93 138 207 138 330c0 9 6 16 13 16h3c23 -7 47 -13 71 -13s48 6 71 13c2 1 3 1 5 1c11 0 18 -10 12 -17l-284 -330h167v131c0 8 1 17 8 22z" transform="translate(7.2762, 11.6473) scale(0.0040, -0.0040)"/>
+<path fill="currentColor" d="M23 11c-1 -7 -6 -11 -11 -11c-6 0 -12 4 -12 11c0 175 235 165 235 344c0 60 -18 122 -70 122c-26 0 -51 -14 -51 -37c0 -27 35 -41 35 -68c0 -38 -30 -69 -68 -69s-69 31 -69 69c0 76 72 128 153 128c96 0 187 -56 187 -145c0 -153 -151 -159 -249 -220c9 2 17 3 26 3 c33 0 70 -11 105 -36c21 -15 46 -23 66 -23c21 0 39 9 44 29c2 6 6 9 11 9c6 0 12 -5 12 -12c0 -67 -90 -105 -138 -105c-36 0 -71 14 -96 44c-13 16 -31 22 -48 22c-30 0 -59 -20 -62 -55z" transform="translate(7.3445, 9.6329) scale(0.0040, -0.0040)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:32:0:1" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(8.3979, 16.0388)">
+<tspan>
+Šurp,</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-0.5000" x="-0.0650" transform="translate(12.1321, 9.6329)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:21:3:4" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(15.8379, 11.6329) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:32:6:7" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(15.1302, 16.0388)">
+<tspan>
+Jā</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-1.5000" x="-0.0650" transform="translate(17.0891, 9.6329)"/>
+<path fill="currentColor" d="M0 0c0 -198 209 -335 209 -533c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -19 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 104 -95 208 -167 283h-16v250h16z" transform="translate(17.1541, 8.1729) scale(0.0040, -0.0040)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:32:34:35" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(33.3193, 16.0388)">
+<tspan>
+dā</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-2.0000" x="-0.0650" transform="translate(35.3123, 9.6329)"/>
+<path fill="currentColor" d="M0 0c0 -198 209 -335 209 -533c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -19 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 104 -95 208 -167 283h-16v250h16z" transform="translate(35.3773, 7.6729) scale(0.0040, -0.0040)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:21:23:24" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(37.6096, 12.1329) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:32:40:41" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(36.2190, 16.0388)">
+<tspan>
+sim</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-1.0000" x="-0.0650" transform="translate(38.8607, 9.6329)"/>
+<path fill="currentColor" d="M0 0c0 -198 209 -335 209 -533c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -19 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 104 -95 208 -167 283h-16v250h16z" transform="translate(38.9257, 8.6729) scale(0.0040, -0.0040)"/>
+<path fill="currentColor" d="M0 0c0 -198 209 -335 209 -533c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -19 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 104 -95 208 -167 283h-16v250h16z" transform="translate(42.5103, 6.6729) scale(0.0040, -0.0040)"/>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-3.0000" x="-0.0650" transform="translate(42.4453, 9.6329)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:21:27:28" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(41.1941, 10.1329) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:32:44:45" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(40.9816, 16.0388)">
+<tspan>
+tī</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-2.5000" x="-0.0650" transform="translate(31.4906, 9.6329)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:32:26:27" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(28.5758, 16.0388)">
+<tspan>
+dzie</tspan>
+</text>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:21:17:18" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(30.2395, 10.6329) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:47:14:15" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.6163" font-family="sans-serif" transform="translate(30.2395, 6.5987)">
+<tspan>
+G</tspan>
+</text>
+<text fill="currentColor" text-anchor="start" font-size="2.6163" font-family="sans-serif" transform="translate(32.2539, 6.5987)">
+<tspan/>
+</text>
+<text fill="currentColor" text-anchor="start" font-size="2.6163" font-family="sans-serif" transform="translate(32.2539, 6.5987)">
+<tspan/>
+</text>
+<text fill="currentColor" text-anchor="start" font-size="1.8500" font-family="sans-serif" transform="translate(32.2539, 5.0987)">
+<tspan/>
+</text>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:21:31:32" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(43.8195, 10.6329) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:21:20:21" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(34.0611, 11.1329) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:32:50:51" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(43.1802, 16.0388)">
+<tspan>
+ru</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.1000" height="0.2000" width="1.9743" y="-0.1000" x="13.0379" transform="translate(2.2762, 26.3044)"/>
+<line y2="-0.0000" x2="79.6177" y1="-0.0000" x1="0.0500" stroke="currentColor" stroke-width="0.1000" stroke-linecap="round" stroke-linejoin="round" transform="translate(2.2762, 25.3044)"/>
+<line y2="-0.0000" x2="79.6177" y1="-0.0000" x1="0.0500" stroke="currentColor" stroke-width="0.1000" stroke-linecap="round" stroke-linejoin="round" transform="translate(2.2762, 24.3044)"/>
+<line y2="-0.0000" x2="79.6177" y1="-0.0000" x1="0.0500" stroke="currentColor" stroke-width="0.1000" stroke-linecap="round" stroke-linejoin="round" transform="translate(2.2762, 23.3044)"/>
+<line y2="-0.0000" x2="79.6177" y1="-0.0000" x1="0.0500" stroke="currentColor" stroke-width="0.1000" stroke-linecap="round" stroke-linejoin="round" transform="translate(2.2762, 22.3044)"/>
+<line y2="-0.0000" x2="79.6177" y1="-0.0000" x1="0.0500" stroke="currentColor" stroke-width="0.1000" stroke-linecap="round" stroke-linejoin="round" transform="translate(2.2762, 21.3044)"/>
+<rect fill="currentColor" ry="0.0000" height="4.0000" width="0.1900" y="-2.0000" x="0.0000" transform="translate(64.9422, 23.3044)"/>
+<rect fill="currentColor" ry="0.0000" height="4.0000" width="0.1900" y="-2.0000" x="0.0000" transform="translate(49.1805, 23.3044)"/>
+<path fill="currentColor" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" transform="translate(80.1039, 22.8044) scale(0.0040, -0.0040)"/>
+<path fill="currentColor" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" transform="translate(80.1039, 23.8044) scale(0.0040, -0.0040)"/>
+<rect fill="currentColor" ry="0.0000" height="4.0000" width="0.6000" y="-2.0000" x="0.0000" transform="translate(81.3439, 23.3044)"/>
+<rect fill="currentColor" ry="0.0000" height="4.0000" width="0.1900" y="-2.0000" x="0.0000" transform="translate(80.8539, 23.3044)"/>
+<rect fill="currentColor" ry="0.0000" height="4.0000" width="0.1900" y="-2.0000" x="0.0000" transform="translate(35.4042, 23.3044)"/>
+<path fill="currentColor" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" transform="translate(21.4322, 22.8044) scale(0.0040, -0.0040)"/>
+<path fill="currentColor" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" transform="translate(21.4322, 23.8044) scale(0.0040, -0.0040)"/>
+<rect fill="currentColor" ry="0.0000" height="4.0000" width="0.1900" y="-2.0000" x="0.0000" transform="translate(20.9422, 23.3044)"/>
+<rect fill="currentColor" ry="0.0000" height="4.0000" width="0.6000" y="-2.0000" x="0.0000" transform="translate(20.0422, 23.3044)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:25:8:9" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(61.5022, 24.8044) scale(0.0040, -0.0040)"/>
+</a>
+<path fill="currentColor" d="M0 0c0 -198 209 -335 209 -533c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -19 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 104 -95 208 -167 283h-16v250h16z" transform="translate(59.1885, 21.3444) scale(0.0040, -0.0040)"/>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-2.0000" x="-0.0650" transform="translate(59.1235, 23.3044)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:42:10:11" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(57.2330, 31.9640)">
+<tspan>
+be</tspan>
+</text>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:35:8:9" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(57.1817, 29.1640)">
+<tspan>
+gā</tspan>
+</text>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:25:5:6" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(57.8723, 24.8044) scale(0.0040, -0.0040)"/>
+</a>
+<path fill="currentColor" d="M0 0c0 -198 209 -335 209 -533c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -19 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 104 -95 208 -167 283h-16v250h16z" transform="translate(55.2940, 21.8444) scale(0.0040, -0.0040)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:35:14:15" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(61.1189, 29.1640)">
+<tspan>
+ja</tspan>
+</text>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:42:16:17" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(60.1799, 31.9640)">
+<tspan>
+kas</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-2.0000" x="-0.0650" transform="translate(62.7533, 23.3044)"/>
+<path fill="currentColor" d="M0 0c0 -198 209 -335 209 -533c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -19 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 104 -95 208 -167 283h-16v250h16z" transform="translate(62.8183, 21.3444) scale(0.0040, -0.0040)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:25:12:13" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(66.3277, 25.3044) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:35:17:18" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(65.6883, 29.1640)">
+<tspan>
+be</tspan>
+</text>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:42:20:21" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(64.9372, 31.9640)">
+<tspan>
+kus</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-1.5000" x="-0.0650" transform="translate(67.5789, 23.3044)"/>
+<path fill="currentColor" d="M0 0c0 -198 209 -335 209 -533c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -19 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 104 -95 208 -167 283h-16v250h16z" transform="translate(67.6439, 21.8444) scale(0.0040, -0.0040)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:24:23:24" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(46.2762, 25.8044) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:34:41:42" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(45.1589, 29.1640)">
+<tspan>
+tis,</tspan>
+</text>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:41:48:49" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(45.6369, 31.9640)">
+<tspan>
+ši,</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-1.0000" x="-0.0650" transform="translate(47.5274, 23.3044)"/>
+<path fill="currentColor" d="M0 0c0 -198 209 -335 209 -533c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -19 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 104 -95 208 -167 283h-16v250h16z" transform="translate(47.5924, 22.3444) scale(0.0040, -0.0040)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:25:0:1" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(50.3650, 24.3044) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:35:0:1" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(50.3403, 29.1640)">
+<tspan>
+a</tspan>
+</text>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:42:0:1" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(49.6574, 31.9640)">
+<tspan>
+ne</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-2.5000" x="-0.0650" transform="translate(51.6162, 23.3044)"/>
+<path fill="currentColor" d="M0 0c0 -198 209 -335 209 -533c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -19 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 104 -95 208 -167 283h-16v250h16z" transform="translate(51.6812, 20.8444) scale(0.0040, -0.0040)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:25:3:4" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(53.9778, 25.3044) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:35:5:6" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(53.5604, 29.1640)">
+<tspan>
+bi</tspan>
+</text>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:42:6:7" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(52.7410, 31.9640)">
+<tspan>
+var</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-1.5000" x="-0.0650" transform="translate(55.2290, 23.3044)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:42:30:31" style="color:inherit;">
+<rect fill="currentColor" ry="0.0400" height="0.1300" width="0.6600" y="-0.5500" x="0.0000" transform="translate(72.5573, 31.9640)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:42:24:25" style="color:inherit;">
+<rect fill="currentColor" ry="0.0400" height="0.1300" width="0.5706" y="-0.5500" x="0.0000" transform="translate(69.1044, 31.9640)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:35:20:21" style="color:inherit;">
+<rect fill="currentColor" ry="0.0400" height="0.1300" width="0.3000" y="-0.5500" x="0.0000" transform="translate(68.3093, 29.1640)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:42:13:14" style="color:inherit;">
+<rect fill="currentColor" ry="0.0400" height="0.1300" width="0.3000" y="-0.5500" x="0.0000" transform="translate(59.8539, 31.9640)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:35:11:12" style="color:inherit;">
+<rect fill="currentColor" ry="0.0400" height="0.1300" width="0.6600" y="-0.5500" x="0.0000" transform="translate(60.1690, 29.1640)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:42:3:4" style="color:inherit;">
+<rect fill="currentColor" ry="0.0400" height="0.1300" width="0.3000" y="-0.5500" x="0.0000" transform="translate(52.4149, 31.9640)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:35:2:3" style="color:inherit;">
+<rect fill="currentColor" ry="0.0400" height="0.1300" width="0.6600" y="-0.5500" x="0.0000" transform="translate(52.3032, 29.1640)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:41:45:46" style="color:inherit;">
+<rect fill="currentColor" ry="0.0400" height="0.1300" width="0.3000" y="-0.5500" x="0.0000" transform="translate(45.3108, 31.9640)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:34:38:39" style="color:inherit;">
+<rect fill="currentColor" ry="0.0400" height="0.1300" width="0.3000" y="-0.5500" x="0.0000" transform="translate(44.8072, 29.1640)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:41:39:40" style="color:inherit;">
+<rect fill="currentColor" ry="0.0400" height="0.1300" width="0.3000" y="-0.5500" x="0.0000" transform="translate(42.3297, 31.9640)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:34:32:33" style="color:inherit;">
+<rect fill="currentColor" ry="0.0400" height="0.1300" width="0.6600" y="-0.5500" x="0.0000" transform="translate(42.3460, 29.1640)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:41:33:34" style="color:inherit;">
+<rect fill="currentColor" ry="0.0400" height="0.1300" width="0.3000" y="-0.5500" x="0.0000" transform="translate(39.0071, 31.9640)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:34:26:27" style="color:inherit;">
+<rect fill="currentColor" ry="0.0400" height="0.1300" width="0.5194" y="-0.5500" x="0.0000" transform="translate(38.8804, 29.1640)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:41:23:24" style="color:inherit;">
+<rect fill="currentColor" ry="0.0400" height="0.1300" width="0.6600" y="-0.5500" x="0.0000" transform="translate(31.2936, 31.9640)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:34:15:16" style="color:inherit;">
+<rect fill="currentColor" ry="0.0400" height="0.1300" width="0.3000" y="-0.5500" x="0.0000" transform="translate(31.0297, 29.1640)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:34:9:10" style="color:inherit;">
+<rect fill="currentColor" ry="0.0400" height="0.1300" width="0.6067" y="-0.5500" x="0.0000" transform="translate(28.4491, 29.1640)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:41:14:15" style="color:inherit;">
+<rect fill="currentColor" ry="0.0400" height="0.1300" width="0.6600" y="-0.5500" x="0.0000" transform="translate(24.8843, 31.9640)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:34:3:4" style="color:inherit;">
+<rect fill="currentColor" ry="0.0400" height="0.1300" width="0.6600" y="-0.5500" x="0.0000" transform="translate(25.2514, 29.1640)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:33:52:53" style="color:inherit;">
+<rect fill="currentColor" ry="0.0400" height="0.1300" width="0.3000" y="-0.5500" x="0.0000" transform="translate(13.2950, 29.1640)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:33:46:47" style="color:inherit;">
+<rect fill="currentColor" ry="0.0400" height="0.1300" width="0.3000" y="-0.5500" x="0.0000" transform="translate(10.1090, 29.1640)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:25:15:16" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(69.9576, 25.3044) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:35:23:24" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(68.6353, 29.1640)">
+<tspan>
+kas</tspan>
+</text>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:42:27:28" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(69.7450, 31.9640)">
+<tspan>
+ti</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-1.5000" x="-0.0650" transform="translate(71.2087, 23.3044)"/>
+<path fill="currentColor" d="M0 0c0 -198 209 -335 209 -533c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -19 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 104 -95 208 -167 283h-16v250h16z" transform="translate(71.2737, 21.8444) scale(0.0040, -0.0040)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:25:17:18" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(75.8836, 25.8044) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:35:27:28" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(73.2980, 29.1640)">
+<tspan>
+lauzt,</tspan>
+</text>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:42:33:34" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(74.2882, 31.9640)">
+<tspan>
+nāt.</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-1.0000" x="-0.0650" transform="translate(77.1348, 23.3044)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:47:59:60" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.6163" font-family="sans-serif" transform="translate(15.6432, 19.7702)">
+<tspan>
+C</tspan>
+</text>
+<text fill="currentColor" text-anchor="start" font-size="2.6163" font-family="sans-serif" transform="translate(17.4528, 19.7702)">
+<tspan/>
+</text>
+<text fill="currentColor" text-anchor="start" font-size="2.6163" font-family="sans-serif" transform="translate(17.4528, 19.7702)">
+<tspan/>
+</text>
+<text fill="currentColor" text-anchor="start" font-size="1.8500" font-family="sans-serif" transform="translate(17.4528, 18.2702)">
+<tspan/>
+</text>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:22:33:34" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(15.6432, 26.3044) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:33:55:56" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(13.6211, 29.1640)">
+<tspan>
+ram!</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-0.5000" x="-0.0650" transform="translate(16.8944, 23.3044)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:24:0:1" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(22.8767, 24.3044) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:34:0:1" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(22.1008, 29.1640)">
+<tspan>
+Pē</tspan>
+</text>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:41:12:13" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(22.8519, 31.9640)">
+<tspan>
+a</tspan>
+</text>
+</a>
+<path fill="currentColor" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" transform="translate(25.4789, 23.8044) scale(0.0040, -0.0040)"/>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-2.5000" x="-0.0650" transform="translate(24.1279, 23.3044)"/>
+<path fill="currentColor" d="M0 0c0 -198 209 -335 209 -533c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -19 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 104 -95 208 -167 283h-16v250h16z" transform="translate(24.1929, 20.8444) scale(0.0040, -0.0040)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:24:5:6" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(26.6284, 25.3044) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:34:6:7" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(26.1939, 29.1640)">
+<tspan>
+te</tspan>
+</text>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:41:17:18" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(26.2110, 31.9640)">
+<tspan>
+bi</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-1.5000" x="-0.0650" transform="translate(27.8796, 23.3044)"/>
+<text fill="currentColor" text-anchor="start" font-size="1.7461" font-family="Century Schoolbook L" transform="translate(1.3202, 20.2202)">
+<tspan>
+8</tspan>
+</text>
+<path fill="currentColor" d="M376 262c4 0 9 1 13 1c155 0 256 -128 256 -261c0 -76 -33 -154 -107 -210c-22 -17 -47 -28 -73 -36c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -120 -90 -228 -208 -228c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95 c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65c96 0 157 92 163 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-29 -5 -58 -8 -89 -8c-188 0 -333 172 -333 374c0 177 131 306 248 441c-19 62 -37 125 -45 190c-6 52 -7 104 -7 156c0 115 55 224 149 292c3 2 7 3 10 3c4 0 7 0 10 -3 c71 -84 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207zM461 -203c68 24 113 95 113 164c0 90 -66 179 -173 190c24 -116 46 -231 60 -354zM74 28c0 -135 129 -247 264 -247c28 0 55 2 82 6c-14 127 -37 245 -63 364c-79 -8 -124 -61 -124 -119 c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-3 0 -6 1 -9 2c-80 43 -117 115 -117 185c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM408 1045c-99 -48 -162 -149 -162 -259c0 -74 18 -133 36 -194 c80 97 146 198 146 324c0 55 -4 79 -20 129z" transform="translate(3.0762, 24.3044) scale(0.0040, -0.0040)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:47:54:55" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.6163" font-family="sans-serif" transform="translate(8.0762, 19.7702)">
+<tspan>
+G</tspan>
+</text>
+<text fill="currentColor" text-anchor="start" font-size="2.6163" font-family="sans-serif" transform="translate(10.0907, 19.7702)">
+<tspan/>
+</text>
+<text fill="currentColor" text-anchor="start" font-size="2.6163" font-family="sans-serif" transform="translate(10.0907, 19.7702)">
+<tspan/>
+</text>
+<text fill="currentColor" text-anchor="start" font-size="1.8500" font-family="sans-serif" transform="translate(10.0907, 18.2702)">
+<tspan/>
+</text>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:22:27:28" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(8.0762, 23.8044) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:33:43:44" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(7.3856, 29.1640)">
+<tspan>
+va</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-3.0000" x="-0.0650" transform="translate(9.3274, 23.3044)"/>
+<path fill="currentColor" d="M0 0c0 -198 209 -335 209 -533c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -19 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 104 -95 208 -167 283h-16v250h16z" transform="translate(9.3924, 20.3444) scale(0.0040, -0.0040)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:22:31:32" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(11.1939, 24.3044) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:33:49:50" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(10.4351, 29.1640)">
+<tspan>
+ka</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-2.5000" x="-0.0650" transform="translate(12.4451, 23.3044)"/>
+<path fill="currentColor" d="M0 0c0 -198 209 -335 209 -533c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -19 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 104 -95 208 -167 283h-16v250h16z" transform="translate(12.5101, 20.8444) scale(0.0040, -0.0040)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:24:16:17" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(36.5988, 25.3044) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:34:23:24" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(35.7033, 29.1640)">
+<tspan>
+Mi</tspan>
+</text>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:41:29:30" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(35.5326, 31.9640)">
+<tspan>
+pie</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-1.5000" x="-0.0650" transform="translate(37.8499, 23.3044)"/>
+<path fill="currentColor" d="M0 0c0 -198 209 -335 209 -533c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -19 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 104 -95 208 -167 283h-16v250h16z" transform="translate(37.9149, 21.8444) scale(0.0040, -0.0040)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:24:19:20" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(40.1603, 25.3044) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:34:29:30" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(39.4697, 29.1640)">
+<tspan>
+ķe</tspan>
+</text>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:41:36:37" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(39.3332, 31.9640)">
+<tspan>
+ku</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-1.5000" x="-0.0650" transform="translate(41.4115, 23.3044)"/>
+<path fill="currentColor" d="M0 0c0 -198 209 -335 209 -533c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -19 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 104 -95 208 -167 283h-16v250h16z" transform="translate(41.4765, 21.8444) scale(0.0040, -0.0040)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:24:21:22" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(43.3122, 25.8044) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:34:35:36" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(43.1850, 29.1640)">
+<tspan>
+lī</tspan>
+</text>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:41:42:43" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(42.6557, 31.9640)">
+<tspan>
+su</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-1.0000" x="-0.0650" transform="translate(44.5633, 23.3044)"/>
+<path fill="currentColor" d="M0 0c0 -198 209 -335 209 -533c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -19 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 104 -95 208 -167 283h-16v250h16z" transform="translate(44.6283, 22.3444) scale(0.0040, -0.0040)"/>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-2.0000" x="-0.0650" transform="translate(30.6578, 23.3044)"/>
+<path fill="currentColor" d="M0 0c0 -198 209 -335 209 -533c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -19 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 104 -95 208 -167 283h-16v250h16z" transform="translate(30.7228, 21.3444) scale(0.0040, -0.0040)"/>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:41:20:21" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(28.9551, 31.9640)">
+<tspan>
+di</tspan>
+</text>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:34:12:13" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(29.1258, 29.1640)">
+<tspan>
+rī</tspan>
+</text>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:24:9:10" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(29.4067, 24.8044) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:24:12:13" style="color:inherit;">
+<path fill="currentColor" d="M220 138c56 0 109 -29 109 -91c0 -72 -56 -121 -103 -149c-36 -21 -76 -36 -117 -36c-56 0 -109 29 -109 91c0 72 56 121 103 149c36 21 76 36 117 36z" transform="translate(32.4732, 24.8044) scale(0.0040, -0.0040)"/>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:34:18:19" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(31.3558, 29.1640)">
+<tspan>
+tis,</tspan>
+</text>
+</a>
+<a xlink:href="textedit:///home/kalvis/workspace/ddgatve-songs/songs/lilypond/SurpJanaBerni.ly:41:26:27" style="color:inherit;">
+<text fill="currentColor" text-anchor="start" font-size="2.4696" font-family="Century Schoolbook L" transform="translate(32.0728, 31.9640)">
+<tspan>
+vi</tspan>
+</text>
+</a>
+<rect fill="currentColor" ry="0.0400" height="3.3122" width="0.1300" y="-2.0000" x="-0.0650" transform="translate(33.7243, 23.3044)"/>
+<path fill="currentColor" d="M0 0c0 -198 209 -335 209 -533c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -19 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 104 -95 208 -167 283h-16v250h16z" transform="translate(33.7893, 21.3444) scale(0.0040, -0.0040)"/>
+<path fill="currentColor" d="M0 0c0 -178 203 -292 203 -470c0 -33 -9 -65 -23 -95c18 -37 29 -75 29 -117c0 -63 -16 -125 -42 -183c-5 -8 -12 -12 -19 -12c-13 0 -26 11 -23 27c26 52 42 110 42 168c0 97 -95 191 -167 257v-75h-16v500h16zM153 -517c5 15 7 31 7 47c0 96 -91 190 -160 257 c0 -118 91 -206 153 -304z" transform="translate(27.9446, 21.8444) scale(0.0040, -0.0040)"/>
+<g color="rgb(100%, 100%, 100%)">
+<text fill="currentColor" text-anchor="start" font-size="1.9600" font-family="sans-serif" transform="translate(2.2762, 35.3044)">
+<tspan>
+ </tspan>
+</text>
+</g>
+<a xlink:href="http://lilypond.org/" transform="translate(13.8223, 165.1512)">
+<rect stroke-width="0.0" stroke="none" fill="none" height="2.0827" width="56.5755" y="-0.4439" x="0.0000"/>
+</a>
+<text fill="currentColor" text-anchor="start" font-size="2.2001" font-family="Century Schoolbook L" transform="translate(13.8223, 165.1512)">
+<tspan>
+Music engraving by LilyPond 2.18.2—www.lilypond.org</tspan>
+</text>
+</svg>
