@@ -28,6 +28,7 @@ def main():
     rmDirectory('target')
     copyDirectory('markdown/reveal.js', 'target/reveal.js')
     copyDirectory('markdown/svg', 'target/svg')
+    copyDirectory('markdown/midi', 'target/midi')
     shutil.copyfile('markdown/index.html', 'target/index.html')  
     resTypes = ['markdown']
     for resType in resTypes:
