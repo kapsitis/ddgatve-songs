@@ -32,7 +32,7 @@ def main():
     resTypes = ['markdown']
     for resType in resTypes:
         ROOT = resType
-        subDirectories = set(next(os.walk(ROOT))[1]).difference(set(['svg', 'reveal.js']))
+        subDirectories = set(next(os.walk(ROOT))[1]).difference(set(['midi', 'svg', 'reveal.js']))
         for dd in subDirectories:
             print('Processing with pandoc/reveal, dir=%s' % dd)
             srcPath = 'index.md'

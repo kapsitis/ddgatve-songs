@@ -36,8 +36,9 @@
 
 ![notis](../svg/CeliesiBralitiAuniesiKajas.svg)
 
-[YouTube](https://www.youtube.com/watch?v=tOaCHBRdNs8)
-[YouTube](https://www.youtube.com/watch?v=ozhjb9yKiEI)
+
+[YouTube](https://youtu.be/tOaCHBRdNs8)
+[YouTube](https://youtu.be/ozhjb9yKiEI?t=9)
 [MIDI](../midi/CeliesiBralitiAuniesiKajas.midi)
 
 <hgroup> 
@@ -604,6 +605,7 @@ Pa maliņu maliņām.
 ![notis](../svg/TekuTekuPaCelin-u.svg)
 
 [YouTube](https://youtu.be/OLuTD8rNs9U)
+[MIDI](../midi/TekuTekuPaCelin-u.midi)
 
 <hgroup>
 
@@ -655,6 +657,8 @@ Visu mūžu līgaviņu.
 # <lo-sample/> #12: Ozoliņi, ozoliņi
 
 ![notis](../svg/OzoliniOzolini.svg)
+
+[MIDI](../midi/OzoliniOzolini.midi)
 
 <hgroup>
 
@@ -741,6 +745,8 @@ Tur Jānīša goda vieta.
 
 ![notis](../svg/NacNakdamaJanuDiena.svg)
 
+[MIDI](../midi/NacNakdamaJanuDiena.midi)
+
 <hgroup>
 
 1. Nāc nākdama, Jāņu diena,   
@@ -785,6 +791,8 @@ Kā ap zaļu āboliņu.
 # <lo-sample/> #14: Labvakari, Jāņa māte
 
 ![notis](../svg/LabvakariJanaMate.svg)
+
+[MIDI](../midi/LabvakariJanaMate.midi)
 
 
 <hgroup>
@@ -846,6 +854,7 @@ Netrūkst salda alutiņa.
 
 ![notis](../svg/KasSpidejaKasVizeja.svg)
 
+[MIDI](../midi/KasSpidejaKasVizeja.midi)
 
 
 <hgroup>
@@ -950,6 +959,7 @@ Arājami gavilēti!
 ![notis](../svg/LabvakarRudzuLauks.svg)
 
 [YouTube](https://youtu.be/MAjL4D1n0do?t=10)
+[MIDI](../midi/LabvakarRudzuLauks.midi)
 
 <hgroup>
 
@@ -998,6 +1008,7 @@ Mīļās Māras norakstīti.
 ![notis](../svg/DievinsBridaRudzuLauku.svg)
 
 [YouTube.alt](https://youtu.be/Mop29Q10CcU)
+[MIDI](../midi/DievinsBridaRudzuLauku.midi)
 
 <hgroup>
 
@@ -1045,7 +1056,7 @@ Jāņa tēva tīrumā.
 
 ![notis](../svg/EsRedzejuJanuNakti.svg)
 
-
+[MIDI](../midi/EsRedzejuJanuNakti.midi)
 
 <hgroup>
 
@@ -1083,6 +1094,8 @@ Jele vienu birzumiņu.
 # <lo-sample/> #19: Jūs, māsiņas, nezināti
 
 ![notis](../svg/Ju-sMa-sin-asNezina-ti.svg)
+
+[MIDI](../midi/Ju-sMa-sin-asNezina-ti.midi)
 
 <hgroup>
 
@@ -1134,6 +1147,7 @@ Pienā muti nomazgāju.
 ![notis](../svg/N-emJa-ni-tiBaltuZirgu.svg)
 
 [YouTube](https://youtu.be/8a93yheMNZ0)
+[MIDI](../midi/N-emJa-ni-tiBaltuZirgu.midi)
 
 <hgroup>
 
@@ -1186,6 +1200,7 @@ Kā Jānīša cepurīte.
 ![notis](../svg/N-emJa-ni-tiMelnuZirgu.svg)
 
 [YouTube](https://youtu.be/a73Ej5rfrzw)
+[MIDI](../midi/N-emJa-ni-tiMelnuZirgu.midi)
 
 <hgroup>
 
@@ -1234,6 +1249,7 @@ Jāņu nakti staigājot.
 ![notis](../svg/TiesaTiesaNeMelini.svg)
 
 [YouTube](https://youtu.be/omJEQ4jkLrc)
+[MIDI](../midi/TiesaTiesaNeMelini.midi)
 
 <hgroup>
 
@@ -1279,6 +1295,8 @@ Apkārt manu augumiņu.
 # <lo-sample/> #23: Jāņa mātes pagalmā
 
 ![notis](../svg/Ja-n-aMa-tesPagalma-i.svg)
+
+[MIDI](../midi/Ja-n-aMa-tesPagalma-i.midi)
 
 <hgroup>
 
@@ -1364,6 +1382,8 @@ Jāņa bērnus gaidīdama.
 
 ![notis](../svg/SauleBridaMiglajosi.svg)
 
+[MIDI](../midi/SauleBridaMiglajosi.midi)
+
 <hgroup>
 
 1. Saule brida miglājos  
@@ -1408,6 +1428,7 @@ Kā saulīte rotājas.
 ![notis](../svg/Saku-rosiUguntin-u.svg)
 
 [YouTube](https://youtu.be/_aQkiUbJ84s)
+[MIDI](../midi/Saku-rosiUguntin-u.midi)
 
 <hgroup>
 
@@ -1452,6 +1473,8 @@ Ar balto dvēselīt.
 
 ![notis](../svg/SanacietiJanaBerni.svg)
 
+[MIDI](../midi/SanacietiJanaBerni.midi)
+
 <hgroup>
 
 1. Sanācieti, Jāņa bērni,  
@@ -1494,6 +1517,8 @@ Ar rozēmi izrotātus.
 # <lo-sample/> #27: Sit, Jānīti, vara bungas
 
 ![notis](../svg/SitJanitiVaraBungas.svg)
+
+[MIDI](../midi/SitJanitiVaraBungas.midi)
 
 <hgroup>
 
@@ -1575,11 +1600,12 @@ Līdz saulīte rotāsiesi.
 
 
 
-# <lo-sample/> #28: Ai, Jānīti, Dieva dēls
+# <lo-sample/> #28: Ai, Jānīti, Dieva dēls ... cepurīti
 
 ![notis](../svg/AiJanitiDievaDels.svg)
 
 [YouTube](https://youtu.be/30drcoQaczg?t=9)
+[MIDI](../midi/AiJanitiDievaDels.midi)
 
 <hgroup>
 
@@ -1623,7 +1649,9 @@ Meitām ziedu vainadziņus.
 
 # <lo-sample/> #29: Jānīts sēde ozolāje 
 
-![notis](../svg/Ja-ni-tsSe-deOzola-je.svg) 
+![notis](../svg/Ja-ni-tsSe-deOzola-je.svg)
+
+[MIDI](../midi/Ja-ni-tsSe-deOzola-je.midi) 
 
 <hgroup>
 
@@ -1667,10 +1695,11 @@ Pats pa vidu grozījāsi.
 
 
 
-# <lo-sample/> #30: Ai, Jānīti, Dieva Dēls
+# <lo-sample/> #30: Ai, Jānīti, Dieva Dēls ... augumiņu
 
 ![notis](../svg/AiJa-ni-tiDievaDe-lsi.svg)
 
+[MIDI](../midi/AiJa-ni-tiDievaDe-lsi.midi)
 
 <hgroup>
 
@@ -1742,6 +1771,7 @@ Meitas vītu vainadziņu.
 ![notis](../svg/Ja-ni-tsSavuKumelin-u.svg)
 
 [YouTube.alt](https://youtu.be/A3-J9fqJmkw)
+[MIDI](../midi/Ja-ni-tsSavuKumelin-u.midi)
 
 <hgroup>
 
@@ -1790,6 +1820,8 @@ Ar sudraba sprāģīšiem(i).
 
 ![notis](../svg/JauJa-ni-tisAizvakar.svg)
 
+[MIDI](../midi/JauJa-ni-tisAizvakar.midi)
+
 <hgroup>
 
 1. Jau Jānītis aizvakar  
@@ -1830,6 +1862,8 @@ Kā saulīte rotājās.
 # <lo-sample/> #33: Rāmi, rāmi Jānīts brauca
 
 ![notis](../svg/Ra-miRa-miJa-ni-tsBrauca.svg)
+
+[MIDI](../midi/Ra-miRa-miJa-ni-tsBrauca.midi)
 
 <hgroup>
 
@@ -1917,6 +1951,7 @@ Vainadziņu darināja.
 ![notis](../svg/NelistLietusNelistLietus.svg)
 
 [YouTube](https://youtu.be/pivxyO_5-YA)
+[MIDI](../midi/NelistLietusNelistLietus.midi)
 
 <hgroup>
 
@@ -1948,6 +1983,7 @@ Kalnā Jāņu uguntiņu.
 ![notis](../svg/Spi-gul-oSauli-t.svg)
 
 [YouTube](https://youtu.be/VL-bjrxRDx0?t=12)
+[MIDI](../midi/Spi-gul-oSauli-t.midi)
 
 1. Spīguļo saulīt  
 Met melnu jūrā  
@@ -1965,6 +2001,7 @@ Ar ozola vālītēm.
 ![notis](../svg/VisuDienuLietin-s-Lija.svg)
 
 [YouTube.alt](https://youtu.be/HuaLdaj9n78)
+[MIDI](../midi/VisuDienuLietin-s-Lija.midi)
 
 <hgroup>
 
@@ -2011,6 +2048,7 @@ Pār to manu augumiņ'.
 ![notis](../svg/AizejLietin-Ru-kdamsKaukdams.svg)
 
 [YouTube](https://www.youtube.com/watch?v=0-qcXRqZfo8)
+[MIDI](../midi/AizejLietin-Ru-kdamsKaukdams.midi)
 
 1. Aizej, lietiņ, rūkdams, kaukdams   
 Aiz tiem jūras lieliem vaļņiem,   
@@ -2062,6 +2100,8 @@ Atnāc, Saulīte, spīguļodama!
 # <lo-sample/> #38: Ai jūs puiši, ai jūs meitas
 
 ![notis](../svg/AiJusPuisiAiJusMeitas.svg)
+
+[MIDI](../midi/AiJusPuisiAiJusMeitas.midi)
 
 <hgroup>
 
@@ -2115,6 +2155,7 @@ Tas mūžiņu nogulēja.
 ![notis](../svg/NeguluNeguluJanisaNakti.svg)
 
 [YouTube](https://youtu.be/cEufEFph9os)
+[MIDI](../midi/NeguluNeguluJanisaNakti.midi)
 
 1. Neguļu, neguļu Jānīša nakti,  
 Lai mani rudzīši veldrē nekrīt. 
@@ -2140,6 +2181,7 @@ Lai mani zirniņi veldrē nekrīt.
 ![notis](../svg/Li-goJa-ni-ti.svg)
 
 [YouTube](https://youtu.be/Y2UeSGudMR0)
+[MIDI](../midi/Li-goJa-ni-ti.midi)
 
 <hgroup>
 
@@ -2238,6 +2280,7 @@ Atrada laimi.
 ![notis](../svg/JanisamiTrejiVarti.svg)
 
 [YouTube](https://www.youtube.com/watch?v=2_It8-2atd4)
+[MIDI](../midi/JanisamiTrejiVarti.midi)
 
 <hgroup>
 
@@ -2287,6 +2330,7 @@ Vakarā noiedama.
 ![notis](../svg/KasTurSpi-daKasTurMirdza.svg)
 
 [YouTube](https://www.youtube.com/watch?v=LSZvCDWnS1U)
+[MIDI](../midi/KasTurSpi-daKasTurMirdza.midi)
 
 <hgroup>
 
@@ -2347,6 +2391,8 @@ Zelta puķe rociņā.
 
 ![notis](../svg/KasToTeicaTasMeloja.svg)
 
+[MIDI](../midi/KasToTeicaTasMeloja.midi)
+
 <hgroup>
 
 1. Kas to teica, tas meloja,   
@@ -2397,6 +2443,7 @@ Es jaunoi arājiņu.
 ![notis](../svg/Para-diesTuSauli-te.svg)
 
 [YouTube](https://www.youtube.com/watch?v=Zm3WoAlU2cw)
+[MIDI](../midi/Para-diesTuSauli-te.midi)
 
 <hgroup>
 
@@ -2449,6 +2496,7 @@ Kaut jel vienu atzarīt.
 
 [YouTube.alt](https://www.youtube.com/watch?v=PmhV9XBwueI)
 [YouTube.alt](https://www.youtube.com/watch?v=HCMlrrZMvpk)
+[MIDI](../midi/Ta-Saci-jaTa-BijTiesa.midi)
 
 <hgroup>
 
@@ -2528,6 +2576,7 @@ Pašā Jāņu rītiņā.
 ![notis](../svg/TuratiesiTuratiesi.svg)
 
 [YouTube](https://youtu.be/hetYyfe0Igw)
+[MIDI](../midi/TuratiesiTuratiesi.midi)
 
 <hgroup>
 
@@ -2607,6 +2656,8 @@ Ne tā manis darināta.
 # <lo-sample/> #47: Jāņa bērni sanākuši
 
 ![notis](../svg/Ja-n-aBe-rniSana-kus-i.svg)
+
+[MIDI](../midi/Ja-n-aBe-rniSana-kus-i.midi)
 
 <hgroup>
 
@@ -2712,6 +2763,7 @@ Otrs ķērnes laizītājs.
 ![notis](../svg/VijDievin-iZeltaViju.svg)
 
 [YouTube](https://www.youtube.com/watch?v=wo18ph3RISg&t=18)
+[MIDI](../midi/VijDievin-iZeltaViju.midi)
 
 <hgroup>
 
@@ -2747,6 +2799,8 @@ Manā sētā ziedu raut.
 # <lo-sample/> #49: Nedod, Dievis, man bēdiņu
 
 ![notis](../svg/NedodDievisManBe-din-u.svg)
+
+[MIDI](../midi/NedodDievisManBe-din-u.midi)
 
 <hgroup>
 
@@ -2795,6 +2849,7 @@ Basajāmi kājiņām'!
 ![notis](../svg/VisiMez-iGuniDega.svg)
 
 [YouTube](https://www.youtube.com/watch?v=iheImmWywYI)
+[MIDI](../midi/VisiMez-iGuniDega.midi)
 
 <hgroup>
 
@@ -2840,6 +2895,7 @@ Asariņu paltītē.
 ![notis](../svg/Avota-iGuniKu-ru.svg)
 
 [YouTube](https://www.youtube.com/watch?v=LrHUouz2Ujo)
+[MIDI](../midi/Avota-iGuniKu-ru.midi)
 
 <hgroup>
 
@@ -2884,6 +2940,7 @@ Līdz pašām debesīm.
 ![notis](../svg/LaiBijVardiKamBijVardi.svg)
 
 [YouTube](https://www.youtube.com/watch?v=QPrckXS7MA4)
+[MIDI](../midi/LaiBijVardiKamBijVardi.midi)
 
 <hgroup>
 
@@ -2973,6 +3030,7 @@ Ap to manu mājas viet'.
 
 ![notis](../svg/JanitsJanuVakara.svg)
 
+[MIDI](../midi/JanitsJanuVakara.midi)
 
 <hgroup>
 
@@ -3014,7 +3072,7 @@ Mēs ar prieku saņemsimi.
 
 ![notis](../svg/Samaisi-juIemauktin-us.svg)
 
-
+[MIDI](../midi/Samaisi-juIemauktin-us.midi)
 
 <hgroup>
 
@@ -3094,6 +3152,7 @@ Tad mēs tevi gaidīsim.
 [YouTube](https://www.youtube.com/watch?v=gVQGhZcEUSI)
 [YouTube.alt](https://www.youtube.com/watch?v=lNtPHLa7zEg)
 [YouTube.alt](https://youtu.be/v2SB9ogfh3o)
+[MIDI](../midi/IebraucaSauliteAbeluDarza2.midi)
 
 <hgroup>
 
@@ -3133,6 +3192,7 @@ No zelta, sudraba, no dimantiņa.
 ![notis](../svg/SauleDevaSavMeitin-u.svg)
 
 [YouTube](https://www.youtube.com/watch?v=7CYDGoZi624)
+[MIDI](../midi/SauleDevaSavMeitin-u.midi)
 
 <hgroup>
 
@@ -3173,6 +3233,7 @@ Saules meitas vedējiem.
 
 [YouTube](https://www.youtube.com/watch?v=h2t9ZWk9jFc)
 [YouTube](https://www.youtube.com/watch?v=FJye77CdrOw&t=30)
+[MIDI](../midi/SauleBraucaPa-rDebesi.midi)
 
 <hgroup>
 
@@ -3209,6 +3270,7 @@ Dod man savu labumiņu.
 ![notis](../svg/SauleMeituIzdevusi.svg)
 
 [YouTube](https://www.youtube.com/watch?v=cHYyLQW_Y6w&t=40)
+[MIDI](../midi/SauleMeituIzdevusi.midi)
 
 <hgroup>
 
@@ -3258,6 +3320,7 @@ Tur tu baltas sarullēsi.
 
 [YouTube](https://www.youtube.com/watch?v=ahrVBxk5urM)
 [YouTube](https://www.youtube.com/watch?v=SzLVjHS2pfg)
+[MIDI](../midi/SkersuDienuSauleTeka.midi)
 
 <hgroup>
 
@@ -3309,6 +3372,7 @@ Krustiem tek(a) kumeliņ'.
 ![notis](../svg/AiSauli-teMe-nestinjiKa-Ju-sSkaistiMijaties2.svg)
 
 [YouTube](https://www.youtube.com/watch?v=w0Ab-R9p608)
+[MIDI](../midi/AiSauli-teMe-nestinjiKa-Ju-sSkaistiMijaties2.midi)
 
 <hgroup>
 
@@ -3362,6 +3426,7 @@ Tur tek ziemu Mēnestiņš.
 ![notis](../svg/SudrabotiGailiDzied2.svg)
 
 [YouTube](https://www.youtube.com/watch?v=TjD7YJEsuvw)
+[MIDI](../midi/SudrabotiGailiDzied2.midi)
 
 <hgroup>
 
@@ -3408,6 +3473,7 @@ Saules meitas gredzentiņu.
 ![notis](../svg/Ga-juGa-juGaruCel-u.svg)
 
 [YouTube](https://www.youtube.com/watch?v=a22w8wUuvEQ)
+[MIDI](../midi/Ga-juGa-juGaruCel-u.midi)
 
 <hgroup>
 
@@ -3449,6 +3515,8 @@ Ceļam gala nezināj'.
 # <lo-sample/> #63: Riti, Saulīt, ritēdama
 
 ![notis](../svg/RitiSauli-tRite-dama.svg)
+
+[MIDI](../midi/RitiSauli-tRite-dama.midi)
 
 <hgroup>
 
@@ -3502,6 +3570,7 @@ Atstāj laivu līgojot.
 
 [YouTube.alt](https://www.youtube.com/watch?v=-unOZJVOJ-I)
 [YouTube.alt](https://www.youtube.com/watch?v=jXCyHfWYzSo)
+[MIDI](../midi/TumsaTumsaKasParTumsu.midi)
 
 <hgroup>
 
@@ -3550,6 +3619,7 @@ Triju staru vainadziņu.
 ![notis](../svg/G-e-rbiesSauleSudrabota.svg)
 
 [YouTube](https://www.youtube.com/watch?v=AW5s6DXPuVk)
+[MIDI](../midi/G-e-rbiesSauleSudrabota.midi)
 
 <hgroup>
 
@@ -3628,6 +3698,7 @@ Sudrabā(i) kaldināj'.
 ![notis](../svg/DindaruDandaruOzolini.svg)
 
 [YouTube](https://www.youtube.com/watch?v=ozhjb9yKiEI&feature=youtu.be&t=325)
+[MIDI](../midi/DindaruDandaruOzolini.midi)
 
 <hgroup>
 
@@ -3665,6 +3736,7 @@ tad apkārt lēkātāju var būt vairāki.
 
 [YouTube](https://www.youtube.com/watch?v=5gcjGGsmu9w)
 [YouTube](https://www.youtube.com/watch?v=iB99QJwrWI0&t=20)
+[MIDI](../midi/LielaisJanisKalnina.midi)
 
 
 1. Lielais Jānis kalniņāi strīķē savu izkaptiņ'.  
@@ -3704,6 +3776,7 @@ Ja nepaspēj samainīties, tad dzied otro panta pusi vēlreiz.
 
 [YouTube](https://www.youtube.com/watch?v=3f5XFxLKKic)
 [YouTube](https://youtu.be/ozhjb9yKiEI?t=173)
+[MIDI](../midi/Perkonitis.midi)
 
 <hgroup>
 
@@ -3773,6 +3846,7 @@ dejo sparīgu Apaļo polku pa dejas ceļu.
 ![notis](../svg/PinuPinuSietu.svg)
 
 [YouTube](https://www.youtube.com/watch?v=KP_3N8yG-qM)
+[MIDI](../midi/PinuPinuSietu.midi)
 
 1. Pinu, pinu sietu, sapinu vainagu,  
 Sapinu vainagu no zaļas zāles.   
@@ -3804,6 +3878,7 @@ t.i., pa kreisi. Atpīšanu beidzot, izveidojas tāda pati virkne kā sākumā.
 
 [YouTube](https://www.youtube.com/watch?v=QC7MeWMe32g) 
 [YouTube](https://www.youtube.com/watch?v=cLMaGhgRZWY)
+[MIDI](../midi/SurpJanaBerni.midi)
 
 1. Šurp, Jāņa bērni, dziedāsim tīrumā,  
 Dziedāsim skaņi līdz vēlam vakaram!  
@@ -3847,8 +3922,8 @@ Abi divi piekusuši, nevar bekas kustināt.
 
 <hgroup style="font-size:85%">
 
-Ai, Jānīti, Dieva dēls [#28](#ai-jānīti-dieva-dēls)  
-Ai, Jānīti, Dieva Dēls [#30](#ai-jānīti-dieva-dēls-1)  
+Ai, Jānīti, Dieva dēls ... cepurīti [#28](#ai-jānīti-dieva-dēls)  
+Ai, Jānīti, Dieva dēls ... augumiņu [#30](#ai-jānīti-dieva-dēls-1)  
 Ai jūs puiši, ai jūs meitas [#38](#ai-jūs-puiši-ai-jūs-meitas)  
 Ai, Saulīte, Mēnestiņi [#60](#ai-saulīte-mēnestiņi)  
 Aizej, lietiņ, rūkdams, kaukdams [#37](#aizej-lietiņ-rūkdams-kaukdams)  
