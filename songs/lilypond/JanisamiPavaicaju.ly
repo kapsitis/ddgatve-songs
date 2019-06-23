@@ -14,7 +14,7 @@ ragged-last = ##f
 }
 
 
-voiceA = \transpose d a \relative c' {
+voiceA = \transpose d a { \relative c' {
 \clef "treble"
 \key d \minor
 \time 2/4
@@ -27,7 +27,8 @@ g8 f bes a | g8 f e f
 \time 3/4
 c4 d2
 }
-} 
+}
+}
 
 
 

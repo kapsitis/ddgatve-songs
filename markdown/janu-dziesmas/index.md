@@ -3922,8 +3922,8 @@ Abi divi piekusuši, nevar bekas kustināt.
 
 <hgroup style="font-size:85%">
 
-Ai, Jānīti, Dieva dēls ... cepurīti [#28](#ai-jānīti-dieva-dēls)  
-Ai, Jānīti, Dieva dēls ... augumiņu [#30](#ai-jānīti-dieva-dēls-1)  
+Ai, Jānīti, Dieva dēls ... cepurīti [#28](#ai-jānīti-dieva-dēls-cepurīti)  
+Ai, Jānīti, Dieva dēls ... augumiņu [#30](#ai-jānīti-dieva-dēls-augumiņu)  
 Ai jūs puiši, ai jūs meitas [#38](#ai-jūs-puiši-ai-jūs-meitas)  
 Ai, Saulīte, Mēnestiņi [#60](#ai-saulīte-mēnestiņi)  
 Aizej, lietiņ, rūkdams, kaukdams [#37](#aizej-lietiņ-rūkdams-kaukdams)  
@@ -4027,6 +4027,9 @@ Zaļa, zaļa, skaļa, skaļa [#9](#zaļa-zaļa-skaļa-skaļa)
 
 # <lo-summary/> Melodiju kontūru kodi
 
+Var gadīties, ka līgotņu melodija, kurai vēlaties atrast citas balsis vai akordus, 
+ir šajā krājumā, bet ar citiem vārdiem. 
+Šis ir melodiju rādītājs, kurš izmanto tikai melodijas "kontūru", nevis precīzus nošu augstumus. 
 [Parsona kods](https://en.wikipedia.org/wiki/Parsons_code): Aiz pirmās nots `*` raksta
 `U`, ja melodija iet uz augšu, `D`, ja uz leju, R, ja skaņa
 atkārtojas. "Aijā žūžu" kods: `*UUUUDDUUUDDDURDDURDUUDD`.
