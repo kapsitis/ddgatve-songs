@@ -1,3 +1,6 @@
+.project
+.pydevproject
+__pycache__
 *.class
 /.cache
 png/*.png

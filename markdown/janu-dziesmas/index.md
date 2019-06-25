@@ -1056,6 +1056,7 @@ Jāņa tēva tīrumā.
 
 ![notis](../svg/EsRedzejuJanuNakti.svg)
 
+[YouTube](https://youtu.be/FujrY-SzGKI)
 [MIDI](../midi/EsRedzejuJanuNakti.midi)
 
 <hgroup>
@@ -1095,6 +1096,8 @@ Jele vienu birzumiņu.
 
 ![notis](../svg/Ju-sMa-sin-asNezina-ti.svg)
 
+[YouTube](https://youtu.be/VXJpIBocNys?t=7)
+[YouTube](https://youtu.be/VXJpIBocNys?t=62)
 [MIDI](../midi/Ju-sMa-sin-asNezina-ti.midi)
 
 <hgroup>
@@ -1605,6 +1608,7 @@ Līdz saulīte rotāsiesi.
 ![notis](../svg/AiJanitiDievaDels.svg)
 
 [YouTube](https://youtu.be/30drcoQaczg?t=9)
+[YouTube](https://youtu.be/VXJpIBocNys?t=435)
 [MIDI](../midi/AiJanitiDievaDels.midi)
 
 <hgroup>
@@ -1651,6 +1655,7 @@ Meitām ziedu vainadziņus.
 
 ![notis](../svg/Ja-ni-tsSe-deOzola-je.svg)
 
+[YouTube](https://youtu.be/VXJpIBocNys?t=240)
 [MIDI](../midi/Ja-ni-tsSe-deOzola-je.midi) 
 
 <hgroup>
@@ -3072,6 +3077,9 @@ Mēs ar prieku saņemsimi.
 
 ![notis](../svg/Samaisi-juIemauktin-us.svg)
 
+[YouTube](https://youtu.be/5tlqxlvIAsM)
+[YouTube](https://youtu.be/VXJpIBocNys?t=180)
+[YouTube](https://youtu.be/Cd9yKDc47PE)
 [MIDI](../midi/Samaisi-juIemauktin-us.midi)
 
 <hgroup>
@@ -3697,7 +3705,8 @@ Sudrabā(i) kaldināj'.
 
 ![notis](../svg/DindaruDandaruOzolini.svg)
 
-[YouTube](https://www.youtube.com/watch?v=ozhjb9yKiEI&feature=youtu.be&t=325)
+[YouTube](https://youtu.be/ozhjb9yKiEI?t=325)
+[YouTube](https://youtu.be/VXJpIBocNys?t=340)
 [MIDI](../midi/DindaruDandaruOzolini.midi)
 
 <hgroup>
@@ -4025,7 +4034,7 @@ Zaļa, zaļa, skaļa, skaļa [#9](#zaļa-zaļa-skaļa-skaļa)
 
 
 
-# <lo-summary/> Melodiju kontūru kodi
+# <lo-summary/> Melodiju kontūru kodi - 1
 
 Var gadīties, ka līgotņu melodija, kurai vēlaties atrast citas balsis vai akordus, 
 ir šajā krājumā, bet ar citiem vārdiem. 
@@ -4035,14 +4044,128 @@ ir šajā krājumā, bet ar citiem vārdiem.
 atkārtojas. "Aijā žūžu" kods: `*UUUUDDUUUDDDURDDURDUUDD`.
 
 
+<div style="font-size:75%">
+
+<b style="font-family:monospace">&#42;DDD</b> `*DDDURURDUDDR` - Lai bij vārdi, kam bij vārdi - [#52](#lai-bij-vārdi-kam-bij-vārdi)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*DDDUUUDRDUDR` - Jānīts Jāņu vakarā - [#53](#jānīts-jāņu-vakarā)  
+<b style="font-family:monospace">&#42;DDR</b> `*DDRUDDRUDUDU` - Ai, Jānīti, Dieva dēls - [#28](#ai-jānīti-dieva-dēls-cepurīti)  
+<b style="font-family:monospace">&#42;DDU</b> `*DDUUDDUUDUDD` - Nelīst lietus, nelīst lietus - [#34](#nelīst-lietus-nelīst-lietus)  
+<b style="font-family:monospace">&#42;DRD</b> `*DRDRUDUUDDUU` - Trīs kalniņi noziedēja - [#7](#trīs-kalniņi-noziedēja)  
+<b style="font-family:monospace">&#42;DRR</b> `*DRRRUDRUDRUD` - Spīguļo, Saulīt - [#35](#spīguļo-saulīt)  
+
+</div>
+
+
+# <lo-summary/> Melodiju kontūru kodi - 2
+
+
+<div style="font-size:75%">
+
+<b style="font-family:monospace">&#42;DRR</b> `*DRRUDRRURUDR` - Gāju, gāju garu ceļu - [#62](#gāju-gāju-garu-ceļu)  
+<b style="font-family:monospace">&#42;DUD</b> `*DUDDDDRRURDR` - Visi meži gunī dega - [#50](#visi-meži-gunī-dega)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*DUDDDURRDUDR` - Tā sacīja, tā bij tiesa  - [#45](#tā-sacīja-tā-bij-tiesa)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*DUDRURRDRURR` - Līgo, Jānīti - [#40](#līgo-jānīti)  
+<b style="font-family:monospace">&#42;DUR</b> `*DURRDDUDDUUR` - Ņem, Jānīti, melnu zirgu - [#21](#ņem-jānīti-melnu-zirgu)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*DURRRDDUDUDU` - Teku, teku pa celiņu - [#11](#teku-teku-pa-celiņu)  
+<b style="font-family:monospace">&#42;DUU</b> `*DUUDDUUDDUUR` - Ģērbies, Saule, sudrabota - [#65](#ģērbies-saule-sudrabota)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*DUURDDDDRUUD` - Samaisīju iemauktiņus - [#54](#samaisīju-iemauktiņus)  
+<b style="font-family:monospace">&#42;RDD</b> `*RDDUDRRRUUDU` - Jānīšami treji vārti - [#41](#jānīšami-treji-vārti)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*RDDUDRURDDUD` - Sakūrosi uguntiņu - [#25](#sakūrosi-uguntiņu)  
+<b style="font-family:monospace">&#42;RDR</b> `*RDRDURDURRDU` - Jānīts brauca katru gadu - [#10](#jānīts-brauca-katru-gadu)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*RDRURDRUUUDR` - Kas to teica, tas meloja - [#43](#kas-to-teica-tas-meloja)  
+<b style="font-family:monospace">&#42;RDU</b> `*RDURDDRUDDUR` - Ai, Jānīti, Dieva Dēls - [#30](#ai-jānīti-dieva-dēls-augumiņu)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*RDUURDUUDUDU` - Kas spīdēja, kas vizēja - [#15](#kas-spīdēja-kas-vizēja)  
+<b style="font-family:monospace">&#42;RRD</b> `*RRDDRRUUDURR` - Jāņa bērni sanākuši - [#47](#jāņa-bērni-sanākuši)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*RRDURRDURDDD` - Lielais Jānis kalniņā - [#67](#lielais-jānis-kalniņā)  
+
+</div>
+
+
+
+# <lo-summary/> Melodiju kontūru kodi - 3
+
+
+<div style="font-size:75%">
+
+<b style="font-family:monospace">&#42;RRD</b> `*RRDURRUDRRRR` - Ņem, Jānīti, baltu zirgu - [#20](#ņem-jānīti-baltu-zirgu)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*RRDUURRDURDU` - Līgojati, līgojati - [#2](#līgojati-līgojati)  
+<b style="font-family:monospace">&#42;RRR</b> `*RRRDRDUUDUDU` - Tiesa, tiesa ne meliņi - [#22](#tiesa-tiesa-ne-meliņi)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*RRRRDDUUDUUD` - Es redzēju jāņu nakti - [#18](#es-redzēju-jāņu-nakti)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*RRRRDRRRUDUR` - Saule brida miglājos - [#24](#saule-brida-miglājos)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*RRRRDRRURDDR` - Jau Jānītis aizvakar - [#32](#jau-jānītis-aizvakar)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*RRRRRRRUDRRR` - Dindaru, dandaru - [#66](#dindaru-dandaru)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*RRRURDRUUUDR` - Sit, Jānīti, vara bungas - [#27](#sit-jānīti-vara-bungas)  
+<b style="font-family:monospace">&#42;RRU</b> `*RRUDDDUDDURR` - Saule meitu izdevusi - [#58](#saule-meitu-izdevusi)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*RRUDRRDRDDUU` - Negulu, negulu Jānīša nakti - [#39](#negulu-negulu-jānīša-nakti)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*RRURDRRUDRRU` - Nedod, Dievis, man bēdiņu - [#49](#nedod-dievis-man-bēdiņu)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*RRUUDDRRURUU` - Jāņa mātes pagalmā - [#23](#jāņa-mātes-pagalmā)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*RRUUDDUDRRRR` - Saule deva sav' meitiņu - [#56](#saule-deva-sav-meitiņu)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*RRUUDDUUDUDD` - Visu dienu lietiņš lija - [#36](#visu-dienu-lietiņš-lija)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*RRUUDDUUUDUR` - Rāmi, rāmi Jānīts brauca - [#33](#rāmi-rāmi-jānīts-brauca)  
+<b style="font-family:monospace">&#42;RUD</b> `*RUDUDDDUDUUD` - Nāc nākdama, Jāņu diena - [#13](#nāc-nākdama-jāņu-diena)  
+
+</div>
+
+
+
+
+
+# <lo-summary/> Melodiju kontūru kodi - 4
+
+
+<div style="font-size:75%">
+
+<b style="font-family:monospace">&#42;RUD</b> `*RUDUDURDRUDU` - Pār gadskārtu Jānīts nāca - [#3](#pār-gadskārtu-jānīts-nāca)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*RUDURDDUDRUR` - Saule brauca pār debesi - [#57](#saule-brauca-pār-debesi)  
+<b style="font-family:monospace">&#42;RUR</b> `*RURDDRRRRURD` - Jānīts sēde ozolāje  - [#29](#jānīts-sēde-ozolāje)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*RURDDUUDDRUR` - Tumsa, tumsa, kas par tumsu - [#64](#tumsa-tumsa-kas-par-tumsu)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*RURDRRRDDRRU` - Pērkonītis - [#68](#pērkonītis)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*RURUDDDUDDUU` - Es Jums saku, Jāņa bērni - [#4](#es-jums-saku-jāņa-bērni)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*RURUDURUUDDU` - Riti, Saulīt, ritēdama - [#63](#riti-saulīt-ritēdama)  
+<b style="font-family:monospace">&#42;RUU</b> `*RUUUDUDUURDU` - Vij, Dieviņi, zelta viju - [#48](#vij-dieviņi-zelta-viju)  
+<b style="font-family:monospace">&#42;UDD</b> `*UDDDURRDDUDD` - Sudraboti gaiļi dzied - [#61](#sudraboti-gaiļi-dzied)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*UDDUUDDRRUDD` - Aizej, lietiņ, rūkdams, kaukdams - [#37](#aizej-lietiņ-rūkdams-kaukdams)  
+<b style="font-family:monospace">&#42;UDR</b> `*UDRDDUDRDUDU` - Celiesi, brālīti, auniesi kājas - [#1](#celiesi-brālīti-auniesi-kājas)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*UDRDDUUDRDRR` - Iebrauca Saulīte ābeļu dārzā - [#55](#iebrauca-saulīte-ābeļu-dārzā)  
+<b style="font-family:monospace">&#42;UDU</b> <red>`*UDUDDDDDUDUD`</red> - Jānīšami pavaicāju - [#5](#jānīšami-pavaicāju)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> <red>`*UDUDDDDDUDUD`</red> - Jūs, māsiņas, nezināti - [#19](#jūs-māsiņas-nezināti)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*UDUDDRUUDUDD` - Ai, Saulīte, Mēnestiņi - [#60](#ai-saulīte-mēnestiņi)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*UDUUDUUDDDRD` - Labvakar, rudzu lauks - [#16](#labvakar-rudzu-lauks)  
+
+</div>
+
+
+
+# <lo-summary/> Melodiju kontūru kodi - 5
+
+
+<div style="font-size:75%">
+
+<b style="font-family:monospace">&#42;URD</b> `*URDUDDDRURDU` - Kas tur spīda, kas tur mirdza - [#42](#kas-tur-spīda-kas-tur-mirdza)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*URDUDDRUDUDU` - Labvakari, Jāņa māte - [#14](#labvakari-jāņa-māte)  
+<b style="font-family:monospace">&#42;URR</b> `*URRDDDDRUUDU` - Parādies tu, saulīte - [#44](#parādies-tu-saulīte)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*URRRDDUUDUDR` - Sanāciet, Jāņa bērni - [#26](#sanāciet-jāņa-bērni)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*URRRDDUUDUUR` - Jānīts savu kumeliņu - [#31](#jānīts-savu-kumeliņu)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*URRRDRRUUUDR` - Līgo lauki, līgo pļavas - [#6](#līgo-lauki-līgo-pļavas)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*URRUDRDDUUUD` - Zaļa, zaļa, skaļa, skaļa - [#9](#zaļa-zaļa-skaļa-skaļa)  
+<b style="font-family:monospace">&#42;URU</b> `*URURDDDRUUDD` - Ozoliņi, ozoliņi - [#12](#ozoliņi-ozoliņi)  
+<b style="font-family:monospace">&#42;UUD</b> `*UUDDDDRUUUUD` - Ai jūs puiši, ai jūs meitas - [#38](#ai-jūs-puiši-ai-jūs-meitas)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*UUDDUUUDUDDD` - Avotāi guni kūru - [#51](#avotāi-guni-kūru)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*UUDUDDDRUUDU` - Šķērsu dienu saule teka - [#59](#šķērsu-dienu-saule-teka)  
+<b style="font-family:monospace">&#42;UUR</b> `*UURRDUDDUURR` - Turatiesi, turatiesi - [#46](#turatiesi-turatiesi)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*UURUDDDRURRU` - Dieviņš brida rudzu lauku - [#17](#dieviņš-brida-rudzu-lauku)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*UURUDDUUUUDU` - Viena pati jāņu zāle - [#8](#viena-pati-jāņu-zāle)  
+<b style="font-family:monospace">&#42;UUU</b> `*UUUUDDDUDDDU` - Šurp, Jāņa bērni - [#70](#šurp-jāņa-bērni)  
+<b style="font-family:monospace">&nbsp;&nbsp;&nbsp;&nbsp;</b> `*UUUUUDUDDRRD` - Pinu, pinu sietu - [#69](#pinu-pinu-sietu)  
+
+</div>
+
+
 
 <!--
 https://youtu.be/UjEip30ThFI - Skandinieki - "Visu gadu" (Official audio)
 https://youtu.be/K9o48NOG--k - Latvian folk song - Teku, teku pa celiņu (latviešu Līgo tautasdziesma)
-https://youtu.be/5tlqxlvIAsM - Skandinieki - Liela, resna Jāņu māte
-https://youtu.be/FujrY-SzGKI - Skandinieki - Laima brida auzu lauku
-https://youtu.be/VXJpIBocNys - Latvia: Summer Solstice (Jaņi) 2006 with Skandinieki
+https://youtu.be/VXJpIBocNys?t=23 (Sanākati jāņa bērni, sagaidati Jāņu dien')
 https://youtu.be/QM2jwSAuhRM - Skandinieki - Ai, Jānīša vakariņš
-https://youtu.be/Cd9yKDc47PE - Trio (Šmite, Kārkle, Cinkuss)- Jānīts brauca katru gadu
 -->
 
