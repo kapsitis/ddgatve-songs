@@ -1,4 +1,6 @@
-\version "2.13.16" 
+\version "2.13.18"
+#(ly:set-option 'crop #t)
+ 
 %\header {
 % title = "Šķērsu dienu saule teka"
 %}
@@ -38,7 +40,7 @@ fontSize = #-3
 } { 
   \key e \minor
   << \new Voice = "voiceAB" { \oneVoice \autoBeamOff e2.( d4 | e2.) r4 }
-  \lyricsto "voiceAB" \new Lyrics { tiņš. } >>    
+  \new Lyrics \lyricsto "voiceAB"  { tiņš. } >>    
 }
 >> \oneVoice
 
@@ -66,7 +68,7 @@ fullScore = <<
 \new Staff {
 <<
 \new Voice = "voiceA" { \oneVoice \autoBeamOff \voiceA }
-\lyricsto "voiceA" \new Lyrics \lyricA
+\new Lyrics \lyricsto "voiceA" \lyricA
 >>
 }
 >>

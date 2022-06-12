@@ -6,6 +6,9 @@ xmlns:fo="http://www.w3.org/1999/XSL/Format" >
 <xsl:output method="xml" encoding="UTF-8"/>
 <xsl:output indent="yes"/>
 
+<xsl:variable name="ourCalibri" select="'Calibri'" />
+<xsl:variable name="ourVerdana" select="'Calibri'" />
+
 <xsl:template match="/">
 <fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xlink="http://www.w3.org/1999/xlink">
 <fo:layout-master-set>
@@ -88,14 +91,16 @@ xmlns:fo="http://www.w3.org/1999/XSL/Format" >
 
 <fo:page-sequence master-reference="toc" format="i">
 <fo:static-content flow-name="xsl-region-before-evenpage">
-<fo:block line-height="14pt" font-size="12pt" font-family="Calibri" 
+<fo:block line-height="14pt" font-size="12pt"
   text-align="outside">
+<xsl:attribute name="font-family"><xsl:value-of select="$ourCalibri"/></xsl:attribute>
 <fo:page-number/>
 </fo:block>
 </fo:static-content>
 <fo:static-content flow-name="xsl-region-before-oddpage">
-<fo:block line-height="14pt" font-size="12pt" font-family="Calibri" 
+<fo:block line-height="14pt" font-size="12pt"
   text-align="outside">
+<xsl:attribute name="font-family"><xsl:value-of select="$ourCalibri"/></xsl:attribute>
 <fo:page-number/>
 </fo:block>
 </fo:static-content>
@@ -105,14 +110,16 @@ xmlns:fo="http://www.w3.org/1999/XSL/Format" >
 <fo:block space-before.optimum="3pt" space-after.optimum="50pt">
 </fo:block>
 
-<fo:block text-align="center" font-family="Verdana" font-weight="bold" font-size="28pt" space-before.optimum="3pt" space-after.optimum="15pt">
+<fo:block text-align="center" font-weight="bold" font-size="28pt" space-before.optimum="3pt" space-after.optimum="15pt">
+<xsl:attribute name="font-family"><xsl:value-of select="$ourVerdana"/></xsl:attribute>
 <xsl:value-of select="book/title"/>
 </fo:block>
 
 <fo:block space-before.optimum="3pt" space-after.optimum="20pt">
 </fo:block>
 
-<fo:block  text-align="center"  font-size="16pt"  font-family="Verdana" >
+<fo:block  text-align="center"  font-size="16pt">
+<xsl:attribute name="font-family"><xsl:value-of select="$ourVerdana"/></xsl:attribute>
 <xsl:value-of select="book/subtitle"/>
 </fo:block>
 
@@ -123,7 +130,8 @@ xmlns:fo="http://www.w3.org/1999/XSL/Format" >
 <xsl:value-of select="book/publisher"/>
 </fo:block>
       
-<fo:block  text-align="center" font-size="16pt"  font-family="Calibri" >
+<fo:block  text-align="center" font-size="16pt">
+<xsl:attribute name="font-family"><xsl:value-of select="$ourCalibri"/></xsl:attribute>
 <xsl:value-of select="book/location"/>&#160;&#160;<xsl:value-of select="book/year"/>
 </fo:block>
       
@@ -159,20 +167,22 @@ Priekšvārds
 </xsl:for-each>
  -->
 
-<fo:block  break-before="page" text-align="center"  font-size="16pt"  font-family="Verdana" >
+<fo:block  break-before="page" text-align="center"  font-size="16pt">
+<xsl:attribute name="font-family"><xsl:value-of select="$ourVerdana"/></xsl:attribute>
 Satura rādītājs
 </fo:block>
 
 <fo:table>
 <fo:table-column column-width="14cm"/>
 <fo:table-column column-width="1cm"/>
-<fo:table-body font-size="14pt" font-family="Calibri">
+<fo:table-body font-size="14pt">
+<xsl:attribute name="font-family"><xsl:value-of select="$ourCalibri"/></xsl:attribute>
 
 <xsl:for-each select="book/section">
 <fo:table-row line-height="14pt">
 <fo:table-cell><fo:block text-align="start" font-weight="bold"
   space-after=".1in" text-align-last="justify">
-<xsl:value-of select="@id"/> daļa: <xsl:value-of select="title"/>
+(<xsl:value-of select="@id"/>) <xsl:value-of select="title"/>
 <fo:leader leader-pattern="dots" 
   leader-pattern-width="5pt"/>
 </fo:block></fo:table-cell>
@@ -180,6 +190,11 @@ Satura rādītājs
 <fo:block text-align="end"><fo:page-number-citation ref-id="{generate-id(.)}"/></fo:block>
 </fo:table-cell>
 </fo:table-row>  
+
+
+
+
+
 
 
 <xsl:for-each select="song|empty">
@@ -224,6 +239,24 @@ ref-id="{concat('empty_',position())}"/></fo:block>
 </xsl:for-each>
 </fo:table-body>
 </fo:table>
+
+<xsl:for-each select="book/foreword/p">
+<xsl:if test="position()=1">
+<fo:block break-before="page" text-align="left"  font-size="12pt"  
+  space-after.optimum="10pt" font-family="Calibri" >
+<xsl:value-of select="."/>
+</fo:block>	
+</xsl:if>
+<xsl:if test="position()&gt;1">
+<fo:block text-align="left"  font-size="12pt"  
+  space-after.optimum="10pt" font-family="Calibri" >
+<xsl:value-of select="."/>
+</fo:block>	
+</xsl:if>
+</xsl:for-each>
+
+
+
 </fo:flow>
 </fo:page-sequence>
 
@@ -241,8 +274,7 @@ ref-id="{concat('empty_',position())}"/></fo:block>
 <fo:block 
   text-align-last="justify" 
   font-size="12pt"
-  font-family="Calibri"
-  space-after.optimum="3pt">
+  space-after.optimum="3pt"><xsl:attribute name="font-family"><xsl:value-of select="$ourCalibri"/></xsl:attribute>
    <fo:page-number/>
    <fo:leader leader-pattern="space"/>
    <xsl:value-of select="book/title"/>
@@ -257,9 +289,8 @@ ref-id="{concat('empty_',position())}"/></fo:block>
 <fo:static-content flow-name="xsl-region-before-oddpage">
 <fo:block 
   text-align-last="justify" 
-  font-size="12pt"
-  font-family="Calibri"
-  space-after.optimum="3pt">
+  font-size="12pt"  
+  space-after.optimum="3pt"><xsl:attribute name="font-family"><xsl:value-of select="$ourCalibri"/></xsl:attribute>
    <fo:retrieve-marker retrieve-class-name="sectitle"/>
    <fo:leader leader-pattern="space"/>
    <fo:page-number/>
@@ -275,9 +306,10 @@ ref-id="{concat('empty_',position())}"/></fo:block>
 <xsl:for-each select="book/section">
 
 <fo:block id="{generate-id(.)}"  text-align="left" break-before="page"  font-size="14pt"  
-space-after.optimum="10pt" font-family="Verdana" font-weight="bold">
-<fo:marker marker-class-name="sectitle"><xsl:value-of select="@id"/> daļa: <xsl:value-of select="title"/></fo:marker>
-<xsl:value-of select="@id"/> daļa: <xsl:value-of select="title"/>
+space-after.optimum="10pt" font-weight="bold">
+<xsl:attribute name="font-family"><xsl:value-of select="$ourVerdana"/></xsl:attribute>
+<fo:marker marker-class-name="sectitle">(<xsl:value-of select="@id"/>) <xsl:value-of select="title"/></fo:marker>
+(<xsl:value-of select="@id"/>) <xsl:value-of select="title"/>
 </fo:block>	  
       
 <xsl:apply-templates select="song|empty">
@@ -300,7 +332,8 @@ space-after.optimum="10pt" font-family="Verdana" font-weight="bold">
 <xsl:template match="empty">
 <fo:block text-align="center" font-size="16pt" 
 id="{concat('empty_',position())}"
-font-family="Calibri" font-weight="normal" font-style="italic">
+font-weight="normal" font-style="italic">
+<xsl:attribute name="font-family"><xsl:value-of select="$ourCalibri"/></xsl:attribute>
 <!--<xsl:if test="position()&gt;1"><xsl:attribute name="break-before">page</xsl:attribute></xsl:if>--> 
 <xsl:value-of select="count(preceding-sibling::*[(self::song and not(attribute::isVariant)) or 
   self::endVariants or self::empty])+1"/>.&#xA0;<xsl:value-of select="@title"/>
@@ -309,6 +342,7 @@ font-family="Calibri" font-weight="normal" font-style="italic">
 
 <xsl:template match="song">
 <xsl:param name="id" select="@id"/>
+<xsl:param name="qrcode" select="@qrcode"/>
 <xsl:param name="narrator" select="document(concat('../build-book/xml/', $id, '.xml'))/html/body/div[@class='narrator']"/>
 <xsl:param name="source" select="document(concat('../build-book/xml/', $id, '.xml'))/html/body/div[@class='sources']"/>
 <xsl:param name="genre" select="document(concat('../build-book/xml/', $id, '.xml'))/html/body/div[@class='genre']"/>
@@ -318,7 +352,8 @@ font-family="Calibri" font-weight="normal" font-style="italic">
 
 <fo:block text-align="center" font-size="16pt" 
 id="{concat('song_',@id)}"
-font-family="Calibri" font-weight="normal" font-style="normal">
+font-weight="normal" font-style="normal">
+<xsl:attribute name="font-family"><xsl:value-of select="$ourCalibri"/></xsl:attribute>
 <xsl:if test="position()&gt;1"><xsl:attribute name="break-before">page</xsl:attribute></xsl:if> 
 <xsl:value-of select="count(preceding::song)+1"/><!-- <xsl:value-of select="count(preceding-sibling::*[(self::song and not(attribute::isVariant)) or 
   self::endVariants or self::empty])+1"/>--><xsl:if test="@isVariant">
@@ -347,13 +382,14 @@ font-family="Calibri" font-weight="normal" font-style="normal">
   page-break-inside="avoid">
 <xsl:choose>
 <xsl:when test="count($source/p)=0">
-<fo:block margin-left="0pt" text-align="left" font-size="11pt" font-family="Calibri" 
-  font-weight="normal">&#160;</fo:block>
+<fo:block margin-left="0pt" text-align="left" font-size="11pt"
+  font-weight="normal"><xsl:attribute name="font-family"><xsl:value-of select="$ourCalibri"/></xsl:attribute>&#160;</fo:block>
 </xsl:when>
 <xsl:otherwise>
 <xsl:for-each select="$source/p">
-<fo:block margin-left="0pt" text-align="left" font-size="11pt" font-family="Calibri" 
+<fo:block margin-left="0pt" text-align="left" font-size="11pt"
   font-weight="normal">
+  <xsl:attribute name="font-family"><xsl:value-of select="$ourCalibri"/></xsl:attribute>
 <xsl:value-of select="span"/>
 <xsl:value-of select="text()"/>
 </fo:block>
@@ -366,8 +402,10 @@ font-family="Calibri" font-weight="normal" font-style="normal">
   padding-before="3pt" padding-after="3pt" 
   border-style="solid" border-color="black" border-width="0pt"
   page-break-inside="avoid">
-<fo:block margin-left="0pt" text-align="left" font-size="11pt" font-family="Calibri" 
+<fo:block margin-left="0pt" text-align="left" font-size="11pt"
   font-weight="normal">
+  <xsl:attribute name="font-family"><xsl:value-of select="$ourCalibri"/></xsl:attribute>
+  
 <xsl:value-of select="$narrator"/>
 </fo:block>
 </fo:table-cell>
@@ -406,6 +444,16 @@ sākums - <xsl:value-of select="substring-after($keys,'|')"/> pak.
 </xsl:if>
 -->
 
+<!--
+<xsl:if test="@qrcode"> 
+<fo:block margin-left="-10pt">
+<fo:external-graphic content-width="3cm">
+<xsl:attribute name="src">file:build-book/qr_svg/<xsl:value-of select="@id"/>.svg</xsl:attribute> 
+</fo:external-graphic>
+</fo:block>
+</xsl:if>
+-->
+
 <xsl:apply-templates select="document(concat('../build-book/xml/', $id, '.xml'))/html/body/div[@class='content']/(ol|p|table)"/>
 
 
@@ -414,16 +462,34 @@ sākums - <xsl:value-of select="substring-after($keys,'|')"/> pak.
 
 <xsl:template match="ol">
 <fo:list-block>
+
+<xsl:if test="@qrcode"> 
+<fo:list-item>
+<fo:list-item-label>
+<fo:block text-align="left" font-size="14pt"
+font-weight="normal" font-style="normal"><xsl:attribute name="font-family"><xsl:value-of select="$ourCalibri"/></xsl:attribute></fo:block>
+</fo:list-item-label>
+<fo:list-item-body>
+<fo:block margin-left="30pt">
+<fo:external-graphic content-width="5cm">
+<xsl:attribute name="src">file:build-book/qr_svg/<xsl:value-of select="@qrcode"/>.svg</xsl:attribute> 
+</fo:external-graphic>
+</fo:block>
+</fo:list-item-body>
+</fo:list-item>
+</xsl:if>
+
+
 <xsl:for-each select="li">
 
 <fo:list-item>
   <fo:list-item-label>
-    <fo:block text-align="left" font-size="14pt" font-family="Calibri" 
-font-weight="normal" font-style="normal"><xsl:value-of select="@title"/></fo:block>
+    <fo:block text-align="left" font-size="14pt"
+font-weight="normal" font-style="normal"><xsl:attribute name="font-family"><xsl:value-of select="$ourCalibri"/></xsl:attribute><xsl:value-of select="@title"/></fo:block>
   </fo:list-item-label>
   <fo:list-item-body>
-    <fo:block margin-left="20pt" text-align="left" font-size="14pt" font-family="Calibri" 
-font-weight="normal" font-style="normal"><xsl:apply-templates/></fo:block>
+    <fo:block margin-left="20pt" text-align="left" font-size="18pt"
+font-weight="normal" font-style="normal"><xsl:attribute name="font-family"><xsl:value-of select="$ourCalibri"/></xsl:attribute><xsl:apply-templates/></fo:block>
   </fo:list-item-body>
 </fo:list-item>
 </xsl:for-each>
@@ -433,8 +499,8 @@ font-weight="normal" font-style="normal"><xsl:apply-templates/></fo:block>
 
 
 <xsl:template match="p">
-<fo:block margin-left="0pt" text-align="left" font-size="14pt" font-family="Calibri" 
-font-weight="normal" font-style="italic"><xsl:value-of select="."/></fo:block>
+<fo:block margin-left="0pt" text-align="left" font-size="14pt"
+font-weight="normal" font-style="italic"><xsl:attribute name="font-family"><xsl:value-of select="$ourCalibri"/></xsl:attribute><xsl:value-of select="."/></fo:block>
 </xsl:template>
 
 

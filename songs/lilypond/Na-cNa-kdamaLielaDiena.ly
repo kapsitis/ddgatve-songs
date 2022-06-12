@@ -1,4 +1,5 @@
 ﻿\version "2.13.18"
+#(ly:set-option 'crop #t)
 \paper {
 line-width = 14\cm
 left-margin = 0.4\cm

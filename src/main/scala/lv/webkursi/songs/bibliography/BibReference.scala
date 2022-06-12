@@ -1,6 +1,6 @@
 package lv.webkursi.songs.bibliography
 
-import scala.reflect.BeanProperty
+//import scala.reflect.BeanProperty
 import scala.collection.mutable.HashMap
 import scala.xml.Node
 import scala.xml.NodeSeq

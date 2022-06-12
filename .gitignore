@@ -54,7 +54,8 @@ midi/*.mid
 /tmp
 
 /markdown/*/*.html
-
+source-files/
+.idea/
 
 
 

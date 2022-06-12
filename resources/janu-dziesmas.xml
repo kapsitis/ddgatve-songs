@@ -1,0 +1,287 @@
+<?xml version="1.0"?>
+<book>
+
+<title>Jāņu dziesmas</title>
+<subtitle> </subtitle>
+<location>Rīga</location>
+<publisher> </publisher>
+<year>2022-06-11</year>
+
+<edition-notice>
+Izdošanas datums: 2022.gada 6.jūnijs
+
+<!--
+Dziesmu pirmteksti: http://code.google.com/p/webkursi/
+
+Krājums PDF formātā: http://latvian-ebooks.googlecode.com/svn/trunk/
+
+Creative Commons BY-SA 3.0 license. http://creativecommons.org/licenses/by-sa/3.0/deed.lv
+Latvian folk songs. Chords, harmonizations, metadata edited by Katrīna Riekstiņa (jmrmv.lv).
+Use and distribute without limitations. If you alter, transform or 
+build upon this work, please retain this Creative Commons notice.
+
+ISBN: ...
+--> 
+</edition-notice> 
+
+
+<foreword>
+
+<p>Krājumā apkopotas gan līgotnes, gan vasaras posmam atbilstošas
+rotaļdejas un mitoloģiskās dziesmas. 
+Tipiskai dziesmai krājumā ir divi avoti - sākotnējais teicējs un folkloras grupa.
+Teicēji parasti dziedājuši vienbalsīgi un A.Jurjāna, E.Melngaiļa, vai J.Vītoliņa pirmavotā 
+melodijai dots viens vārdu pants.
+Mūsdienu folkloras grupas tam parasti pievieno
+jaunus pantus, papildu balsis un instrumentus.
+Lai ikviens varētu atrast kaut ko savai gaumei, 
+dziesmas dotas ar ievērojamu rezervi un sakārtotas pa tēmām. 
+Tēmas aptuveni atbilst Jāņu norisei Ilgas Reiznieces un citu folkloristu 
+rīkotajās Jāņu apmācībās.</p>
+
+<p>Dziesmas piederību tēmai nosaka tās vārdi, 
+un to pašu līgotnes melodiju var dziedāt ar visdažādākajiem vārdiem. 
+Vārdu virknēšanai un improvizēšanai vajag materiāla izjūtu:  
+tautas dzejas likumsakarības ļauj turpināt teicēja oriģinālā doto četrrindi vairākos veidos.
+Dziesmu vārdi šajā krājumā parāda dažu folkloras grupas izvēles,
+tā nav negrozāma patiesība.
+Dziesmu vārdi papildus teicēja oriģinālam ņemti no 
+Kr.Barona un H.Visendorfa "Latvju dainām" un līdzīgiem tautasdziesmu avotiem. 
+Latgaliešu Jāņu dziesmas neesam iekļāvuši, tām būtu vajadzīgs
+atsevišķs krājums.</p>
+
+<!--
+// //
+
+
+== Dziesmu metainformācija un to meklēšana ==
+
+Krājumā ievietotās dziesmas salīdzinātas ar pirmavotiem, tām pievienotas piezīmes, 
+sākotnējā varianta teicēji un pierakstītāji (ja tie zināmi)
+diskogrāfija un cita papildu informācija. Esam centušies rūpigi nodalīt tās dziesmas, 
+kurām jau oriģinālā bija vairākas balsis no tām dziesmām, kuras harmonizētas vēlāk. 
+Lasītājs var arī viennozīmīgi noskaidrot, kura  balss ir galvenā. Ikvienai dziesmai 
+ir norādīti un klasifikatoros izmantoti vairāki parametri:
+
+* Dziesmas oriģināla avots - atsauce uz grāmatu. 
+* Oriģināla teicējs, dziesmas pierakstītājs, pierakstīšanas vieta un gads.
+* Oriģināla teicēja dzimšanas vieta vai arī cita ar dziesmas izcelsmi 
+saistāma ģeogrāfiska atsauce.
+* Dziesmas mūsdienu izpildījuma avots - disks, folkloras kopa, klips vai personīga komunikācija. 
+* Balsu skaits dziesmas oriģinālā un apdarē: 1B - vienbalsīga, 
+1B+1B - vienbalsīga ar vienu pierakstītu balsi, 2B - divbalsīga, burdons u.c.
+* Skaņkārta: mažors, dabīgais minors, harmoniskais minors, utml.
+* Diapazons - intervāls starp galvenās balss augšējo un apakšējo noti. 
+Atkarībā no diapazona atbilstoši A.Jurjāna [atsauce?] klasifikācijai 
+var izdalīt priekšvēsturiskas melodijas (līdz tīrai kvartai), 
+viduslaiku melodijas (no tīras kvintas līdz oktāvai), jauno laiku melodijas 
+(par oktāvu lielāks diapazons vai arī mūsdienu diatonikas izpausmes).
+* Apakšējās balss beigu pakāpe.
+* Apakšējās balss sākuma pakāpe (lūdzu ievērojiet, ka apakšējā balss var nebūt oriģinālā, 
+bet pierakstīta vēlāk).
+* Taktsmērs.
+* Taktu skaits dziesmā, ņemot vērā atkārtojumus un voltas.
+
+Lai krājumā varētu vieglāk atrast dziesmas, kurām lasītājs zina 
+melodijas sākumu (bet neatpazīst dziesmu pēc šajā krājumā dotā nosaukuma), 
+pielikumā ir izveidots melodiju sākuma motīvu rādītājs. 
+Ar šo metodi var atrast melodiju, ja zināmas dziesmas pirmās 1-2 taktis; šī rādītāja 
+izveides principus sk. pielikumā. Dots arī alfabētisks dziesmu nosaukumu rādītājs un 
+dziesmu avotu (gan oriģinālo, gan mūsdienu izpildījumu) bibliogrāfija.
+-->
+</foreword>
+
+
+<section id="A">
+<title>Jāņus sagaidot</title>
+<song dir="songs" id="CeliesiBralitiAuniesiKajas"/>
+<song dir="songs" id="EsJumsSakuJanaBerni"/>
+<song dir="songs" id="LigojatiLigojati"/>
+<song dir="songs" id="PaGadska-rtuJa-ni-tsNa-ca"/>
+</section>
+
+<section id="B">
+<title>Zāles lasot</title>
+<song dir="songs" id="JanisamiPavaicaju"/> 
+<song dir="songs" id="Ja-ni-tsBraucaKatruGad"/>
+<song dir="songs" id="LigoLaukiLigoPlavas"/>
+<song dir="songs" id="OzoliniOzolini"/>
+<song dir="songs" id="TekuTekuPaCelin-u"/>
+<song dir="songs" id="Tri-sKalnin-iNoziede-ja"/>
+<song dir="songs" id="VienaPatiJanuZale"/> 
+<song dir="songs" id="Zal-aZal-aSkal-aSkal-a"/>
+</section>
+
+<section id="C">
+<title>Jāņa mātes un tēva daudzināšana</title>
+<song dir="songs" id="NacNakdamaJanuDiena"/>
+<song dir="songs" id="KasSpidejaKasVizeja"/>
+<song dir="songs" id="LabvakariJanaMate"/>
+</section>
+
+
+<section id="D">
+<title>Aplīgo dārzus, sētu</title>
+<song dir="songs" id="DievinsBridaRudzuLauku"/>
+<song dir="songs" id="EsRedzejuJanuNakti"/>
+<song dir="songs" id="Ja-n-aMa-tesPagalma-i" qrcode="true"/>
+<song dir="songs" id="Ju-sMa-sin-asNezina-ti"/>
+<song dir="songs" id="LabvakarRudzuLauks"/>
+<song dir="songs" id="N-emJa-ni-tiBaltuZirgu"/>
+<song dir="songs" id="N-emJa-ni-tiMelnuZirgu"/>
+<song dir="songs" id="TiesaTiesaNeMelini"/>
+</section>
+
+
+<section id="E">
+<title>Uguni kurot</title>
+<song dir="songs" id="SauleBridaMiglajosi"/>
+<song dir="songs" id="Saku-rosiUguntin-u"/>   
+<song dir="songs" id="SanacietiJanaBerni"/>
+<song dir="songs" id="SitJanitiVaraBungas"/>
+</section>
+
+<section id="F">
+<title>Jāņa daudzināšana</title>
+<song dir="songs" id="Ja-ni-tsSe-deOzola-je"/> 
+<song dir="songs" id="AiJanitiDievaDels"/>
+<song dir="songs" id="AiJa-ni-tiDievaDe-lsi"/>
+<song dir="songs" id="Ja-ni-tsSavuKumelin-u"/>
+<song dir="songs" id="JauJa-ni-tisAizvakar" qrcode="true"/>
+<song dir="songs" id="Ra-miRa-miJa-ni-tsBrauca"/>
+</section>
+
+<section id="G">
+<title>Lietus aizdzīšana</title>
+<song dir="songs" id="AizejLietin-Ru-kdamsKaukdams"/>
+<song dir="songs" id="NelistLietusNelistLietus"/>
+<song dir="songs" id="Spi-gul-oSauli-t"/>
+<song dir="songs" id="VisuDienuLietin-s-Lija"/>
+</section>
+
+
+<section id="H">
+<title>Jāņu nakti neguļot</title>
+<song dir="songs" id="NeguluNeguluJanisaNakti"/>
+<song dir="songs" id="AiJusPuisiAiJusMeitas"/>
+<song dir="songs" id="Li-goJa-ni-ti"/>
+</section>
+
+
+<section id="I">
+<title>Apdziedāšanās</title>
+<song dir="songs" id="Ja-n-aBe-rniSana-kus-i"/>
+<song dir="songs" id="TuratiesiTuratiesi"/> 
+</section>
+
+
+<section id="J">
+<title>Saulei norietot un uzlecot</title>
+<song dir="songs" id="JanisamiTrejiVarti"/>
+<song dir="songs" id="KasToTeicaTasMeloja"/>
+<song dir="songs" id="Para-diesTuSauli-te"/> 
+<song dir="songs" id="KasTurSpi-daKasTurMirdza"/>
+<song dir="songs" id="SauleBridaMigla-jos"/>
+<song dir="songs" id="Ta-Saci-jaTa-BijTiesa"/>
+</section>
+
+<section id="K">
+<title>Pavadot Jāņu dienu</title>
+<song dir="songs" id="JanitsJanuVakara"/>  
+<song dir="songs" id="Samaisi-juIemauktin-us"/>
+</section>
+
+
+<section id="L"> 
+<title>Pielikums: Rotaļas, dejas</title>
+<song dir="songs" id="DindaruDandaruOzolini"/>
+<song dir="songs" id="LielaisJanisKalnina"/> 
+<song dir="songs" id="Perkonitis"/>
+<song dir="songs" id="PinuPinuSietu"/>   
+<song dir="songs" id="SurpJanaBerni"/>
+</section>
+
+
+<section id="M">
+<title>Pielikums: Saules dziesmas</title>
+<song dir="songs" id="AiSauli-teMe-nestinjiKa-Ju-sSkaistiMijaties2"/>
+<song dir="songs" id="Ga-juGa-juGaruCel-u"/>
+<song dir="songs" id="G-e-rbiesSauleSudrabota"/>
+<song dir="songs" id="IebraucaSauliteAbeluDarza2"/>
+<song dir="songs" id="SauleBraucaPa-rDebesi" qrcode="true"/>
+<song dir="songs" id="SauleDevaSavMeitin-u"/>
+<song dir="songs" id="SauleMeituIzdevusi"/>
+<song dir="songs" id="SudrabotiGailiDzied2"/>
+<song dir="songs" id="SkersuDienuSauleTeka"/>
+<song dir="songs" id="RitiSauli-tRite-dama"/>
+<song dir="songs" id="TumsaTumsaKasParTumsu" qrcode="true"/>
+</section>
+
+
+<section id="N">
+<title>Pielikums: Dieva daudzināšana</title>
+<song dir="songs" id="Avota-iGuniKu-ru"/>
+<song dir="songs" id="LaiBijVardiKamBijVardi"/>
+<song dir="songs" id="LeniLeniDievinsBrauca2"/>
+<song dir="songs" id="Na-cDievin-iUzMani-mi"/>
+<song dir="songs" id="NedodDievisManBe-din-u"/>
+<song dir="songs" id="PieDievin-aGariGaldi"/>
+<song dir="songs" id="VijDievin-iZeltaViju"/>
+<song dir="songs" id="VisiMez-iGuniDega"/>
+</section>
+
+
+
+
+<!-- 
+<song dir="songs" id="Ka-diZiediRudzi-s-ami" num="43"/>
+
+<song dir="songs" id="LeigojitiJuonuNakti" num="63"/>   
+
+<song dir="songs" id="SitJa-ni-tiVaraBungas2"/>
+
+
+
+<section id="D">
+<title>Jāņabērnu gaidīšana, ciemos iešana</title>
+<song dir="songs" id="BraucJa-ni-tiNuNoRi-gas" qrcode="true"/>   
+<song dir="songs" id="EsApsedzuSavGaldinu" num="19"/>
+<song dir="songs" id="EsTevLu-dzuJa-n-aTe-vs"/>  
+</section>
+
+<section id="E">
+<title>Saules pavadīšana</title>
+<song dir="songs" id="KusiKusiJaukiJauki" num="62"/>
+</section>
+
+<section id="F">
+<title>Jāņa daudzinājums</title>
+<song dir="songs" id="Ja-ni-s-amiTrejiVa-rti" num="56"/>
+<song dir="songs" id="Ja-ni-tsJa-jaVisuGadu" num="51"/>
+<song dir="songs" id="SitJa-ni-tiVaraBungas" num="41"/>
+</section>
+
+<section id="G">
+<title>Tumsas pārlaišana</title>
+<song dir="songs" id="AiJa-ni-s-aVakarin-is" num="44"/>
+<song dir="songs" id="Ja-nuDienaSve-taDiena" num="42"/>
+<song dir="songs" id="Juon-aDi-naSva-taDi-na" num="40"/>
+<song dir="songs" id="Juon-uMuoteSi-ruSe-ja" num="60"/>
+<song dir="songs" id="Juon-uNaktiMeitasGuoja" num="48"/>
+<song dir="songs" id="KurTece-siTuPeli-te_plain" num="61"/>
+<song dir="songs" id="RutojSaule" num="64"/>
+<song dir="songs" id="SudinUoraJuonaDina" num="65"/> 
+<song dir="songs" id="VienuRudzi-tiNominu" num="57"/>
+</section>
+
+<section id="H">
+<title>Saules gaidīšana</title>
+<song dir="songs" id="SauleGriezaZeltaRin-k-i" num="49"/> 
+</section>
+
+
+
+
+-->
+
+</book>

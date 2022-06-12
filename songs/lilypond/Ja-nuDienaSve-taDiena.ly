@@ -1,4 +1,6 @@
-\version "2.13.16"
+\version "2.13.18"
+#(ly:set-option 'crop #t)
+
 %\header {
 %    title = "Jāņa diena svēta diena"
 %}
@@ -73,8 +75,8 @@ fullScore = <<
 <<
 \new Voice = "voiceA" { \voiceOne \autoBeamOff \voiceA }
 \new Voice = "voiceB" { \voiceTwo \autoBeamOff \voiceB }
-\lyricsto "voiceA" \new Lyrics \lyricAA
-\lyricsto "voiceA" \new Lyrics \lyricAB
+\new Lyrics \lyricsto "voiceA" \lyricAA
+\new Lyrics \lyricsto "voiceA" \lyricAB
 >>
 }
 >>

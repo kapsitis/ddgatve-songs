@@ -1,4 +1,6 @@
-\version "2.13.16"
+\version "2.13.18"
+#(ly:set-option 'crop #t)
+
 %\header {
 %    title = "Pūti, pūti, ziemelīti"
 %}
@@ -55,8 +57,8 @@ fullScore = <<
 \new Voice = "voiceA" { \voiceOne \autoBeamOff \voiceA }
 \new Voice = "voiceB" { \voiceTwo \autoBeamOff \voiceB }
 \new Voice = "voiceC" { \voiceTwo \autoBeamOff \voiceC }
-\lyricsto "voiceA" \new Lyrics \lyricA
-\lyricsto "voiceB" \new Lyrics \lyricB
+\new Lyrics \lyricsto "voiceA" \lyricA
+\new Lyrics \lyricsto "voiceB" \lyricB
 >>
 }
 >>

@@ -1,4 +1,6 @@
-\version "2.13.16"
+\version "2.13.18"
+#(ly:set-option 'crop #t)
+
 %\header {
 %    title = "Sanācieti Jāņa bērni"
 %}
@@ -18,7 +20,7 @@ voiceA = \transpose d c { \relative c' {
 \clef "treble"
 \key d \major
 \time 2/4
-fis8 a a a | a8 g fis g | a4 fis | g4 fis |
+d8 fis fis fis | fis8 e d e | fis4 d | e4 d |
 fis8 a a b | a8 g fis g | a4 fis | g4 fis |
 \bar "|."
 } }
@@ -50,7 +52,7 @@ fullScore = <<
 \new Staff {
 <<
 \new Voice = "voiceA" { \voiceOne \autoBeamOff \voiceA }
-\lyricsto "voiceA" \new Lyrics \lyricA
+\new Lyrics \lyricsto "voiceA" \lyricA
 \new Voice = "voiceB" { \voiceTwo \autoBeamOff \voiceB }
 >>
 }

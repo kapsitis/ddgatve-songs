@@ -1,4 +1,5 @@
 ﻿\version "2.13.18"
+#(ly:set-option 'crop #t)
 \paper {
 line-width = 14\cm
 left-margin = 0.4\cm
@@ -7,6 +8,7 @@ between-system-space = 0.1\cm
 }
 % AALapas
 % Aurēdama, Vēja māte﻿\version "2.13.18"
+#(ly:set-option 'crop #t)
 \paper {
 line-width = 14\cm
 left-margin = 0.4\cm
@@ -66,7 +68,7 @@ fullScore = <<
 <<
 \new Voice = "voiceA" { \set midiInstrument = #"flute" \voiceOne \autoBeamOff \voiceA }
 \new Voice = "voiceB" { \set midiInstrument = #"flute" \voiceTwo \autoBeamOff \voiceB }
-\lyricsto "voiceA" \new Lyrics \lyricA
+\new Lyrics \lyricsto "voiceA" \lyricA
 >>
 }
 >>

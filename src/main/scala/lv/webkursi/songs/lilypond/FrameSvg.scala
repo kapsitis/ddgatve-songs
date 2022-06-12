@@ -14,12 +14,13 @@ object FrameSvg {
     val svgContent = XML.load(new FileInputStream(args(0)))
 
     // pick the least x-offset for all text snippets (most likely it's bar number)
-    val txts = svgContent \\ "text"
+    val txts = svgContent \\ "g"
     val txttransforms = txts map { _ \\ "@transform" }
     val xList = for (
       txttransform <- txttransforms
     ) yield projX(txttransform.head.text)
     val txtLeftSide = xList.min
+    println("txtLeftSide = " + txtLeftSide)
 
     // find all system lines; find by how much they are offset
     val lines = svgContent \\ "line"
@@ -71,7 +72,7 @@ object FrameSvg {
         leftSide + " " + topSide + " " + fullWidth + " " + fullHeight + "\">"
 
     val sss2 = svgElement + sss1.replaceFirst("""<svg[^<>]+>""", "")
-    val bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(args(1)), "UTF-8"))
+    val bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("_" + args(1)), "UTF-8"))
     bw.write(sss2)
     bw.close()
 

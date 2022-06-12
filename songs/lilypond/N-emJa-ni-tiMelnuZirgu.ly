@@ -1,4 +1,5 @@
 ﻿\version "2.13.18"
+#(ly:set-option 'crop #t)
 
 \paper {
 line-width = 14\cm
@@ -17,8 +18,8 @@ voiceA = \relative c' {
 \clef "treble"
 \key g \major
 \time 2/4
-d'8. a16 d8 d | d8 b a d | c4 b | c4 d | 
-d8. a16 d8 d | d8 b a d | c4 b | c4 d |
+d'8. a16 d8 d | d8 b a d | c4 b | c8[ d] d4 | 
+d8. a16 d8 d | d8 b a d | c4 b | c8[ d] d4 |
 d8. a16 d8 d | d8 b a d | c4 b\fermata |
 \bar"|."
 }
@@ -35,7 +36,7 @@ fullScore = <<
 \new Staff {
 <<
 \new Voice = "voiceA" { \oneVoice \autoBeamOff \voiceA }
-\lyricsto "voiceA" \new Lyrics  \lyricA
+\new Lyrics \lyricsto "voiceA"  \lyricA
 %\new Voice = "voiceB" { \voiceTwo \autoBeamOff \voiceB }
 >>
 }

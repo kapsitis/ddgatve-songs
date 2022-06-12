@@ -1,4 +1,6 @@
-\version "2.13.16"
+\version "2.13.18"
+#(ly:set-option 'crop #t)
+
 % \header {
 %    title = "Kur tecēsi, tu pelīte"
 %title = "Līgo pele"

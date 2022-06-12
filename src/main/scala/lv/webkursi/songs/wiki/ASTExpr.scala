@@ -15,5 +15,5 @@ abstract class ASTInline
 case class ASTPlain(s: String) extends ASTInline
 case class ASTItalic(e1: ASTInline) extends ASTInline
 case class ASTBold(e1: ASTInline) extends ASTInline
-case class ASTBreak extends ASTInline
+case class ASTBreak() extends ASTInline
 case class ASTSeq(exprs:List[ASTInline]) extends ASTInline

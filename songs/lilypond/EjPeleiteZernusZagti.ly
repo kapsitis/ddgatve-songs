@@ -1,4 +1,6 @@
-\version "2.13.16"
+\version "2.13.18"
+#(ly:set-option 'crop #t)
+
 %\header {
 %    title = "Ej, peleite, zērņus zagti"
 %}
@@ -51,7 +53,7 @@ fullScore = <<
 <<
 \new Voice = "voiceA" { \voiceOne \autoBeamOff \voiceA }
 \new Voice = "voiceB" { \voiceTwo \autoBeamOff \voiceB }
-\lyricsto "voiceA" \new Lyrics \lyricA
+\new Lyrics \lyricsto "voiceA" \lyricA
 >>
 }
 >>

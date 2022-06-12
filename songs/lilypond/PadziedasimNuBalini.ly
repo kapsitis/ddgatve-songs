@@ -1,4 +1,6 @@
-\version "2.13.16"
+\version "2.13.18"
+#(ly:set-option 'crop #t)
+
 %\header {
 % title = "Padziedāsim nu, bāliņi"
 %}
@@ -48,8 +50,8 @@ fullScore = <<
 \new Staff {
 <<
 \new Voice = "voiceA" { \oneVoice \autoBeamOff \voiceA }
-\lyricsto "voiceA" \new Lyrics \lyricAA
-\lyricsto "voiceA" \new Lyrics \lyricAB
+\new Lyrics \lyricsto "voiceA" \lyricAA
+\new Lyrics \lyricsto "voiceA" \lyricAB
 >>
 }
 >>

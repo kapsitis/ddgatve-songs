@@ -3,13 +3,26 @@
 <!ENTITY list SYSTEM "build.songs.txt">
 ]>
 <project name="webkursi-songs" basedir=".">
-	<taskdef resource="net/sf/antcontrib/antcontrib.properties" />
+	<taskdef resource="net/sf/antcontrib/antcontrib.properties" >
+    <classpath>
+    <pathelement location="c:/Users/kalvis.apsitis/workspace/ddgatve-songs/lib-ant/ant-contrib-1.0b3.jar"/>
+  </classpath>
+    </taskdef>
 
 	<target name="make">
 		<ant dir="../.." target="make" inheritAll="true" inheritRefs="true">
 			<property name="current.dir" value="${basedir}" />
 		</ant>
 	</target>
+    
+
+	<target name="aaatemp">    
+            <exec executable="C:/Program Files (x86)/LilyPond/usr/bin/lilypond.exe">
+			<arg value="-fsvg" />
+			<arg value="AiBaliniAiBalini.ly" />
+		</exec>
+	</target>
+
 
 	<target name="make-all">
 		&list;

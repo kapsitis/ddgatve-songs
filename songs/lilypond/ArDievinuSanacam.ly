@@ -1,4 +1,6 @@
-\version "2.13.16"
+\version "2.13.18"
+#(ly:set-option 'crop #t)
+
 %\header {
 %    title = "Ar Dieviņu sanācām"
 %}
@@ -63,10 +65,10 @@ fullScore = <<
 \new Staff {
 <<
 \new Voice = "voiceA" { \voiceOne \autoBeamOff \voiceA }
-\lyricsto "voiceA" \new Lyrics \lyricA
+\new Lyrics \lyricsto "voiceA" \lyricA
 \new Voice = "voiceB" { \voiceTwo \autoBeamOff \voiceB }
 \new Voice = "voiceD" { \voiceFour \autoBeamOff \voiceD }
-\lyricsto "voiceD" \new Lyrics \lyricD
+\new Lyrics \lyricsto "voiceD" \lyricD
 >>
 }
 >>

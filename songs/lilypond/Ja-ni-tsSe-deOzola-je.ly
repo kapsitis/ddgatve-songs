@@ -1,4 +1,6 @@
-\version "2.13.16"
+\version "2.13.18"
+#(ly:set-option 'crop #t)
+
 %\header {
 %    title = "Jānīts pūta vara tauri"
 %}
@@ -50,9 +52,9 @@ fullScore = <<
 \new Staff {
 <<
 \new Voice = "voiceA" { \voiceOne \autoBeamOff \voiceA }
-\lyricsto "voiceA" \new Lyrics \lyricA
+\new Lyrics \lyricsto "voiceA" \lyricA
 \new Voice = "voiceB" { \voiceTwo \autoBeamOff \voiceB }
-\lyricsto "voiceB" \new Lyrics \lyricB
+\new Lyrics \lyricsto "voiceB" \lyricB
 >>
 }
 >>

@@ -1,4 +1,6 @@
-\version "2.13.16"
+\version "2.13.18"
+#(ly:set-option 'crop #t)
+
 %\header {
 %    title = "Sudraboti gaiļi dzied"
 %    (Deprecated -> Sk. "Jānīšami treji vārti")
@@ -49,8 +51,8 @@ fullScore = <<
 \new Staff {
 <<
 \new Voice = "voiceA" { \voiceOne \autoBeamOff \voiceA }
-\lyricsto "voiceA" \new Lyrics \lyricAA
-\lyricsto "voiceA" \new Lyrics \lyricAB
+\new Lyrics \lyricsto "voiceA" \lyricAA
+\new Lyrics \lyricsto "voiceA" \lyricAB
 \new Voice = "voiceB" { \voiceTwo \autoBeamOff \voiceB }
 >>
 }

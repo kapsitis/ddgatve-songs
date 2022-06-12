@@ -1,4 +1,6 @@
-\version "2.13.16"
+\version "2.13.18"
+#(ly:set-option 'crop #t)
+
 %\header {
 %    title = "Ai, nama māmīna"
 %}
@@ -57,8 +59,8 @@ fullScore = <<
 \new Staff {
 <<
 \new Voice = "voiceA" { \oneVoice \autoBeamOff \voiceA }
-\lyricsto "voiceA" \new Lyrics \lyricA
-\lyricsto "voiceA" \new Lyrics \lyricB
+\new Lyrics \lyricsto "voiceA" \lyricA
+\new Lyrics \lyricsto "voiceA" \lyricB
 >>
 }
 >>

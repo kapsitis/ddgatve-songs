@@ -1,4 +1,5 @@
 ﻿\version "2.13.18"
+#(ly:set-option 'crop #t)
 
 \paper {
 line-width = 14\cm
@@ -33,7 +34,7 @@ fullScore = <<
 <<
 \new Voice = "voiceA" { \oneVoice \autoBeamOff \voiceA }
 %\new Voice = "voiceB" { \voiceTwo \autoBeamOff \voiceB }
-\lyricsto "voiceA" \new Lyrics  \lyricA
+\new Lyrics \lyricsto "voiceA"  \lyricA
 >>
 }
 >>

@@ -1,4 +1,6 @@
-\version "2.13.16"
+\version "2.13.18"
+#(ly:set-option 'crop #t)
+
 %\header {
 %    title = "Jau Jānītis aizvakar"
 %}
@@ -18,11 +20,11 @@ voiceA = \relative c' {
 \clef "treble"
 \key e \minor
 \time 2/4 
+\repeat volta 2 {
 e8 e e e | e8 d d d | g4 g | fis8[ e] e4 |
 e8 e e e | e8 d d d | 
-\time 3/4
-g4 g2 | g8[ fis] e2 
-\bar "|." 
+g4 g4 | g fis4 
+}
 } 
 
 
@@ -36,11 +38,11 @@ voiceB = \relative c' {
 \clef "treble"
 \key e \minor
 \time 2/4 
+\repeat volta 2 {
 e8 e e e | e8 d d d | d4 d | d8[ e] e4 |
 e8 e e e | e8 d d d | 
-\time 3/4
-d4 d2 | d4 e2 
-\bar "|." 
+d4 d4 | d4 d4 
+}
 } 
 
 chordsA = \chordmode {
@@ -68,7 +70,7 @@ fullScore = <<
 \new Staff {
 <<
 \new Voice = "voiceA" { \voiceOne \autoBeamOff \voiceA }
-\lyricsto "voiceA" \new Lyrics \lyricA
+\new Lyrics \lyricsto "voiceA" \lyricA
 \new Voice = "voiceB" { \voiceTwo \autoBeamOff \voiceB }
 >>
 }

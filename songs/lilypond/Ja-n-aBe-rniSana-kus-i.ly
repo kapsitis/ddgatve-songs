@@ -1,4 +1,6 @@
-\version "2.13.16"
+\version "2.13.18"
+#(ly:set-option 'crop #t)
+
 %\header {
 %    title = "Jāņa bērni sanākuši"
 %}
@@ -62,9 +64,9 @@ fullScore = <<
 <<
 \new Voice = "voiceA" { \voiceOne \autoBeamOff \voiceA }
 \new Voice = "voiceB" { \voiceTwo \autoBeamOff \voiceB }
-\lyricsto "voiceA" \new Lyrics \lyricAA
-\lyricsto "voiceA" \new Lyrics \lyricAB
-\lyricsto "voiceB" \new Lyrics \lyricB
+\new Lyrics \lyricsto "voiceA" \lyricAA
+\new Lyrics \lyricsto "voiceA" \lyricAB
+\new Lyrics \lyricsto "voiceB" \lyricB
 >>
 }
 >>

@@ -1,4 +1,6 @@
-\version "2.13.16"
+\version "2.13.18"
+#(ly:set-option 'crop #t)
+
 %\header {
 %    title = "Vilks dara alu"
 %}
@@ -53,7 +55,7 @@ fullScore = <<
 \new Staff {
 <<
 \new Voice = "voiceMain" { \oneVoice \autoBeamOff \voiceMain }
-\lyricsto "voiceMain" \new Lyrics \lyricA
+\new Lyrics \lyricsto "voiceMain" \lyricA
 >>
 }
 \new Staff {

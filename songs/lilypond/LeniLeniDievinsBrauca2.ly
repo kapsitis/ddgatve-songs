@@ -1,4 +1,6 @@
-\version "2.13.16"
+\version "2.13.18"
+#(ly:set-option 'crop #t)
+
 %\header {
 %    title = "Lēni, lēni Dieviņš brauca"
 %}
@@ -37,7 +39,7 @@ fontSize = #-3
 } { 
   \key a \minor
   << \new Voice = "voiceAB" { \oneVoice \autoBeamOff c4 b8[ g] a1 }
-  \lyricsto "voiceAB" \new Lyrics { le -- ji -- ņā. } >>    
+  \new Lyrics \lyricsto "voiceAB" { le -- ji -- ņā. } >>    
 }
 >> \oneVoice
 
@@ -55,7 +57,7 @@ fullScore = <<
 \new Staff {
 <<
 \new Voice = "voiceA" { \oneVoice \autoBeamOff \voiceA }
-\lyricsto "voiceA" \new Lyrics \lyricA
+\new Lyrics \lyricsto "voiceA" \lyricA
 >>
 }
 >>
