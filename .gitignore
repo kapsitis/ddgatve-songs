@@ -9,7 +9,7 @@ png/*.png
 svg/*.svg
 midi/*.midi
 midi/*.mid
-/books
+#/books
 /resources/*.pdf
 /songs/mp3
 /songs/xml-old

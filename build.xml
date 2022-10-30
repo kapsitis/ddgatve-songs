@@ -73,10 +73,10 @@
 
 	<target name="make" description="Creates PNG and MIDI from LilyPond">
 		<fail unless="song" message="Missing parameter 'song'" />
-        <!--
 		<exec executable="C:/Program Files (x86)/LilyPond/usr/bin/lilypond.exe">
-        -->
+        <!--
         <exec executable="/usr/local/bin/lilypond">
+        -->
 			<arg value="-fpng" />
             <arg value="&#x002D;&#x002D;output=${current.dir}" />
 			<arg value="${current.dir}/${song}.ly" />
@@ -98,10 +98,10 @@
 
 
         <echo>Attempt to convert to SVG: ${current.dir}/${song}.ly in directory ${current.dir}</echo>
-        <!--
         <exec executable="C:/Program Files (x86)/LilyPond/usr/bin/lilypond.exe">
-        -->
+        <!--
         <exec executable="/usr/local/bin/lilypond">
+        -->
 			<arg value="-fsvg" />
             <arg value="&#x002D;&#x002D;output=${current.dir}" />
 			<arg value="${current.dir}/${song}.ly" />
