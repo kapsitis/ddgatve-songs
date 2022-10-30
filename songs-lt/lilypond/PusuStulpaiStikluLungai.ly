@@ -1,4 +1,6 @@
-\version "2.13.16"
+\version "2.13.18"
+#(ly:set-option 'crop #t)
+
 %\header {
 %    title = "Pušų stulpai, stiklų lungai"
 %}
@@ -29,18 +31,18 @@ voiceA = \relative c' {
 \clef "treble"
 \key c \major
 \time 6/8
-g'8 d'4 d8 b4 | a8 d4 d8 b4 
-<< {  
+g'8 d'4 d8 b4 | a8 d4 d8 b4
+<< {
 \repeat volta 2 {
 a8 a\rheel g\lheel b b b | a8 d4 d8 b4
 }
 \repeat volta 2 {
 \time 4/8
-g8 a b a 
+g8 a b a
 \time 6/8
-a8 d4 d8 b4 
+a8 d4 d8 b4
 }
-} 
+}
 \new Staff \with {
 \remove "Time_signature_engraver"
 alignAboveContext = #"main"
@@ -50,35 +52,35 @@ fontSize = #-3
 }
 { \voiceOne
 \repeat volta 2 {
-b8 a a b b a | g8 d'4 d8 b4  
+b8 a a b b a | g8 d'4 d8 b4
 }
 \repeat volta 2 {
 \time 4/8
-g8 a b b 
+g8 a b b
 s2.
 }
 }
 >>
-} 
+}
 
 lyricA = \lyricmode {
-Pu -- šų stul -- pai, stik -- lų lun -- gai. Vis ba -- re, vis ba -- re ma -- ni pat -- sai. 
-Aš ru -- ge -- lius pra -- skleis -- da -- ma... 
+Pu -- šų stul -- pai, stik -- lų lun -- gai. Vis ba -- re, vis ba -- re ma -- ni pat -- sai.
+Aš ru -- ge -- lius pra -- skleis -- da -- ma...
 }
 
 voiceB = \relative c' {
 \clef "treble"
 \key c \major
-\time 6/8 
-g'8 b4 a8 g4 | a8 b4 a8 g4 
+\time 6/8
+g'8 b4 a8 g4 | a8 b4 a8 g4
 \repeat volta 2 {
 d8 d d g g g | a8 b4 a8 g4
 }
 \repeat volta 2 {
 \time 4/8
-g8 a b a 
+g8 a b a
 \time 6/8
-a8 b4 a8 g4 
+a8 b4 a8 g4
 }
 
 }
@@ -88,7 +90,7 @@ fullScore = <<
 \new Staff {
 <<
 \new Voice = "voiceA" { \voiceOne \autoBeamOff \voiceA }
-\lyricsto "voiceA" \new Lyrics \lyricA
+\new Lyrics \lyricsto "voiceA" \lyricA
 \new Voice = "voiceB" { \voiceTwo \autoBeamOff \voiceB }
 >>
 }
@@ -107,5 +109,3 @@ fullScore = <<
 \context { \Voice \consists "Staff_performer" }
 }
 }
-
-

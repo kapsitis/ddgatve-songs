@@ -1,4 +1,6 @@
-\version "2.13.16"
+\version "2.13.18"
+#(ly:set-option 'crop #t)
+
 %\header {
 %    title = "Ant kalno karklai siūbavo"
 %}
@@ -17,11 +19,11 @@ voiceA = \relative c' {
 \clef "treble"
 \key c \major
 \time 4/4
-c4 c8 d e4 f | e4 d c2 | e4 e8 f g4 a | g4 f e2 
+c4 c8 d e4 f | e4 d c2 | e4 e8 f g4 a | g4 f e2
 \repeat volta 2 {
 e8 e e f g g f e | d8 d d e f f e d | e4 a g2 | f4 g8 f e2
-} 
-} 
+}
+}
 
 voiceB = \relative c' {
 \clef "treble"
@@ -30,8 +32,8 @@ voiceB = \relative c' {
 c4 c8 d e4 f | e4 d c2 | c4 c8 d e4 f | e4 d c2 |
 \repeat volta 2 {
 c8 c c d e e d c | b8 b b c d d c b | c4 f e4.( c8) | d4 e8 d c2
-} 
-} 
+}
+}
 
 lyricA = \lyricmode {
 Ant kal -- no kar -- klai siū -- ba -- vo,
@@ -40,13 +42,13 @@ Ant kal -- no kar -- klai siū -- ba -- vo,
 Pa -- kal -- nėj van -- duo liū -- lia -- vo,
 Liū -- lia -- vo liū -- lia -- vo.
 
-} 
+}
 
 fullScore = <<
 \new Staff {
 <<
 \new Voice = "voiceA" { \voiceOne \autoBeamOff \voiceA }
-\lyricsto "voiceA" \new Lyrics \lyricA
+\new Lyrics \lyricsto "voiceA" \lyricA
 \new Voice = "voiceB" { \voiceTwo \autoBeamOff \voiceB }
 >>
 }

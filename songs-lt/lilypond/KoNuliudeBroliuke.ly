@@ -1,4 +1,6 @@
-\version "2.13.16"
+\version "2.13.18"
+#(ly:set-option 'crop #t)
+
 %\header {
 %    title = "Ko nuliūdε, broliukε"
 %}
@@ -23,21 +25,21 @@ g'8 g b b | a4 a8 c | b8 b b b | a4 a8 g |
 \repeat volta 2 {
 b8 b d d | c4 d | b8 b a g | a2
 }
-} 
+}
 
 lyricA = \lyricmode {
-Ko nu -- liū -- dε, bro -- liu -- kε, 
-Ko nu -- liū -- dε, jau -- na -- sε, 
+Ko nu -- liū -- dε, bro -- liu -- kε,
+Ko nu -- liū -- dε, jau -- na -- sε,
 Kam nu -- lai -- dε balts ronks ont sa -- va ke -- lal(ių)?
 }
 
 voiceB = \relative c' {
 \clef "treble"
 \key g \major
-\time 2/4 
+\time 2/4
 g'8 g g g | d4 d8 a'8 | g8 g g g | d4 d8 d
 \repeat volta 2 {
-g8 g <<g b>> <<g b>> | a4 a | g8 g fis e | d2 
+g8 g <<g b>> <<g b>> | a4 a | g8 g fis e | d2
 }
 }
 
@@ -46,7 +48,7 @@ fullScore = <<
 \new Staff {
 <<
 \new Voice = "voiceA" { \voiceOne \autoBeamOff \voiceA }
-\lyricsto "voiceA" \new Lyrics \lyricA
+\new Lyrics \lyricsto "voiceA" \lyricA
 \new Voice = "voiceB" { \voiceTwo \autoBeamOff \voiceB }
 >>
 }
@@ -65,5 +67,3 @@ fullScore = <<
 \context { \Voice \consists "Staff_performer" }
 }
 }
-
-

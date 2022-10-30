@@ -1,4 +1,6 @@
-\version "2.13.16"
+\version "2.13.18"
+#(ly:set-option 'crop #t)
+
 %\header {
 %    title = "Mačiau ėšjuojont"
 %}
@@ -29,34 +31,34 @@ ragged-last = ##f
 voiceA = \relative c' {
 \clef "treble"
 \key c \major
-\time 4/4 
-d'8. c16 b8 a d2 | d8 d d b a2 
+\time 4/4
+d'8. c16 b8 a d2 | d8 d d b a2
 \override Staff.TimeSignature #'stencil = #(compound-time "4" "3" "4")
 \time 7/4
-g8 a b a d2 \bar "dashed" d4 b2 
+g8 a b a d2 \bar "dashed" d4 b2
 \bar "|."
-} 
+}
 
 lyricA = \lyricmode {
-Ma -- čiau eš -- juo -- jont, ma -- čiau par -- juo -- jont, 
-ma -- čiau žėr -- gos bal -- nuo -- jont.  
+Ma -- čiau eš -- juo -- jont, ma -- čiau par -- juo -- jont,
+ma -- čiau žėr -- gos bal -- nuo -- jont.
 }
 
 voiceB = \relative c' {
 \clef "treble"
 \time 4/4
 \key c \major
-r2 <<g'2 b>> | <<g8 b>> <<g b>> a8 g d2 
+r2 <<g'2 b>> | <<g8 b>> <<g b>> a8 g d2
 \time 7/4
-g8 d g d <<g2 b>> a4 g2 
+g8 d g d <<g2 b>> a4 g2
 \bar "|."
-} 
+}
 
 fullScore = <<
 \new Staff {
 <<
 \new Voice = "voiceA" { \voiceOne \autoBeamOff \voiceA }
-\lyricsto "voiceA" \new Lyrics \lyricA
+\new Lyrics \lyricsto "voiceA" \lyricA
 \new Voice = "voiceB" { \voiceTwo \autoBeamOff \voiceB }
 >>
 }
@@ -75,5 +77,3 @@ fullScore = <<
 \context { \Voice \consists "Staff_performer" }
 }
 }
-
-

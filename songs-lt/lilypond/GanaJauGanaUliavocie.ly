@@ -1,4 +1,6 @@
-\version "2.13.16"
+\version "2.13.18"
+#(ly:set-option 'crop #t)
+
 %\header {
 %    title = "Gana, jau gana uliavocie"
 %}
@@ -20,23 +22,23 @@ ragged-last = ##f
 voiceA = \relative c' {
 \clef "treble"
 \key c \major
-\time 3/4 
+\time 3/4
 c'4 b8( d) a4 | g4 d2 | b'8( c) d4.( e8) | d8( b) d4 r |
 c4 d a | g4 d2 | \phrasingSlurDashed c'4\( \times 2/3 { \slurSolid b8[( d b])\) } a4 | g2.
 \bar "|."
-} 
+}
 
 lyricA = \lyricmode {
-Ga -- na, jau ga -- na u -- lia -- vo -- cie, čė -- sas, jau čė -- sas na -- mo ai -- cie. 
+Ga -- na, jau ga -- na u -- lia -- vo -- cie, čė -- sas, jau čė -- sas na -- mo ai -- cie.
 }
 
 
 fullScore = <<
 \new Staff {
 <<
-\new Voice = "voiceA" { 
+\new Voice = "voiceA" {
 \oneVoice \autoBeamOff \voiceA }
-\lyricsto "voiceA" \new Lyrics \lyricA
+\new Lyrics \lyricsto "voiceA" \lyricA
 >>
 }
 >>
@@ -54,5 +56,3 @@ fullScore = <<
 \context { \Voice \consists "Staff_performer" }
 }
 }
-
-

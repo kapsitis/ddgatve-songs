@@ -1,4 +1,6 @@
-\version "2.13.16"
+\version "2.13.18"
+#(ly:set-option 'crop #t)
+
 %\header {
 %    title = "Aš šių naktį"
 %}
@@ -20,7 +22,7 @@ voiceA = \relative c' {
 \clef "treble"
 \key c \major
 \time 2/4
-<< { d'8.\rheel 
+<< { d'8.\rheel
 \override ParenthesesItem #'font-size = #0
 c16-\parenthesize\prall\rheel b8 a | d4 d | b4 a8 \breathe r }
 \new Staff \with {
@@ -36,15 +38,15 @@ fontSize = #-3
 \new Voice = "voiceAB" { \voiceTwo \autoBeamOff r2 | b8 b a a  | g8( d) d r }
 >> }
 >>
-b'8 b c16[( a]) a[( d]) | d4 d | b4 a8 \breathe  r  
+b'8 b c16[( a]) a[( d]) | d4 d | b4 a8 \breathe  r
 \repeat volta 2 {
 b8 b c16[( a]) a[( d]) | d8 d d d
 }
 \alternative { { b8( a) a8 \breathe r } { b2 } }
-} 
+}
 
 lyricA = \lyricmode {
-Aš šių nak -- tį par nak -- te -- lį, 
+Aš šių nak -- tį par nak -- te -- lį,
 aš me -- ge -- lia ne -- me -- go -- jau,
 ly -- gioj lan -- koj žir -- ge -- lį bal -- no -- jau,
 -noj(au).
@@ -54,11 +56,11 @@ ly -- gioj lan -- koj žir -- ge -- lį bal -- no -- jau,
 voiceB = \relative c' {
 \clef "treble"
 \key c \major
-\time 2/4 
+\time 2/4
 r2 | b'4 a | g4 d8 r |
 g8 g a a | b4 a | g4 d8 r
 \repeat volta 2 {
-g8 g a a | b8 b  a a 
+g8 g a a | b8 b  a a
 }
 \alternative { { g8( d) d8 r } { g2 } }
 }
@@ -68,7 +70,7 @@ fullScore = <<
 \new Staff {
 <<
 \new Voice = "voiceA" { \voiceOne \autoBeamOff \voiceA }
-\lyricsto "voiceA" \new Lyrics \lyricA
+\new Lyrics \lyricsto "voiceA" \lyricA
 \new Voice = "voiceB" { \voiceTwo \autoBeamOff \voiceB }
 >>
 }
@@ -87,5 +89,3 @@ fullScore = <<
 \context { \Voice \consists "Staff_performer" }
 }
 }
-
-

@@ -1,4 +1,6 @@
-\version "2.13.16"
+\version "2.13.18"
+#(ly:set-option 'crop #t)
+
 %\header {
 %    title = "An tėveliaus dvaro"
 %}
@@ -44,7 +46,7 @@ g16( d') c[( a]) bes8 a g g bes \bar "dashed" d4( g,8) d'8 c[( bes]) }
 >>
 d8 ees d c g g d' \bar "dashed" ees[( d]) c g4.
 \bar "|."
-} 
+}
 
 lyricA = \lyricmode {
 An tė -- ve -- liaus dva -- ro ber -- žai ber -- žai.
@@ -58,7 +60,7 @@ voiceB = \relative c' {
 \override Staff.TimeSignature #'stencil = #(compound-time "7" "6" "8")
 \time 13/8
 bes'8 a bes a g g bes \bar "dashed" bes4( bes8) bes8 c[( bes]) |
-bes8 c bes a g g bes \bar "dashed" c8[( bes]) a g4.  
+bes8 c bes a g g bes \bar "dashed" c8[( bes]) a g4.
 }
 
 
@@ -66,7 +68,7 @@ fullScore = <<
 \new Staff {
 <<
 \new Voice = "voiceA" { \voiceOne \autoBeamOff \voiceA }
-\lyricsto "voiceA" \new Lyrics \lyricA
+\new Lyrics \lyricsto "voiceA" \lyricA
 \new Voice = "voiceB" { \voiceTwo \autoBeamOff \voiceB }
 >>
 }
@@ -85,5 +87,3 @@ fullScore = <<
 \context { \Voice \consists "Staff_performer" }
 }
 }
-
-

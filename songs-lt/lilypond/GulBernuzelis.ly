@@ -1,4 +1,6 @@
-\version "2.13.16"
+\version "2.13.18"
+#(ly:set-option 'crop #t)
+
 %\header {
 %    title = "Gul bernužėlis"
 %}
@@ -34,28 +36,28 @@ fontSize = #-3
 c4 d
 }
 \repeat volta 2 {
-b8 b d8. a16 | a8 a a fis | g8 g fis g 
+b8 b d8. a16 | a8 a a fis | g8 g fis g
 }
 \alternative { { a4 \breathe d } { a2 } }
-} 
+}
 
 lyricA = \lyricmode {
-Gul ber -- nu -- žė -- lis, gul ka -- rei -- vė -- lis. 
-štai at -- ai -- na trys pa -- nia -- las pa -- gal du -- na -- jė -- lia. 
+Gul ber -- nu -- žė -- lis, gul ka -- rei -- vė -- lis.
+štai at -- ai -- na trys pa -- nia -- las pa -- gal du -- na -- jė -- lia.
 -jė(lia).
 }
 
 voiceB = \relative c' {
 \clef "treble"
 \key g \major
-\time 2/4 
+\time 2/4
 \repeat volta 2 {
-b'4 g8 g | g4 b | a4 a8 g | a4 b 
+b'4 g8 g | g4 b | a4 a8 g | a4 b
 }
 \repeat volta 2 {
-g8 g g8. d16 | d8 d d d | e8 e e e 
+g8 g g8. d16 | d8 d d d | e8 e e e
 }
-\alternative { { 
+\alternative { {
 % \override ParenthesesItem #'padding = #0.2
 \override ParenthesesItem #'font-size = #0
 d4 <<\parenthesize d b'>> } { d,2 } }
@@ -66,7 +68,7 @@ fullScore = <<
 \new Staff {
 <<
 \new Voice = "voiceA" { \voiceOne \autoBeamOff \voiceA }
-\lyricsto "voiceA" \new Lyrics \lyricA
+\new Lyrics \lyricsto "voiceA" \lyricA
 \new Voice = "voiceB" { \voiceTwo \autoBeamOff \voiceB }
 >>
 }
@@ -85,5 +87,3 @@ fullScore = <<
 \context { \Voice \consists "Staff_performer" }
 }
 }
-
-

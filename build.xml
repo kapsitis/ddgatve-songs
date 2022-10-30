@@ -23,11 +23,11 @@
 	</path>
 
 	<path id="fop.classpath">
-    
-    
+
+
 		<fileset dir="/tools/fop-2.7/fop/lib" includes="*.jar" />
 		<fileset dir="/tools/fop-2.7/fop/build" includes="*.jar" />
-    
+
     <!--
 		<fileset dir="/tools/fop-1.0/lib" includes="*.jar" />
 		<fileset dir="/tools/fop-1.0/build" includes="*.jar" />
@@ -73,7 +73,10 @@
 
 	<target name="make" description="Creates PNG and MIDI from LilyPond">
 		<fail unless="song" message="Missing parameter 'song'" />
+        <!--
 		<exec executable="C:/Program Files (x86)/LilyPond/usr/bin/lilypond.exe">
+        -->
+        <exec executable="/usr/local/bin/lilypond">
 			<arg value="-fpng" />
             <arg value="&#x002D;&#x002D;output=${current.dir}" />
 			<arg value="${current.dir}/${song}.ly" />
@@ -84,55 +87,58 @@
 			<arg value="${current.dir}/${song}.png" />
 			<arg value="${current.dir}/${song}.new.png" />
 		</java>
--->    
+-->
 
-    
+
 
 
 		<move file="${current.dir}/${song}.cropped.png" tofile="${current.dir}/../png/${song}.png"  failonerror="false"/>
 
 
-        
-        
+
+
         <echo>Attempt to convert to SVG: ${current.dir}/${song}.ly in directory ${current.dir}</echo>
+        <!--
         <exec executable="C:/Program Files (x86)/LilyPond/usr/bin/lilypond.exe">
+        -->
+        <exec executable="/usr/local/bin/lilypond">
 			<arg value="-fsvg" />
             <arg value="&#x002D;&#x002D;output=${current.dir}" />
-			<arg value="${current.dir}/${song}.ly" />       
+			<arg value="${current.dir}/${song}.ly" />
 		</exec>
-        
+
 
         <move file="${current.dir}/${song}.cropped.svg" tofile="${current.dir}/../svg/${song}.svg" failonerror="false"/>
 
 
-        <!-- LEAVE OUT! --> 
+        <!-- LEAVE OUT! -->
         <!--
-        <echo>Waiting for SVG file: ${basedir}/${song}.svg</echo>        
+        <echo>Waiting for SVG file: ${basedir}/${song}.svg</echo>
         <waitfor maxwait="5" maxwaitunit="second">
             <available file="${basedir}/${song}.svg"/>
         </waitfor>
         -->
-        
+
         <!--
 		<java classname="lv.webkursi.songs.lilypond.FrameSvg" classpathref="main.classpath">
 			<arg value="${basedir}/${song}.svg" />
 			<arg value="${current.dir}/../svg/${song}.svg" />
 		</java>
         -->
-        
-        
-        
-        
+
+
+
+
 		<move file="${current.dir}/${song}.midi" tofile="${current.dir}/../midi/${song}.midi" failonerror="false" />
 		<move file="${current.dir}/${song}.mid" tofile="${current.dir}/../midi/${song}.midi" failonerror="false" />
-        
+
         <delete file="${current.dir}/${song}.midi" />
 		<delete file="${current.dir}/${song}.cropped.png" />
 		<delete file="${current.dir}/${song}.png" />
 		<delete file="${current.dir}/${song}.ps" />
 		<delete file="${current.dir}/${song}.cropped.svg" />
         <delete file="${current.dir}/${song}.svg" />
-        
+
 
         <!--
 		<java classpathref="main.classpath" fork="true" dir="." classname="lv.webkursi.songs.raster.Display">
@@ -200,7 +206,7 @@
 	</target>
 
 
-    <!-- http://www.sagehill.net/docbookxsl/AddFont.html --> 
+    <!-- http://www.sagehill.net/docbookxsl/AddFont.html -->
     <!--
     java -cp "../fop-0.93/build/fop.jar;../fop-0.93/lib/serializer-version.jar;\
 ../fop-0.93/lib/commons-logging-version.jar;../fop-0.93/lib/commons-io-version.jar" \
@@ -210,22 +216,22 @@ org.apache.fop.fonts.apps.TTFReader \
 java -cp "../fop-0.93/build/fop.jar;../fop-0.93/lib/serializer-version.jar;\
 ../fop-0.93/lib/commons-logging-version.jar;../fop-0.93/lib/commons-io-version.jar" \
 org.apache.fop.fonts.apps.TTFReader \
-/WINDOWS/FONTS/GARAIT.TTF  fonts/garamond-italic.xml    
+/WINDOWS/FONTS/GARAIT.TTF  fonts/garamond-italic.xml
     -->
-    
-    <target name="export-fonts" description="Convert TTF files to their metric files">    
-        <java classpathref="fop.classpath" fork="true" dir="." classname="org.apache.fop.fonts.apps.TTFReader"> 
+
+    <target name="export-fonts" description="Convert TTF files to their metric files">
+        <java classpathref="fop.classpath" fork="true" dir="." classname="org.apache.fop.fonts.apps.TTFReader">
             <arg value="source-files/TTF/JOURRG__.TTF" />
-            <arg value="source-files/xml/journal-rg.xml" />        
+            <arg value="source-files/xml/journal-rg.xml" />
         </java>
-        
-        <java classpathref="fop.classpath" fork="true" dir="." classname="org.apache.fop.fonts.apps.TTFReader"> 
+
+        <java classpathref="fop.classpath" fork="true" dir="." classname="org.apache.fop.fonts.apps.TTFReader">
             <arg value="source-files/TTF/NOVALRG_.TTF" />
-            <arg value="source-files/xml/novarese-light-rg.xml" />        
+            <arg value="source-files/xml/novarese-light-rg.xml" />
         </java>
-        
+
     </target>
-    
+
 
 	<target name="foo">
 		<foreach target="bar" param="song">

@@ -1,4 +1,6 @@
-\version "2.13.16"
+\version "2.13.18"
+#(ly:set-option 'crop #t)
+
 %\header {
 %    title = "Ei skaudė graudė"
 %}
@@ -20,7 +22,7 @@ voiceA = \relative c' {
 \clef "treble"
 \key g \major
 \time 6/8
-<< { d'4. d4 c8 | b4( a8) a8[ g a] | b4. \times 3/4 { c4\reverseturn c\reverseturn } } 
+<< { d'4. d4 c8 | b4( a8) a8[ g a] | b4. \times 3/4 { c4\reverseturn c\reverseturn } }
 \new Staff \with {
 \remove "Time_signature_engraver"
 alignAboveContext = #"main"
@@ -33,32 +35,32 @@ fontSize = #-3
 \new Voice = "voiceAB" { \autoBeamOff \voiceTwo b4( c8) b4 a8 | s2. | g4 g8 s4. }
 >> }
 >>
-d'4( e8) e4. 
+d'4( e8) e4.
 \repeat volta 2 {
 \slurDashed d4( e8) d4-\parenthesize\rheel c8-\parenthesize\lheel | \slurSolid b4( a8) a4.-\parenthesize\lheel | \slurDashed d4( b8) \slurSolid c[( b]) a | b4.( b4.)
 }
-} 
+}
 
 lyricA = \lyricmode {
-Ei skau -- dė grau -- dė mo -- na šėr -- de -- lė, 
-ne-ga -- lio so -- grinž -- tė aš_i tie -- vėš -- kel(ė) 
+Ei skau -- dė grau -- dė mo -- na šėr -- de -- lė,
+ne-ga -- lio so -- grinž -- tė aš_i tie -- vėš -- kel(ė)
 }
 
 voiceB = \relative c' {
 \clef "treble"
 \key g \major
-\time 6/8 
-b'4. b4 a8 | g4( d8) d4. | g4. \times 3/4 { a4 a } | <<g4 b(>> c8) c4.  
+\time 6/8
+b'4. b4 a8 | g4( d8) d4. | g4. \times 3/4 { a4 a } | <<g4 b(>> c8) c4.
 \repeat volta 2 {
-\slurDashed b4( c8) b4 a8 | \slurSolid g4( d8) d4. | \slurDashed b'4( g8) \slurSolid a[( g]) d | g4.( g) 
+\slurDashed b4( c8) b4 a8 | \slurSolid g4( d8) d4. | \slurDashed b'4( g8) \slurSolid a[( g]) d | g4.( g)
 }
-} 
+}
 
 fullScore = <<
 \new Staff {
 <<
 \new Voice = "voiceA" { \voiceOne \autoBeamOff \voiceA }
-\lyricsto "voiceA" \new Lyrics \lyricA
+\new Lyrics \lyricsto "voiceA" \lyricA
 \new Voice = "voiceB" { \voiceTwo \autoBeamOff \voiceB }
 >>
 }
@@ -77,5 +79,3 @@ fullScore = <<
 \context { \Voice \consists "Staff_performer" }
 }
 }
-
-

@@ -5,7 +5,10 @@
 <project name="webkursi-songs" basedir=".">
 	<taskdef resource="net/sf/antcontrib/antcontrib.properties" >
     <classpath>
+    <!--
     <pathelement location="c:/Users/kalvis.apsitis/workspace/ddgatve-songs/lib-ant/ant-contrib-1.0b3.jar"/>
+    -->
+    <pathelement location="~/workspace-public/ddgatve-songs/lib-ant/ant-contrib-1.0b3.jar"/>
   </classpath>
     </taskdef>
 
@@ -14,10 +17,13 @@
 			<property name="current.dir" value="${basedir}" />
 		</ant>
 	</target>
-    
 
-	<target name="aaatemp">    
+
+	<target name="aaatemp">
+        <!--
             <exec executable="C:/Program Files (x86)/LilyPond/usr/bin/lilypond.exe">
+            -->
+            <exec executable="/usr/local/bin/lilypond">
 			<arg value="-fsvg" />
 			<arg value="AiBaliniAiBalini.ly" />
 		</exec>

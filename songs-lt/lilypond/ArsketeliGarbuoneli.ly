@@ -1,4 +1,6 @@
-\version "2.13.16"
+\version "2.13.18"
+#(ly:set-option 'crop #t)
+
 %\header {
 %    title = "Arškėtėli garbuonėli"
 %}
@@ -21,11 +23,11 @@ voiceA = \relative c' {
 \tempo 4=84
 \clef "treble"
 \key c \major
-\time 4/4 
+\time 4/4
 \override Glissando #'style = #'zigzag
 \override Glissando #'zigzag-width = #'0.75
 \override Glissando #'bound-details = #'((right (attach-dir . 0) (padding . 1.0)) (left (attach-dir . 0) (padding . 1.0)))
-d'4. c8 b[( a])\glissando g4 | c4 d e\glissando c | 
+d'4. c8 b[( a])\glissando g4 | c4 d e\glissando c |
 << { e4 e d\glissando c | g2 d'4.\rheel( b8) | e8[( d]) e4 d c }
 
 \new Staff \with {
@@ -43,11 +45,11 @@ fontSize = #-3
 
 g2\rheel
 \bar "|."
-} 
+}
 
 lyricA = \lyricmode {
-Arš -- kė -- tė -- li gar -- buo -- nė -- li, 
-ne -- sto -- vėk prie ke -- lio, 
+Arš -- kė -- tė -- li gar -- buo -- nė -- li,
+ne -- sto -- vėk prie ke -- lio,
 ne -- sto -- vėk prie ke(lio).
 }
 
@@ -58,17 +60,16 @@ voiceB = \relative c' {
 \override Glissando #'style = #'zigzag
 \override Glissando #'zigzag-width = #'0.75
 \override Glissando #'bound-details = #'((right (attach-dir . 0) (padding . 1.0)) (left (attach-dir . 0) (padding . 1.0)))
-d'4. c8 b[( a]) g4 | a4 g c\glissando g | 
+d'4. c8 b[( a]) g4 | a4 g c\glissando g |
 c4 c b a | g2 b4.( g8) | c8[( b]) c4 b a | g2
 \bar "|."
-} 
+}
 
 fullScore = <<
 \new Staff {
 <<
-\new Voice = "voiceA" { 
-\voiceOne \autoBeamOff \voiceA }
-\lyricsto "voiceA" \new Lyrics \lyricA
+\new Voice = "voiceA" { \voiceOne \autoBeamOff \voiceA }
+\new Lyrics \lyricsto "voiceA" \lyricA
 \new Voice = "voiceB" { \voiceTwo \autoBeamOff \voiceB }
 >>
 }
@@ -87,5 +88,3 @@ fullScore = <<
 \context { \Voice \consists "Staff_performer" }
 }
 }
-
-

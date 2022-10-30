@@ -1,4 +1,6 @@
-\version "2.13.16"
+\version "2.13.18"
+#(ly:set-option 'crop #t)
+
 %\header {
 %    title = "Vuoi mėiga mėiga"
 %}
@@ -21,15 +23,15 @@ voiceA = \relative c' {
 \tempo 4=108
 \clef "treble"
 \key c \major
-\time 3/4 
+\time 3/4
 d'4 b b | d2 d4 | c2 b4 | a2. |
-c4 c d | e2 e4 | d2 d4 | b2.  
+c4 c d | e2 e4 | d2 d4 | b2.
 \bar "|."
-} 
+}
 
 lyricA = \lyricmode {
-Vuoi mėi -- ga mėi -- ga mėi -- ge -- lė, 
-Aš ta mėi -- ge -- lė ne -- la -- ba. 
+Vuoi mėi -- ga mėi -- ga mėi -- ge -- lė,
+Aš ta mėi -- ge -- lė ne -- la -- ba.
 
 }
 
@@ -37,17 +39,17 @@ voiceB = \relative c' {
 \clef "treble"
 \time 3/4
 \key c \major
-b'4 g g | b2 b4 | a2 g4 | d2. | 
-a'4 a b | c2 c4 | b2 a4 | g2. 
+b'4 g g | b2 b4 | a2 g4 | d2. |
+a'4 a b | c2 c4 | b2 a4 | g2.
 \bar "|."
-} 
+}
 
 fullScore = <<
 \new Staff {
 <<
-\new Voice = "voiceA" { 
+\new Voice = "voiceA" {
 \voiceOne \autoBeamOff \voiceA }
-\lyricsto "voiceA" \new Lyrics \lyricA
+\new Lyrics \lyricsto "voiceA" \lyricA
 \new Voice = "voiceB" { \voiceTwo \autoBeamOff \voiceB }
 >>
 }
@@ -66,5 +68,3 @@ fullScore = <<
 \context { \Voice \consists "Staff_performer" }
 }
 }
-
-
