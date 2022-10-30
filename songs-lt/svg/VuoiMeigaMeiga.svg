@@ -1,0 +1,524 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="140.00mm" height="27.70mm" viewBox="0.0000 -0.0000 79.6677 15.7627">
+<style type="text/css">
+<![CDATA[
+tspan { white-space: pre; }
+]]>
+</style>
+<g transform="translate(0.0000, -0.3846)">
+<text font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>__</tspan>
+</text>
+</g>
+<g transform="translate(77.4825, -0.3846)">
+<text font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>__</tspan>
+</text>
+</g>
+<g transform="translate(0.0000, 9.7278)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="79.6177" y2="0"/>
+</g>
+<g transform="translate(0.0000, 8.7278)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="79.6177" y2="0"/>
+</g>
+<g transform="translate(0.0000, 7.7278)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="79.6177" y2="0"/>
+</g>
+<g transform="translate(0.0000, 6.7278)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="79.6177" y2="0"/>
+</g>
+<g transform="translate(0.0000, 5.7278)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="79.6177" y2="0"/>
+</g>
+<g transform="translate(28.0139, 7.7278)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(19.4692, 7.7278)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(79.0677, 7.7278)">
+<rect x="0.0000" y="-2.0000" width="0.6000" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(78.5777, 7.7278)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(71.3414, 7.7278)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(62.7789, 7.7278)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(54.2414, 7.7278)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(43.8397, 7.7278)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(36.6014, 7.7278)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:42:0:1">
+<g transform="translate(8.6047, 7.7278)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(0.8000, 8.7278)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:25:0:1">
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:40:0:1">
+<g transform="translate(5.1366, 7.7278)">
+<path transform="scale(0.0040, -0.0040)" d="M263 265c0 -33 70 -23 70 -125c0 -92 -79 -140 -179 -140c-79 0 -154 42 -154 113c0 36 30 66 66 66s65 -30 65 -66c0 -25 -40 -28 -40 -53c0 -27 32 -37 63 -37c49 0 63 61 63 117v16c0 54 -2 94 -50 94h-80c-10 0 -14 8 -14 15s4 14 14 14h80c49 0 50 43 50 99v8
+c0 54 -18 91 -67 91c-29 0 -59 -8 -59 -33c0 -22 36 -25 36 -47c0 -32 -26 -58 -58 -58s-57 26 -57 58c0 65 67 103 138 103c91 0 169 -33 169 -114c0 -122 -56 -80 -56 -121z" fill="currentColor"/>
+</g>
+<g transform="translate(5.0000, 9.7439)">
+<path transform="scale(0.0040, -0.0040)" d="M196 117h117c0 -48 27 -94 72 -94c8 0 12 -5 12 -11s-4 -12 -12 -12c-44 0 -87 13 -131 13s-87 -13 -131 -13c-8 0 -12 6 -12 12s4 11 12 11c45 0 73 46 73 94zM-2 148c0 12 140 143 140 336c0 10 7 19 16 16c23 -7 47 -13 71 -13s48 6 71 13c14 4 23 -9 17 -16
+l-284 -330h167v131c0 34 34 27 68 72c22 30 23 56 36 56c6 0 13 -5 13 -14v-245h72c10 0 15 -7 15 -14s-5 -15 -15 -15h-72v-8h-117v8h-167c-23 0 -31 14 -31 23z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:33:0:1">
+<g transform="translate(6.8668, 14.9426)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Vuoi</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:23:0:1">
+<g transform="translate(5.0000, 2.7629)">
+<rect x="1.0449" y="-2.6727" width="0.1158" height="2.5129" ry="0.0193" fill="currentColor"/>
+</g>
+<g transform="translate(5.0000, 2.7629)">
+<path transform="scale(0.0036, -0.0036)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(6.1607, 3.2517)">
+<text font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan> = 108</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(9.8439, 7.7278)">
+<rect x="-0.0650" y="-4.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(8.6697, 7.7278)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:27:26:27">
+<g transform="translate(38.7015, 8.2278)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:42:26:27">
+<g transform="translate(38.7015, 10.2278)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:33:38:39">
+<g transform="translate(38.1952, 14.9426)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>lė,</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(40.5288, 8.2278)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(40.0139, 7.7278)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(40.5288, 10.2278)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(38.7665, 7.7278)">
+<rect x="-0.0650" y="2.7590" width="0.1300" height="2.2410" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:27:0:1">
+<g transform="translate(8.6047, 6.7278)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:33:19:20">
+<g transform="translate(23.5208, 14.9426)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:28:0:1">
+<g transform="translate(45.0149, 7.2278)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:43:0:1">
+<g transform="translate(45.0149, 8.2278)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:34:0:1">
+<g transform="translate(44.3012, 14.9426)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Aš</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(46.2541, 7.7278)">
+<rect x="-0.0650" y="-3.6667" width="0.1300" height="2.9806" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(45.0799, 7.7278)">
+<rect x="-0.0650" y="0.6861" width="0.1300" height="2.9806" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:33:29:30">
+<g transform="translate(32.0369, 14.9426)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:28:3:4">
+<g transform="translate(48.0552, 7.2278)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:43:4:5">
+<g transform="translate(48.0552, 8.2278)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:34:3:4">
+<g transform="translate(47.8196, 14.9426)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ta</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(49.2944, 7.7278)">
+<rect x="-0.0650" y="-3.6667" width="0.1300" height="2.9806" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(48.1202, 7.7278)">
+<rect x="-0.0650" y="0.6861" width="0.1300" height="2.9806" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:33:35:36">
+<g transform="translate(36.4367, 14.9426)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:28:5:6">
+<g transform="translate(51.2367, 6.7278)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:43:6:7">
+<g transform="translate(51.2367, 7.7278)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:34:6:7">
+<g transform="translate(50.0451, 14.9426)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>mėi</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(52.4759, 7.7278)">
+<rect x="-0.0650" y="-4.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(51.3017, 7.7278)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:28:9:10">
+<g transform="translate(55.4695, 6.2278)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:43:10:11">
+<g transform="translate(55.4695, 7.2278)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:34:13:14">
+<g transform="translate(54.9973, 14.9426)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ge</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(56.7819, 7.7278)">
+<rect x="-0.0650" y="-4.3333" width="0.1300" height="2.5743" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(55.5345, 7.7278)">
+<rect x="-0.0650" y="-0.2410" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:28:12:13">
+<g transform="translate(59.8099, 6.2278)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:43:13:14">
+<g transform="translate(59.8099, 7.2278)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:34:19:20">
+<g transform="translate(59.5743, 14.9426)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>lė</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(61.0492, 7.7278)">
+<rect x="-0.0650" y="-4.3333" width="0.1300" height="2.6472" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(59.8749, 7.7278)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:34:10:11">
+<g transform="translate(54.0349, 14.9426)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:34:16:17">
+<g transform="translate(58.1167, 14.9426)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:28:17:18">
+<g transform="translate(63.9785, 6.7278)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:43:18:19">
+<g transform="translate(63.9785, 7.7278)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:34:22:23">
+<g transform="translate(63.5063, 14.9426)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ne</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(65.2908, 7.7278)">
+<rect x="-0.0650" y="-4.0000" width="0.1300" height="2.7410" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(64.0435, 7.7278)">
+<rect x="-0.0650" y="0.2590" width="0.1300" height="3.0743" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:28:20:21">
+<g transform="translate(68.3189, 6.7278)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:43:21:22">
+<g transform="translate(68.3189, 8.2278)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:34:28:29">
+<g transform="translate(68.0833, 14.9426)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>la</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(69.5581, 7.7278)">
+<rect x="-0.0650" y="-4.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(68.3839, 7.7278)">
+<rect x="-0.0650" y="0.6861" width="0.1300" height="2.9806" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:34:25:26">
+<g transform="translate(66.6256, 14.9426)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:28:25:26">
+<g transform="translate(73.4839, 7.7278)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:43:26:27">
+<g transform="translate(73.4839, 8.7278)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:34:34:35">
+<g transform="translate(72.7044, 14.9426)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ba.</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(75.3112, 7.2278)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(74.7962, 7.7278)">
+<rect x="-0.0650" y="-3.3333" width="0.1300" height="3.0743" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(75.3112, 9.2278)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(73.5489, 7.7278)">
+<rect x="-0.0650" y="1.2590" width="0.1300" height="2.7410" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:34:31:32">
+<g transform="translate(70.9516, 14.9426)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:27:4:5">
+<g transform="translate(13.2885, 7.7278)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:42:4:5">
+<g transform="translate(13.2885, 8.7278)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:33:5:6">
+<g transform="translate(12.0969, 14.9426)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>mėi</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(14.5277, 7.7278)">
+<rect x="-0.0650" y="-3.3333" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(13.3535, 7.7278)">
+<rect x="-0.0650" y="1.1861" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:27:6:7">
+<g transform="translate(16.3931, 7.7278)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:42:6:7">
+<g transform="translate(16.3931, 8.7278)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:33:12:13">
+<g transform="translate(15.8844, 14.9426)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ga</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(17.6323, 7.7278)">
+<rect x="-0.0650" y="-3.3333" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(16.4581, 7.7278)">
+<rect x="-0.0650" y="1.1861" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:27:10:11">
+<g transform="translate(20.6688, 6.7278)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:42:10:11">
+<g transform="translate(20.6688, 7.7278)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:33:15:16">
+<g transform="translate(19.5137, 14.9426)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>mėi</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(21.9811, 7.7278)">
+<rect x="-0.0650" y="-4.0000" width="0.1300" height="2.7410" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(20.7338, 7.7278)">
+<rect x="-0.0650" y="0.2590" width="0.1300" height="3.0743" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(33.5903, 7.7278)">
+<rect x="-0.0650" y="1.1861" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:27:13:14">
+<g transform="translate(25.0092, 6.7278)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:42:13:14">
+<g transform="translate(25.0092, 7.7278)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:33:22:23">
+<g transform="translate(24.5005, 14.9426)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ga</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(26.2484, 7.7278)">
+<rect x="-0.0650" y="-4.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(25.0742, 7.7278)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:27:18:19">
+<g transform="translate(29.1849, 7.2278)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:42:18:19">
+<g transform="translate(29.1849, 8.2278)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:33:25:26">
+<g transform="translate(28.0298, 14.9426)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>mėi</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(30.4972, 7.7278)">
+<rect x="-0.0650" y="-3.6667" width="0.1300" height="2.9077" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(29.2499, 7.7278)">
+<rect x="-0.0650" y="0.7590" width="0.1300" height="2.9077" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:27:21:22">
+<g transform="translate(33.5253, 7.7278)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:42:21:22">
+<g transform="translate(33.5253, 8.7278)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/VuoiMeigaMeiga.ly:33:32:33">
+<g transform="translate(33.0166, 14.9426)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ge</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(34.7645, 7.7278)">
+<rect x="-0.0650" y="-3.3333" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<g color="rgb(100%, 100%, 100%)">
+<g transform="translate(0.0000, 15.4756)">
+<text font-family="sans-serif" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>__</tspan>
+</text>
+</g>
+</g>
+</svg>

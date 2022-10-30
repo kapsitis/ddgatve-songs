@@ -1,0 +1,903 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="141.56mm" height="42.70mm" viewBox="-0.8877 -0.0000 80.5554 24.3014">
+<style type="text/css">
+<![CDATA[
+tspan { white-space: pre; }
+]]>
+</style>
+<g transform="translate(0.0000, -0.3846)">
+<text font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>__</tspan>
+</text>
+</g>
+<g transform="translate(77.4825, -0.3846)">
+<text font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>__</tspan>
+</text>
+</g>
+<g transform="translate(0.0000, 5.8902)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="79.6177" y2="0"/>
+</g>
+<g transform="translate(0.0000, 4.8902)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="79.6177" y2="0"/>
+</g>
+<g transform="translate(0.0000, 3.8902)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="79.6177" y2="0"/>
+</g>
+<g transform="translate(0.0000, 2.8902)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="79.6177" y2="0"/>
+</g>
+<g transform="translate(0.0000, 1.8902)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="79.6177" y2="0"/>
+</g>
+<g transform="translate(43.9437, 3.8902)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(26.9153, 3.8902)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(79.4777, 3.8902)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(62.4493, 3.8902)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:31:6:7">
+<g transform="translate(16.7279, 11.5166)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(11.3940, 3.8902)">
+<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:31:13:14">
+<g transform="translate(20.8839, 11.5166)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:24:29:30">
+<g transform="translate(58.2592, 3.8902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:40:31:32">
+<g transform="translate(58.2592, 4.8902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:32:16:17">
+<g transform="translate(57.4773, 11.5166)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>dε,</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(59.4984, 3.8902)">
+<rect x="-0.0650" y="-3.3750" width="0.1300" height="3.1889" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(59.5634, 0.5552)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(58.3242, 3.8902)">
+<rect x="-0.0650" y="1.1861" width="0.1300" height="2.9389" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(58.3892, 7.9752)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:31:24:25">
+<g transform="translate(32.5815, 11.5166)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:24:33:34">
+<g transform="translate(64.1478, 4.3902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:40:35:36">
+<g transform="translate(64.1478, 6.3902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:32:20:21">
+<g transform="translate(63.2976, 11.5166)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>jau</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(65.3870, 3.8902)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(64.2128, 3.8902)">
+<rect x="-0.0650" y="2.6861" width="0.1300" height="2.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(0.8000, 4.8902)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:22:0:1">
+<g transform="translate(4.3000, 1.8902)">
+<path transform="scale(0.0040, -0.0040)" d="M216 -312c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 15 13 18l46 17v158
+c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17v-158zM96 65v-160l83 30v160z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:39:0:1">
+<g transform="translate(6.6183, 3.8902)">
+<path transform="scale(0.0040, -0.0040)" d="M229 0c-88 0 -90 66 -144 66c-30 0 -59 -20 -62 -55c-1 -7 -6 -11 -11 -11c-6 0 -12 4 -12 11c0 156 235 169 235 344c0 60 -18 122 -70 122c-26 0 -51 -14 -51 -37c0 -27 35 -41 35 -68c0 -38 -30 -69 -68 -69s-69 31 -69 69c0 76 72 128 153 128c96 0 187 -56 187 -145
+c0 -153 -151 -159 -249 -220c9 2 17 3 26 3c83 0 111 -59 171 -59c48 0 38 38 55 38c6 0 12 -5 12 -12c0 -22 -44 -105 -138 -105z" fill="currentColor"/>
+</g>
+<g transform="translate(6.5500, 5.9063)">
+<path transform="scale(0.0040, -0.0040)" d="M196 117h117c0 -48 27 -94 72 -94c8 0 12 -5 12 -11s-4 -12 -12 -12c-44 0 -87 13 -131 13s-87 -13 -131 -13c-8 0 -12 6 -12 12s4 11 12 11c45 0 73 46 73 94zM-2 148c0 12 140 143 140 336c0 10 7 19 16 16c23 -7 47 -13 71 -13s48 6 71 13c14 4 23 -9 17 -16
+l-284 -330h167v131c0 34 34 27 68 72c22 30 23 56 36 56c6 0 13 -5 13 -14v-245h72c10 0 15 -7 15 -14s-5 -15 -15 -15h-72v-8h-117v8h-167c-23 0 -31 14 -31 23z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:31:31:32">
+<g transform="translate(37.9123, 11.5166)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:24:36:37">
+<g transform="translate(71.0974, 4.3902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:40:38:39">
+<g transform="translate(71.0974, 6.3902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:32:27:28">
+<g transform="translate(70.5887, 11.5166)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>na</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(72.3366, 3.8902)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(72.4016, 0.9302)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(71.1624, 3.8902)">
+<rect x="-0.0650" y="2.6861" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(71.2274, 9.3502)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<g transform="translate(11.4590, 1.4302)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:24:39:40">
+<g transform="translate(75.2876, 4.8902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:40:41:42">
+<g transform="translate(75.2876, 6.3902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:32:33:34">
+<g transform="translate(74.6422, 11.5166)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>sε,</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(76.5268, 3.8902)">
+<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(76.5918, 1.4302)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(75.3526, 3.8902)">
+<rect x="-0.0650" y="2.6861" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(75.4176, 9.3502)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<g transform="translate(10.2197, 3.8902)">
+<rect x="-0.0650" y="1.1861" width="0.1300" height="2.9389" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(10.2847, 7.9752)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:32:6:7">
+<g transform="translate(52.2619, 11.5166)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:32:13:14">
+<g transform="translate(56.4179, 11.5166)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:24:4:5">
+<g transform="translate(14.3449, 4.8902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:40:4:5">
+<g transform="translate(14.3449, 4.8902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:31:3:4">
+<g transform="translate(13.7678, 11.5166)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>nu</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(15.5841, 3.8902)">
+<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(15.6491, 1.4302)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(14.4099, 3.8902)">
+<rect x="-0.0650" y="1.1861" width="0.1300" height="2.9389" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(14.4749, 7.9752)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:24:0:1">
+<g transform="translate(10.1547, 4.8902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:24:6:7">
+<g transform="translate(18.5350, 3.8902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:40:6:7">
+<g transform="translate(18.5350, 4.8902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:31:9:10">
+<g transform="translate(17.8897, 11.5166)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>liū</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(19.7742, 3.8902)">
+<rect x="-0.0650" y="-3.3750" width="0.1300" height="3.1889" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(19.8392, 0.5552)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(18.6000, 3.8902)">
+<rect x="-0.0650" y="1.1861" width="0.1300" height="2.9389" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(18.6650, 7.9752)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:40:0:1">
+<g transform="translate(10.1547, 4.8902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:24:8:9">
+<g transform="translate(22.7252, 3.8902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:40:8:9">
+<g transform="translate(22.7252, 4.8902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:31:16:17">
+<g transform="translate(21.9433, 11.5166)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>dε,</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(23.9644, 3.8902)">
+<rect x="-0.0650" y="-3.3750" width="0.1300" height="3.1889" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(24.0294, 0.5552)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(22.7902, 3.8902)">
+<rect x="-0.0650" y="1.1861" width="0.1300" height="2.9389" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(22.8552, 7.9752)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:32:24:25">
+<g transform="translate(68.1154, 11.5166)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:32:30:31">
+<g transform="translate(73.4463, 11.5166)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:24:12:13">
+<g transform="translate(28.6138, 4.3902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:40:12:13">
+<g transform="translate(28.6138, 6.3902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:31:20:21">
+<g transform="translate(27.6270, 11.5166)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>bro</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(29.8530, 3.8902)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(28.6788, 3.8902)">
+<rect x="-0.0650" y="2.6861" width="0.1300" height="2.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:24:15:16">
+<g transform="translate(35.5634, 4.3902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:40:15:16">
+<g transform="translate(35.5634, 6.3902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:31:27:28">
+<g transform="translate(34.9181, 11.5166)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>liu</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(36.8026, 3.8902)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(36.8676, 0.9302)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(35.6284, 3.8902)">
+<rect x="-0.0650" y="2.6861" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(35.6934, 9.3502)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:24:18:19">
+<g transform="translate(39.7536, 3.3902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:40:18:19">
+<g transform="translate(39.7536, 4.3902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:31:34:35">
+<g transform="translate(38.9717, 11.5166)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>kε,</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(40.9928, 3.8902)">
+<rect x="-0.0650" y="-3.7500" width="0.1300" height="3.0639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(41.0578, 0.1802)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(39.8186, 3.8902)">
+<rect x="-0.0650" y="0.6861" width="0.1300" height="3.0639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(39.8836, 7.6002)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<g transform="translate(54.1990, 7.9752)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:24:22:23">
+<g transform="translate(45.6887, 3.8902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:40:24:25">
+<g transform="translate(45.6887, 4.8902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:32:0:1">
+<g transform="translate(44.8385, 11.5166)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Ko</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(46.9280, 3.8902)">
+<rect x="-0.0650" y="-3.3750" width="0.1300" height="3.1889" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(46.9930, 0.5552)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(45.7537, 3.8902)">
+<rect x="-0.0650" y="1.1861" width="0.1300" height="2.9389" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(45.8187, 7.9752)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<g transform="translate(54.1340, 3.8902)">
+<rect x="-0.0650" y="1.1861" width="0.1300" height="2.9389" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:24:25:26">
+<g transform="translate(49.8789, 3.8902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:40:27:28">
+<g transform="translate(49.8789, 4.8902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:32:3:4">
+<g transform="translate(49.3018, 11.5166)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>nu</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(51.1181, 3.8902)">
+<rect x="-0.0650" y="-3.3750" width="0.1300" height="3.1889" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(51.1831, 0.5552)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(49.9439, 3.8902)">
+<rect x="-0.0650" y="1.1861" width="0.1300" height="2.9389" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(50.0089, 7.9752)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:31:0:1">
+<g transform="translate(9.3045, 11.5166)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Ko</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:24:27:28">
+<g transform="translate(54.0690, 3.8902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:40:29:30">
+<g transform="translate(54.0690, 4.8902)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:32:9:10">
+<g transform="translate(53.4237, 11.5166)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>liū</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(55.3082, 3.8902)">
+<rect x="-0.0650" y="-3.3750" width="0.1300" height="3.1889" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(55.3732, 0.5552)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(0.0000, 18.2762)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="79.6177" y2="0"/>
+</g>
+<g transform="translate(0.0000, 17.2762)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="79.6177" y2="0"/>
+</g>
+<g transform="translate(0.0000, 16.2762)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="79.6177" y2="0"/>
+</g>
+<g transform="translate(0.0000, 15.2762)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="79.6177" y2="0"/>
+</g>
+<g transform="translate(0.0000, 14.2762)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="79.6177" y2="0"/>
+</g>
+<g transform="translate(64.3050, 16.2762)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(44.5307, 16.2762)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(27.6070, 16.2762)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(77.8277, 15.7762)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(77.8277, 16.7762)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(79.0677, 16.2762)">
+<rect x="0.0000" y="-2.0000" width="0.6000" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(78.5777, 16.2762)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(7.8900, 15.7762)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(7.8900, 16.7762)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(7.4000, 16.2762)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(6.5000, 16.2762)">
+<rect x="0.0000" y="-2.0000" width="0.6000" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(38.2582, 16.2762)">
+<rect x="-0.0650" y="-4.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(-0.8877, 13.2057)">
+<text font-family="serif" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>5</tspan>
+</text>
+</g>
+<g transform="translate(0.8000, 17.2762)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(4.3000, 14.2762)">
+<path transform="scale(0.0040, -0.0040)" d="M216 -312c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 15 13 18l46 17v158
+c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17v-158zM96 65v-160l83 30v160z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:33:7:8">
+<g transform="translate(16.7288, 23.4861)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:33:14:15">
+<g transform="translate(21.2602, 23.4861)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:26:0:1">
+<g transform="translate(9.6865, 16.2762)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:42:0:1">
+<g transform="translate(9.6865, 17.2762)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:33:0:1">
+<g transform="translate(7.9486, 23.4861)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Kam</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(10.9257, 16.2762)">
+<rect x="-0.0650" y="-3.3750" width="0.1300" height="3.1889" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(10.9907, 12.9412)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(9.7515, 16.2762)">
+<rect x="-0.0650" y="1.1861" width="0.1300" height="2.9389" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(9.8165, 20.3612)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:26:3:4">
+<g transform="translate(14.1666, 16.2762)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:42:3:4">
+<g transform="translate(14.1666, 17.2762)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:33:4:5">
+<g transform="translate(13.5896, 23.4861)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>nu</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(15.4059, 16.2762)">
+<rect x="-0.0650" y="-3.3750" width="0.1300" height="3.1889" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(15.4709, 12.9412)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(14.2316, 16.2762)">
+<rect x="-0.0650" y="1.1861" width="0.1300" height="2.9389" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(14.2966, 20.3612)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:26:5:6">
+<g transform="translate(18.6468, 15.2762)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:42:7:8">
+<g transform="translate(18.6468, 17.2762)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:42:9:10">
+<g transform="translate(18.6468, 16.2762)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:33:10:11">
+<g transform="translate(18.0697, 23.4861)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>lai</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(19.8860, 16.2762)">
+<rect x="-0.0650" y="-4.1250" width="0.1300" height="2.9389" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(19.9510, 12.1912)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(18.7118, 16.2762)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.9389" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(18.7768, 20.3612)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:26:7:8">
+<g transform="translate(23.1269, 15.2762)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:42:15:16">
+<g transform="translate(23.1269, 17.2762)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:42:17:18">
+<g transform="translate(23.1269, 16.2762)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:33:17:18">
+<g transform="translate(22.6523, 23.4861)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>dε</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(24.3661, 16.2762)">
+<rect x="-0.0650" y="-4.1250" width="0.1300" height="2.9389" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(24.4311, 12.1912)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(23.1919, 16.2762)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.9389" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(23.2569, 20.3612)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:33:39:40">
+<g transform="translate(53.3585, 23.4861)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:26:11:12">
+<g transform="translate(29.4894, 15.7762)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:42:23:24">
+<g transform="translate(29.4894, 16.7762)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:33:20:21">
+<g transform="translate(27.8197, 23.4861)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>balts</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(30.7286, 16.2762)">
+<rect x="-0.0650" y="-3.6667" width="0.1300" height="2.9806" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(29.5544, 16.2762)">
+<rect x="-0.0650" y="0.6861" width="0.1300" height="2.9806" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:26:14:15">
+<g transform="translate(37.0190, 15.2762)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:42:26:27">
+<g transform="translate(37.0190, 16.7762)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:33:26:27">
+<g transform="translate(34.9396, 23.4861)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ronks</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(37.0840, 16.2762)">
+<rect x="-0.0650" y="0.6861" width="0.1300" height="2.9806" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:33:48:49">
+<g transform="translate(62.6140, 23.4861)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:26:18:19">
+<g transform="translate(46.3845, 16.2762)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:42:30:31">
+<g transform="translate(46.3845, 17.2762)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:33:32:33">
+<g transform="translate(45.4660, 23.4861)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ont</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(47.6237, 16.2762)">
+<rect x="-0.0650" y="-3.3750" width="0.1300" height="3.1889" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(47.6887, 12.9412)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(46.4495, 16.2762)">
+<rect x="-0.0650" y="1.1861" width="0.1300" height="2.9389" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(46.5145, 20.3612)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:26:21:22">
+<g transform="translate(50.8646, 16.2762)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:42:33:34">
+<g transform="translate(50.8646, 17.2762)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:33:36:37">
+<g transform="translate(50.4924, 23.4861)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>sa</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(52.1038, 16.2762)">
+<rect x="-0.0650" y="-3.3750" width="0.1300" height="3.1889" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(52.1688, 12.9412)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(50.9296, 16.2762)">
+<rect x="-0.0650" y="1.1861" width="0.1300" height="2.9389" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(50.9946, 20.3612)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:26:23:24">
+<g transform="translate(55.3448, 16.7762)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:42:35:36">
+<g transform="translate(55.3448, 17.7762)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:33:42:43">
+<g transform="translate(54.8360, 23.4861)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>va</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(56.5840, 16.2762)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(56.6490, 13.3162)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(55.4098, 16.2762)">
+<rect x="-0.0650" y="1.6861" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(55.4748, 20.7362)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:26:25:26">
+<g transform="translate(59.8249, 17.2762)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:42:39:40">
+<g transform="translate(59.8249, 18.2762)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:33:45:46">
+<g transform="translate(59.3161, 23.4861)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ke</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(61.0641, 16.2762)">
+<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(61.1291, 13.8162)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(59.8899, 16.2762)">
+<rect x="-0.0650" y="2.1861" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(59.9549, 21.2362)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:26:29:30">
+<g transform="translate(67.1123, 16.7762)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:42:43:44">
+<g transform="translate(67.1123, 18.7762)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/kapsitis/workspace-public/ddgatve-songs/songs-lt/lilypond/KoNuliudeBroliuke.ly:33:51:52">
+<g transform="translate(64.2501, 23.4861)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>lal(ių)?</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(68.4246, 16.2762)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(67.1773, 16.2762)">
+<rect x="-0.0650" y="2.7590" width="0.1300" height="2.2410" ry="0.0400" fill="currentColor"/>
+</g>
+<g color="rgb(100%, 100%, 100%)">
+<g transform="translate(0.0000, 24.0143)">
+<text font-family="sans-serif" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>__</tspan>
+</text>
+</g>
+</g>
+</svg>
